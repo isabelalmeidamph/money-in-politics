@@ -50,6 +50,16 @@ Identical rows within a filing are flagged in `possible_duplicate_of`, never dro
 
 **Sample check (30 filings, 2020–2026):** 192 trades parsed. The row count matched an independent count of transaction-date lines in every file. All stock and option rows have a ticker.
 
+## Late-filing check
+
+```bash
+python3 scripts/compliance.py data/processed
+```
+
+Each trade must be reported by the earlier of 30 days after the filer was notified or 45 days after the trade ([House Ethics PTR calculator](https://ethics.house.gov/periodic-transaction-report-calculator)). "Filed" is the date the Clerk received the report, taken from the Clerk's index rather than anything the member wrote. When the self-reported notification date is missing or impossible, only the 45-day rule is used, and the row is flagged. Amendments aren't assessed, because their receipt date says nothing about the original filing.
+
+Outputs: `ptr_timeliness.parquet` (deadline, days late and a timeliness band for each trade) and `late_filers_by_member.csv`. Bands: on time / late within the 30-day grace period / 31–365 days late / over a year late. The $200 late fee applies after the 30-day grace period.
+
 ## Data sources
 
 | Source | Used for |
