@@ -1,0 +1,440 @@
+filing_id,line_no,warning,detail
+20005968,1,unknown_tx_type,P TRANSACTION
+20013832,4,notified_before_trade,
+20013832,10,notified_before_trade,
+20013879,6,possible_duplicate,same as line 4
+20013919,28,notified_before_trade,
+20014943,6,possible_duplicate,same as line 5
+20014973,14,possible_duplicate,same as line 13
+20014978,7,possible_duplicate,"same as line 4, across page break"
+20015011,28,possible_duplicate,same as line 27
+20015054,1,notified_before_trade,
+20016151,6,possible_duplicate,same as line 5
+20016152,3,possible_duplicate,same as line 2
+20016181,28,possible_duplicate,same as line 27
+20016181,31,possible_duplicate,same as line 30
+20016196,88,possible_duplicate,same as line 86
+20016299,25,notified_before_trade,
+20016355,6,possible_duplicate,same as line 5
+20016373,28,possible_duplicate,same as line 27
+20016373,31,possible_duplicate,same as line 30
+20016373,35,possible_duplicate,same as line 34
+20016373,36,possible_duplicate,same as line 34
+20016373,41,possible_duplicate,same as line 40
+20016403,8,possible_duplicate,same as line 7
+20016403,12,possible_duplicate,same as line 11
+20016403,13,possible_duplicate,same as line 11
+20016403,14,possible_duplicate,same as line 11
+20016403,15,possible_duplicate,same as line 11
+20016465,2,possible_duplicate,same as line 1
+20016481,379,possible_duplicate,same as line 378
+20016520,21,possible_duplicate,same as line 20
+20016520,24,possible_duplicate,same as line 23
+20016551,2,possible_duplicate,same as line 1
+20016551,4,possible_duplicate,same as line 3
+20016555,9,possible_duplicate,same as line 8
+20016555,94,possible_duplicate,same as line 93
+20016569,5,possible_duplicate,same as line 4
+20016672,2,possible_duplicate,same as line 1
+20016695,4,implausible_date,notification_date 2002-05-14
+20016695,4,notified_before_trade,
+20016726,9,possible_duplicate,same as line 8
+20016765,3,possible_duplicate,same as line 2
+20016874,18,possible_duplicate,same as line 17
+20016887,39,bad_amount,$.01
+20016914,8,possible_duplicate,"same as line 6, across page break"
+20016914,9,possible_duplicate,same as line 7
+20016934,3,possible_duplicate,same as line 2
+20016957,14,possible_duplicate,same as line 13
+20016958,2,possible_duplicate,same as line 1
+20016958,6,possible_duplicate,same as line 5
+20016959,2,possible_duplicate,same as line 1
+20016961,7,possible_duplicate,"same as line 6, across page break"
+20016994,3,possible_duplicate,same as line 2
+20016994,6,possible_duplicate,same as line 4
+20016995,3,possible_duplicate,same as line 2
+20016995,5,possible_duplicate,same as line 4
+20017001,5,notified_before_trade,
+20017025,3,possible_duplicate,same as line 2
+20017025,4,possible_duplicate,same as line 2
+20017025,5,possible_duplicate,same as line 2
+20017031,9,possible_duplicate,same as line 8
+20017031,15,possible_duplicate,"same as line 14, across page break"
+20017031,35,possible_duplicate,same as line 33
+20017073,5,possible_duplicate,same as line 1
+20017073,6,possible_duplicate,same as line 2
+20017073,8,possible_duplicate,"same as line 3, across page break"
+20017076,4,possible_duplicate,same as line 3
+20017076,5,possible_duplicate,same as line 3
+20017076,6,possible_duplicate,same as line 3
+20017076,7,possible_duplicate,"same as line 3, across page break"
+20017076,8,possible_duplicate,"same as line 3, across page break"
+20017076,9,possible_duplicate,"same as line 3, across page break"
+20017076,10,possible_duplicate,"same as line 3, across page break"
+20017127,2,notified_before_trade,
+20017223,10,possible_duplicate,same as line 9
+20017223,12,possible_duplicate,same as line 11
+20017223,18,possible_duplicate,same as line 17
+20017223,19,possible_duplicate,same as line 15
+20017260,22,possible_duplicate,same as line 21
+20017260,25,possible_duplicate,same as line 24
+20017306,4,possible_duplicate,same as line 3
+20017356,4,bad_amount,$.25
+20017373,2,possible_duplicate,same as line 1
+20017373,3,possible_duplicate,same as line 1
+20017373,4,possible_duplicate,same as line 1
+20017373,5,possible_duplicate,same as line 1
+20017373,6,possible_duplicate,"same as line 1, across page break"
+20017373,7,possible_duplicate,"same as line 1, across page break"
+20017373,8,possible_duplicate,"same as line 1, across page break"
+20017373,9,possible_duplicate,"same as line 1, across page break"
+20017507,18,possible_duplicate,same as line 17
+20017513,9,possible_duplicate,same as line 8
+20017533,4,possible_duplicate,same as line 3
+20017541,3,possible_duplicate,same as line 2
+20017703,11,notified_before_trade,
+20017780,9,possible_duplicate,same as line 8
+20017789,3,possible_duplicate,same as line 2
+20017816,4,possible_duplicate,same as line 3
+20017816,6,possible_duplicate,"same as line 5, across page break"
+20017905,4,possible_duplicate,same as line 3
+20011417,39,notified_before_trade,
+20011417,68,notified_before_trade,
+20017743,1,notified_before_trade,
+20018065,4,possible_duplicate,same as line 3
+20018065,6,possible_duplicate,same as line 5
+20018065,23,notified_before_trade,
+20018065,37,possible_duplicate,"same as line 36, across page break"
+20018129,1,notified_before_trade,
+20018188,14,possible_duplicate,same as line 12
+20018188,23,possible_duplicate,same as line 22
+20018188,30,possible_duplicate,same as line 28
+20018188,36,possible_duplicate,same as line 35
+20018188,61,possible_duplicate,"same as line 60, across page break"
+20018188,62,possible_duplicate,"same as line 60, across page break"
+20018188,64,possible_duplicate,same as line 63
+20018188,66,possible_duplicate,same as line 65
+20018188,67,possible_duplicate,same as line 65
+20018190,23,notified_before_trade,
+20018190,43,possible_duplicate,"same as line 42, across page break"
+20018190,58,possible_duplicate,same as line 57
+20018385,14,possible_duplicate,same as line 13
+20018385,37,possible_duplicate,same as line 36
+20018385,53,possible_duplicate,same as line 52
+20018412,4,possible_duplicate,same as line 3
+20018465,40,notified_before_trade,
+20018550,3,notified_before_trade,
+20018587,2,possible_duplicate,same as line 1
+20018592,40,possible_duplicate,same as line 39
+20018601,4,possible_duplicate,same as line 3
+20018602,3,notified_before_trade,
+20018637,2,possible_duplicate,same as line 1
+20018672,7,implausible_date,tx_date 3031-04-30
+20018672,7,notified_before_trade,
+20018702,36,possible_duplicate,same as line 35
+20018752,6,possible_duplicate,same as line 5
+20018760,2,possible_duplicate,same as line 1
+20018760,13,possible_duplicate,same as line 11
+20018760,25,possible_duplicate,same as line 24
+20018760,28,possible_duplicate,same as line 26
+20018760,43,possible_duplicate,same as line 42
+20018760,64,possible_duplicate,same as line 63
+20018760,91,possible_duplicate,same as line 90
+20018852,4,possible_duplicate,same as line 1
+20018852,5,possible_duplicate,same as line 2
+20018998,9,possible_duplicate,"same as line 6, across page break"
+20018998,10,possible_duplicate,"same as line 5, across page break"
+20018998,15,possible_duplicate,same as line 14
+20018998,30,possible_duplicate,same as line 29
+20018998,35,possible_duplicate,same as line 34
+20019022,12,possible_duplicate,same as line 7
+20019040,2,notified_before_trade,
+20019040,23,notified_before_trade,
+20019092,9,possible_duplicate,same as line 8
+20019092,14,possible_duplicate,"same as line 12, across page break"
+20019092,27,possible_duplicate,same as line 26
+20019092,51,possible_duplicate,same as line 50
+20019092,66,possible_duplicate,same as line 65
+20019167,2,possible_duplicate,same as line 1
+20019167,3,possible_duplicate,same as line 1
+20019197,1,notified_before_trade,
+20019307,13,possible_duplicate,same as line 9
+20019307,14,possible_duplicate,same as line 10
+20019309,2,possible_duplicate,same as line 1
+20019309,3,possible_duplicate,same as line 1
+20019309,4,possible_duplicate,same as line 1
+20019320,1,notified_before_trade,
+20019374,10,notified_before_trade,
+20019374,18,notified_before_trade,
+20019374,33,possible_duplicate,same as line 32
+20019379,30,implausible_date,notification_date 2001-11-30
+20019379,30,notified_before_trade,
+20019379,203,possible_duplicate,same as line 202
+20019379,281,notified_before_trade,
+20019418,2,possible_duplicate,same as line 1
+20019443,5,possible_duplicate,same as line 4
+20019443,6,possible_duplicate,same as line 4
+20019443,8,possible_duplicate,same as line 7
+20019457,10,possible_duplicate,same as line 7
+20019457,12,possible_duplicate,same as line 9
+20019479,10,possible_duplicate,same as line 9
+20019506,24,possible_duplicate,same as line 23
+20019580,3,possible_duplicate,same as line 2
+20019581,4,possible_duplicate,same as line 3
+20019582,8,possible_duplicate,same as line 7
+20019582,9,possible_duplicate,"same as line 7, across page break"
+20019582,10,possible_duplicate,"same as line 7, across page break"
+20019582,11,possible_duplicate,"same as line 4, across page break"
+20019619,3,possible_duplicate,same as line 2
+20019734,4,possible_duplicate,same as line 3
+20019775,1,notified_before_trade,
+20019852,4,possible_duplicate,same as line 3
+20020006,2,possible_duplicate,same as line 1
+20020096,4,possible_duplicate,same as line 3
+20020102,2,possible_duplicate,same as line 1
+20020102,3,possible_duplicate,same as line 1
+20020112,7,possible_duplicate,"same as line 6, across page break"
+20020143,1,notified_before_trade,
+20020143,2,notified_before_trade,
+20020152,6,possible_duplicate,"same as line 5, across page break"
+20020290,2,possible_duplicate,same as line 1
+20020290,3,possible_duplicate,same as line 1
+20020391,6,possible_duplicate,"same as line 5, across page break"
+20020501,3,possible_duplicate,same as line 2
+20020543,2,notified_before_trade,
+20020560,2,possible_duplicate,same as line 1
+20020718,21,notified_before_trade,
+20020732,8,possible_duplicate,same as line 7
+20020732,12,possible_duplicate,same as line 11
+20020732,21,possible_duplicate,same as line 20
+20020732,22,possible_duplicate,same as line 19
+20020789,15,possible_duplicate,same as line 14
+20020828,23,notified_before_trade,
+20020865,2,possible_duplicate,same as line 1
+20020894,4,notified_before_trade,
+20020914,17,implausible_date,tx_date 2220-04-07
+20020914,17,notified_before_trade,
+20020995,1,notified_before_trade,
+20021129,2,possible_duplicate,same as line 1
+20021129,3,possible_duplicate,same as line 1
+20021311,2,possible_duplicate,same as line 1
+20021398,37,possible_duplicate,same as line 36
+20021441,1,notified_before_trade,
+20021585,2,possible_duplicate,same as line 1
+20021585,6,possible_duplicate,same as line 4
+20021676,12,possible_duplicate,same as line 11
+20021676,13,possible_duplicate,same as line 11
+20021676,17,possible_duplicate,same as line 16
+20021676,19,possible_duplicate,same as line 18
+20021741,2,possible_duplicate,same as line 1
+20021790,13,notified_before_trade,
+20021790,22,implausible_date,tx_date 2202-09-19
+20021790,22,notified_before_trade,
+20021790,26,notified_before_trade,
+20022068,7,notified_before_trade,
+20021261,5,possible_duplicate,same as line 4
+20022202,1,notified_before_trade,
+20022202,2,notified_before_trade,
+20022202,3,notified_before_trade,
+20022224,1,notified_before_trade,
+20022224,2,notified_before_trade,
+20022224,3,notified_before_trade,
+20022227,4,notified_before_trade,
+20022380,2,possible_duplicate,same as line 1
+20022380,5,possible_duplicate,same as line 4
+20022380,16,possible_duplicate,same as line 15
+20022380,22,possible_duplicate,same as line 21
+20022380,27,possible_duplicate,same as line 26
+20022412,68,possible_duplicate,same as line 67
+20022454,2,possible_duplicate,same as line 1
+20022624,1,notified_before_trade,
+20022624,2,notified_before_trade,
+20022624,3,notified_before_trade,
+20022894,2,possible_duplicate,same as line 1
+20022986,3,notified_before_trade,
+20022998,2,possible_duplicate,same as line 1
+20023057,1,notified_before_trade,
+20023082,52,notified_before_trade,
+20023082,110,notified_before_trade,
+20023178,1,notified_before_trade,
+20023220,3,possible_duplicate,same as line 2
+20023651,20,possible_duplicate,same as line 19
+20023779,2,possible_duplicate,same as line 1
+20023779,3,possible_duplicate,same as line 1
+20023797,2,possible_duplicate,same as line 1
+20023822,2,notified_before_trade,
+20024468,2,possible_duplicate,same as line 1
+20024468,4,possible_duplicate,same as line 3
+20024468,6,possible_duplicate,same as line 5
+20024468,8,possible_duplicate,same as line 7
+20024468,10,possible_duplicate,same as line 9
+20024468,15,possible_duplicate,same as line 14
+20024612,23,possible_duplicate,"same as line 21, across page break"
+20024612,24,possible_duplicate,"same as line 21, across page break"
+20024632,1,notified_before_trade,
+20024862,2,possible_duplicate,same as line 1
+20024862,4,possible_duplicate,same as line 3
+20024862,6,possible_duplicate,same as line 5
+20024862,8,possible_duplicate,same as line 7
+20024862,10,possible_duplicate,same as line 9
+20024862,12,possible_duplicate,same as line 11
+20025203,2,possible_duplicate,same as line 1
+20025203,4,possible_duplicate,same as line 3
+20025203,8,possible_duplicate,same as line 7
+20025446,1,implausible_date,notification_date 2204-06-22
+20025499,4,possible_duplicate,same as line 2
+20025680,4,possible_duplicate,same as line 3
+20025680,17,possible_duplicate,same as line 16
+20025719,94,notified_before_trade,
+20026021,6,possible_duplicate,"same as line 5, across page break"
+20026021,8,possible_duplicate,same as line 7
+20026021,10,possible_duplicate,same as line 9
+20026314,15,possible_duplicate,same as line 14
+20018054,3,possible_duplicate,same as line 2
+20018054,9,possible_duplicate,"same as line 8, across page break"
+20018054,13,possible_duplicate,same as line 12
+20018054,16,possible_duplicate,same as line 15
+20018054,24,possible_duplicate,same as line 23
+20024346,2,possible_duplicate,same as line 1
+20024346,8,possible_duplicate,same as line 7
+20024346,10,possible_duplicate,same as line 7
+20024346,17,possible_duplicate,same as line 16
+20024346,18,possible_duplicate,same as line 16
+20024346,26,notified_before_trade,
+20024346,26,possible_duplicate,"same as line 23, across page break"
+20024346,27,possible_duplicate,"same as line 22, across page break"
+20024346,44,possible_duplicate,same as line 43
+20024346,45,possible_duplicate,same as line 43
+20024346,47,possible_duplicate,same as line 46
+20024346,49,possible_duplicate,same as line 46
+20024346,61,possible_duplicate,same as line 60
+20024346,65,possible_duplicate,same as line 64
+20024346,66,possible_duplicate,same as line 64
+20024346,76,possible_duplicate,same as line 75
+20024346,77,possible_duplicate,"same as line 75, across page break"
+20024346,81,possible_duplicate,same as line 80
+20024346,84,possible_duplicate,same as line 83
+20024346,92,possible_duplicate,same as line 91
+20024346,103,possible_duplicate,same as line 102
+20024346,104,possible_duplicate,same as line 102
+20024346,112,possible_duplicate,same as line 111
+20024346,116,possible_duplicate,same as line 115
+20024346,117,possible_duplicate,same as line 115
+20024346,128,possible_duplicate,same as line 127
+20024346,129,possible_duplicate,same as line 127
+20026533,28,possible_duplicate,same as line 27
+20026537,3,notified_before_trade,
+20026537,4,notified_before_trade,
+20026577,5,possible_duplicate,same as line 4
+20026695,4,possible_duplicate,same as line 3
+20026727,3,possible_duplicate,same as line 2
+20027879,59,notified_before_trade,
+20027891,24,notified_before_trade,
+20029038,8,implausible_date,notification_date 1935-03-28
+20029038,8,notified_before_trade,
+20029038,11,implausible_date,notification_date 1935-03-28
+20029038,11,notified_before_trade,
+20029038,23,implausible_date,notification_date 1935-03-28
+20029038,23,notified_before_trade,
+20029038,28,implausible_date,notification_date 1935-03-28
+20029038,28,notified_before_trade,
+20029038,42,implausible_date,notification_date 1935-03-28
+20029038,42,notified_before_trade,
+20029038,43,implausible_date,notification_date 1935-03-28
+20029038,43,notified_before_trade,
+20029038,44,implausible_date,notification_date 1935-03-28
+20029038,44,notified_before_trade,
+20029038,49,implausible_date,notification_date 1935-03-28
+20029038,49,notified_before_trade,
+20029038,51,implausible_date,notification_date 1935-03-28
+20029038,51,notified_before_trade,
+20029038,59,implausible_date,notification_date 1935-03-28
+20029038,59,notified_before_trade,
+20029038,73,implausible_date,notification_date 1935-03-28
+20029038,73,notified_before_trade,
+20029038,82,implausible_date,notification_date 1935-03-28
+20029038,82,notified_before_trade,
+20029038,87,implausible_date,notification_date 1935-03-28
+20029038,87,notified_before_trade,
+20029038,95,implausible_date,notification_date 1935-03-28
+20029038,95,notified_before_trade,
+20029038,103,implausible_date,notification_date 1935-03-28
+20029038,103,notified_before_trade,
+20029038,105,implausible_date,notification_date 1935-03-28
+20029038,105,notified_before_trade,
+20029038,111,implausible_date,notification_date 1935-03-28
+20029038,111,notified_before_trade,
+20029038,113,implausible_date,notification_date 1935-03-28
+20029038,113,notified_before_trade,
+20029055,14,notified_before_trade,
+20030291,57,possible_duplicate,same as line 56
+20030291,103,possible_duplicate,same as line 102
+20030295,46,possible_duplicate,same as line 45
+20030296,99,possible_duplicate,same as line 98
+20030387,208,possible_duplicate,same as line 207
+20030472,6,possible_duplicate,same as line 4
+20030472,16,possible_duplicate,"same as line 15, across page break"
+20030472,32,possible_duplicate,same as line 31
+20030641,9,possible_duplicate,same as line 8
+20030711,4,possible_duplicate,same as line 3
+20030803,4,possible_duplicate,same as line 3
+20030803,13,possible_duplicate,same as line 12
+20030803,16,possible_duplicate,"same as line 12, across page break"
+20030803,17,possible_duplicate,"same as line 14, across page break"
+20030803,23,possible_duplicate,same as line 22
+20030803,24,possible_duplicate,same as line 22
+20030803,28,possible_duplicate,same as line 27
+20030803,37,possible_duplicate,same as line 36
+20030803,38,possible_duplicate,same as line 36
+20030803,40,possible_duplicate,same as line 39
+20030803,42,possible_duplicate,same as line 41
+20030803,44,possible_duplicate,"same as line 35, across page break"
+20030803,47,possible_duplicate,same as line 46
+20030803,50,possible_duplicate,same as line 49
+20030891,553,possible_duplicate,same as line 552
+20030891,662,possible_duplicate,same as line 661
+20030930,17,possible_duplicate,same as line 16
+20030930,96,possible_duplicate,same as line 95
+20031017,11,possible_duplicate,same as line 10
+20031017,15,possible_duplicate,same as line 14
+20031017,18,possible_duplicate,same as line 17
+20031017,24,possible_duplicate,same as line 23
+20031017,25,possible_duplicate,"same as line 23, across page break"
+20031017,30,possible_duplicate,same as line 29
+20031017,38,possible_duplicate,same as line 37
+20032061,1,notified_before_trade,
+20032061,2,notified_before_trade,
+20032061,3,notified_before_trade,
+20032061,4,notified_before_trade,
+20032061,5,notified_before_trade,
+20032061,6,notified_before_trade,
+20032061,7,notified_before_trade,
+20032061,8,notified_before_trade,
+20032061,9,notified_before_trade,
+20032061,10,notified_before_trade,
+20032061,11,notified_before_trade,
+20032106,3,possible_duplicate,same as line 1
+20032149,13,possible_duplicate,"same as line 11, across page break"
+20033326,7,possible_duplicate,"same as line 6, across page break"
+20033394,3,possible_duplicate,same as line 2
+20033493,4,possible_duplicate,same as line 3
+20033694,4,possible_duplicate,same as line 3
+20033694,5,possible_duplicate,same as line 3
+20019182,4,possible_duplicate,same as line 3
+20030977,187,notified_before_trade,
+20030977,195,notified_before_trade,
+20030977,197,possible_duplicate,"same as line 196, across page break"
+20033754,4,possible_duplicate,same as line 3
+20033889,1,notified_before_trade,
+20034201,9,possible_duplicate,same as line 8
+20034300,3,notified_before_trade,
+20034300,5,notified_before_trade,
+20034300,6,notified_before_trade,
+20034342,9,possible_duplicate,same as line 7
+20034520,1,notified_before_trade,
+20034622,2,possible_duplicate,same as line 1
+20034693,6,possible_duplicate,same as line 5
+20035067,1,notified_before_trade,
+20035434,15,possible_duplicate,same as line 11
+20035491,71,possible_duplicate,same as line 70
+20035563,28,possible_duplicate,same as line 27
