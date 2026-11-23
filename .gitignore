@@ -6,3 +6,6 @@ tmp/
 __pycache__/
 .venv/
 .DS_Store
+
+# downloaded filing PDFs (large; re-download with scripts/download_ptrs.py)
+data/ptr_pdfs/
