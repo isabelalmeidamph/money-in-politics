@@ -1209,7 +1209,7 @@ filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date
 8216960,2,5,SELF,Blackstone Group Inc,,purchase,2020-01-21,2020-02-04,A,high,Handwritten
 8216960,2,6,SELF,Hilton Worldwide Holdings,,purchase,2020-01-21,2020-02-04,A,high,Handwritten
 8216960,2,7,SELF,Sea Ltd ADR,,purchase,2020-01-24,2020-02-04,A,high,Handwritten
-8216960,2,8,SELF,OW Large Cap Strat. Fund,,sale,2020-01-10,2020-02-04,B,medium,Handwritten; fund name hard to read (OW or DW Large Cap Strategy Fund)
+8216960,2,8,SELF,OW Large Cap Strategies Fd,,sale,2020-01-10,2020-02-04,B,medium,"Handwritten; name confirmed by Schrader filing 8217051, which lists the same fund typed"
 8216960,2,9,SELF,Discover Financial Services,,sale,2020-01-21,2020-02-04,A,high,Handwritten
 8216960,2,10,SELF,Bookings Hldgs Inc,,sale,2020-01-21,2020-02-04,A,high,"Handwritten; written as Bookings, likely Booking Holdings"
 8216960,2,11,SELF,Activision Blizzard Inc,,sale,2020-01-24,2020-02-04,A,high,Handwritten
@@ -1221,10 +1221,10 @@ filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date
 8216969,1,3,JT,ISHARES DEC 2023 TERM CORP (IBDO),IBDO,sale,2020-01-23,2020-02-01,A,high,Typed on paper form
 8216969,1,4,JT,ISHARES DEC 2024 TERM CORP (IBDP),IBDP,purchase,2020-01-23,2020-02-01,A,high,Typed on paper form
 8216969,1,5,JT,ISHARES TR DEC 2026 TERM CORP (IBDR),IBDR,purchase,2020-01-23,2020-02-01,A,high,Typed on paper form
-8216969,2,6,JT,ISHARES TR DEC 2029 TERM CORP (IBDU),IBDU,purchase,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
-8216969,2,7,JT,SPDR SER TR PORTFOLIO INTER (SPTI),SPTI,sale,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
-8216969,2,8,JT,SELECT SPDR TR CONSUMER STAP (XLP),XLP,sale,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
-8216969,2,9,JT,SELECT SPDR TR COMMUNICATION (XLC),XLC,purchase,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
+8216969,2,6,JT,ISHARES TR DEC 2029 TERM CORP (IBDU),IBDU,purchase,2020-01-23,2020-02-01,,verified,Typed on paper form; no amount box marked. Reviewer confirmed the filing itself omits the amount
+8216969,2,7,JT,SPDR SER TR PORTFOLIO INTER (SPTI),SPTI,sale,2020-01-23,2020-02-01,,verified,Typed on paper form; no amount box marked. Reviewer confirmed the filing itself omits the amount
+8216969,2,8,JT,SELECT SPDR TR CONSUMER STAP (XLP),XLP,sale,2020-01-23,2020-02-01,,verified,Typed on paper form; no amount box marked. Reviewer confirmed the filing itself omits the amount
+8216969,2,9,JT,SELECT SPDR TR COMMUNICATION (XLC),XLC,purchase,2020-01-23,2020-02-01,,verified,Typed on paper form; no amount box marked. Reviewer confirmed the filing itself omits the amount
 8216915,2,1,SELF,"UnitedHealth Group, Inc",,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
 8216915,2,2,SELF,United Technologies Corp,,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
 8216915,2,3,SELF,Tiffany & Co.,,sale,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
@@ -1915,3 +1915,245 @@ filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date
 8216972,27,182,SELF,DANAHER CORP DE,,sale,2020-01-14,2020-02-13,A,high,Typed on paper form; asset name cut off at the box edge on the scan
 8216972,27,183,SELF,PROCTER & GAMBLE CO DE,,sale,2020-01-14,2020-02-13,A,high,Typed on paper form; asset name cut off at the box edge on the scan
 8216972,27,184,SELF,ACCENTURE PLC IRELAND CL A,,sale,2020-01-14,2020-02-13,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8216974,1,0,,,,,,,,high,Harold Rogers: form states NOTHING TO REPORT - no transactions
+8217005,1,1,SP,CHICAGO IL O'HARE INTERNATIONAL B REV,,sale,2020-01-10,2020-02-07,D,high,Handwritten; notification reads 2/7/20
+8217045,1,1,SELF,Home Depot,,purchase,2020-02-27,2020-02-27,A,high,Handwritten
+8217045,1,2,SELF,Starbucks,,purchase,2020-02-27,2020-02-27,A,high,Handwritten
+8217045,1,3,SELF,Amazon,,purchase,2020-02-27,2020-02-27,A,high,Handwritten
+8217045,1,4,SELF,Microsoft,,,2020-02-27,2020-02-27,A,medium,Handwritten; no transaction type box marked (purchase/sale/exchange all blank); likely a purchase like the rows above
+8217051,1,1,SELF,LVMH Moet Hennessy Vuitton,,purchase,2020-02-11,2020-02-28,A,high,Handwritten
+8217051,1,2,SELF,Citigroup Inc,,purchase,2020-02-24,2020-02-28,A,high,Handwritten
+8217051,1,3,SELF,Bank of America Corp,,purchase,2020-02-24,2020-02-28,A,high,Handwritten
+8217051,1,4,SELF,Chubb Limited,,sale,2020-02-11,2020-02-28,A,high,Handwritten
+8217051,2,5,SELF,OW Large Cap Strategies Fd,,sale,2020-02-11,2020-02-28,A,high,Handwritten
+8217051,2,6,SELF,Blackrock Inc,,sale,2020-02-12,2020-02-28,A,high,Handwritten
+8217051,2,7,SELF,MSCI Inc,,sale,2020-02-24,2020-02-28,A,high,Handwritten
+8217051,2,8,SELF,Service Now Inc,,sale,2020-02-24,2020-02-28,A,high,Handwritten
+8217006,2,1,SELF,Federated Municipal Ultrashort Bond Fund Inst,,purchase,2020-01-24,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217006,2,2,SELF,"Due from Energy Holdings, LLC (partial payment)",,partial sale,2020-01-31,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8216975,1,1,SELF,Amazon,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,1,2,SELF,Linde,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,1,3,SELF,Alphabet,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,1,4,SELF,Mastercard (CL A),,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,2,5,SELF,Charter Communications,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,2,6,SELF,FISERV,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,2,7,SELF,Honeywell,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,2,8,SELF,United Health,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,2,9,SELF,Apple,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,2,10,SELF,Microsoft,,sale,2020-02-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,2,11,SELF,Whirlpool,,sale,2020-02-06,2020-02-14,C,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,3,12,SELF,EOG,,sale,2020-01-31,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,3,13,SELF,Amazon,,purchase,2020-01-30,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,3,14,SELF,Diamondback Energy,,purchase,2020-01-30,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,3,15,SELF,Qualcomm,,sale,2020-01-23,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,3,16,SELF,Whirlpool,,sale,2020-01-22,2020-02-14,C,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,3,17,SELF,Thermo Fisher,,purchase,2020-01-13,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216975,3,18,SELF,Facebook,,purchase,2020-01-10,2020-02-14,A,high,Handwritten; filer note: these JP Morgan Trust transactions are managed w/o control or direction by me; I have no ownership in their holdings
+8216973,2,1,SP,PIMCO SHORT ASSET INVESTMENT FUND INSTITUTIONAL CLASS,,purchase,2020-01-28,2020-02-07,K,high,"Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST); only column K (spouse/DC amount over $1,000,000) marked"
+8216973,2,2,SP,Vanguard Short-Term Inflation-Protected Securities Index Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,K,high,"Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST); only column K (spouse/DC amount over $1,000,000) marked"
+8216973,2,3,SP,Vanguard Long-Term Tax-Exempt Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,F,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,4,SP,ELANCO ANIMAL HEALTH INC,,purchase,2020-01-14,2020-02-07,E,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,5,SP,AMAZON COM INC,,purchase,2020-01-14,2020-02-07,E,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,6,SP,PALO ALTO NETWORKS INC,,purchase,2020-01-14,2020-02-07,D,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,7,SP,NEW YORK N Y CITY TRANSITIONAL,,purchase,2020-01-21,2020-02-07,D,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,8,SP,Hilton Worldwide Holdings Inc.,,purchase,2020-01-15,2020-02-07,D,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,9,SP,WELLS FARGO & CO,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,10,SP,TRIPADVISOR INC,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,11,SP,Vanguard Long-Term Tax-Exempt Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,12,SP,LEAVENWORTH KANS,,purchase,2020-01-30,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,13,SP,Fiserv Inc,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,14,SP,Vanguard Long-Term Tax-Exempt Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,15,SP,BERKSHIRE HATHAWAY INC,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,16,SP,SCHLUMBERGER LTD,,purchase,2020-01-14,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,17,SP,FLORIDA ST BRD ED PUB ED CAP OUTLAY,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,18,SP,BOSTON SCIENTIFIC CORP,,purchase,2020-01-16,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,19,SP,UNIVERSITY TEX UNIV REVS,,purchase,2020-01-17,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,20,SP,COMCAST CORP,,purchase,2020-01-13,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,21,SP,EATON CORP PLC,,purchase,2020-01-09,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,22,SP,DOLLAR TREE INC,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,23,SP,HD SUPPLY HLDGS INC,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,24,SP,Liberty Tripadvisor Holdings,,purchase,2020-01-15,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,25,SP,SOUTHWEST AIRLS CO,,purchase,2020-01-13,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,26,SP,CHUBB LTD,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,27,SP,BOOKING HLDGS INC,,purchase,2020-01-29,2020-02-07,A,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,28,SP,NORTHERN TR CORP,,purchase,2020-01-17,2020-02-07,A,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,29,SP,QUEST DIAGNOSTICS INC,,purchase,2020-01-14,2020-02-07,A,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,30,SP,SCHWAB CHARLES CORP NEW,,purchase,2020-01-10,2020-02-07,A,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,2,31,SP,QUEST DIAGNOSTICS INC,,purchase,2020-01-21,2020-02-07,A,high,Typed schedule page 1 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,32,SP,BERKSHIRE HATHAWAY INC DEL,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,33,SP,UMB Financial Corp,,purchase,2020-01-31,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,34,SP,Veritex Holdings Inc,,purchase,2020-01-07,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,35,SP,Veritex Holdings Inc,,purchase,2020-01-06,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,36,SP,Veritex Holdings Inc,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,37,SP,Veritex Holdings Inc,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,38,SP,Veritex Holdings Inc,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,39,SP,NUTRIEN LTD,,purchase,2020-01-14,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,40,SP,Veritex Holdings Inc,,purchase,2020-01-08,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,41,SP,NEENAH PAPER INC,,purchase,2020-01-28,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,42,SP,Veritex Holdings Inc,,purchase,2020-01-03,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,43,SP,Veritex Holdings Inc,,purchase,2020-01-02,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,44,SP,Veritex Holdings Inc,,purchase,2020-01-02,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,45,SP,Veritex Holdings Inc,,purchase,2020-01-02,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,46,SP,NEENAH PAPER INC,,purchase,2020-01-27,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,47,SP,NEENAH PAPER INC,,purchase,2020-01-31,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,48,SP,NEENAH PAPER INC,,purchase,2020-01-29,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,49,SP,NEENAH PAPER INC,,purchase,2020-01-30,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,50,SP,NEENAH PAPER INC,,purchase,2020-01-24,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,51,SP,NEENAH PAPER INC,,purchase,2020-01-27,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,52,SP,OREGON ST HSG & CMNTY SVCS DEP,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,53,SP,ALBANY INTL CORP,,sale,2020-01-29,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,54,SP,TJX COS INC NEW,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,55,SP,SMITH & NEPHEW PLC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,56,SP,PACCAR INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,57,SP,TE CONNECTIVITY LTD,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,58,SP,UNILEVER PLC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,59,SP,National Bank Holdings,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,60,SP,National Bank Holdings,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,61,SP,National Bank Holdings,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,62,SP,ALBANY INTL CORP,,sale,2020-01-27,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,3,63,SP,National Bank Holdings,,sale,2020-01-03,2020-02-07,A,high,Typed schedule page 2 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,64,SP,OMNICOM GROUP INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,65,SP,MASCO CORP,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,66,SP,FACEBOOK INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,67,SP,ALIBABA GROUP HLDG LTD,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,68,SP,ADOBE INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,69,SP,HONEYWELL INTL INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,70,SP,UNITEDHEALTH GROUP INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,71,SP,ALBANY INTL CORP,,sale,2020-01-24,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,72,SP,J P MORGAN CHASE & CO,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,73,SP,MICROSOFT CORP,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,74,SP,National Bank Holdings,,sale,2020-01-06,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,75,SP,WesBanco INC,,sale,2020-01-31,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,76,SP,ALBANY INTL CORP,,sale,2020-01-28,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,77,SP,National Bank Holdings,,sale,2020-01-07,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,78,SP,TJX COS INC NEW,,sale,2020-01-17,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,79,SP,INDEPENDENCE KY,,sale,2020-01-06,2020-02-07,A,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,80,SP,NEW JERSEY ST HIGHER ED ASSIST,,sale,2020-01-03,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,81,SP,PPG INDS INC,,sale,2020-01-13,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,82,SP,PEPSICO INC,,sale,2020-01-13,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,83,SP,CERNER CORP,,sale,2020-01-15,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,84,SP,NESTLE S A,,sale,2020-01-10,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,85,SP,J P MORGAN CHASE & CO,,sale,2020-01-29,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,86,SP,ACCENTURE PLC,,sale,2020-01-09,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,87,SP,DOLLAR GEN CORP,,sale,2020-01-13,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,88,SP,STANLEY BLACK & DECKER INC,,sale,2020-01-15,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,89,SP,VIRGINIA COLLEGE BLDG AUTH VA,,sale,2020-01-02,2020-02-07,B,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,90,SP,FLA WTR POLLUTION CTL FING COR,,sale,2020-01-17,2020-02-07,C,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,91,SP,ARIZONA ST LOTTERY REV,,sale,2020-01-02,2020-02-07,C,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,92,SP,ZOETIS INC,,sale,2020-01-16,2020-02-07,C,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,93,SP,MICROSOFT CORP,,sale,2020-01-15,2020-02-07,C,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,94,SP,AMAZON.COM INC,,sale,2020-01-15,2020-02-07,D,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,4,95,SP,UNITED HEALTH GROUP INC,,sale,2020-01-15,2020-02-07,D,high,Typed schedule page 3 of 7; held through LLM FAMILY INVESTMENTS LP (11.7431% INTEREST)
+8216973,5,96,SP,Carnival Corp,,purchase,2020-01-10,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,97,SP,Carnival Corp,,purchase,2020-01-31,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,98,SP,NOBLE ENERGY,,purchase,2020-01-16,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,99,SP,DXC Technology,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,100,SP,DXC Technology,,purchase,2020-01-15,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,101,SP,TAPESTRY INC,,purchase,2020-01-16,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,102,SP,Carnival Corp,,purchase,2020-01-08,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,103,SP,ViacomCBS Inc,,purchase,2020-01-08,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,104,SP,Murphy Oil,,purchase,2020-01-02,2020-02-07,A,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,105,SP,MSC Industrial Direct Co Inc,,sale,2020-01-09,2020-02-07,A,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,106,SP,NEWELL BRANDS INC,,sale,2020-01-16,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,107,SP,MSC Industrial Direct Co Inc,,sale,2020-01-10,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,108,SP,MSC Industrial Direct Co Inc,,sale,2020-01-08,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,109,SP,"Baker Hughes, a GE company",,sale,2020-01-16,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,110,SP,HEWLETT PACKARD ENTERPRISE CO,,sale,2020-01-15,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,111,SP,HEWLETT PACKARD ENTERPRISE CO,,sale,2020-01-14,2020-02-07,B,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS II LP (5.6817% INTEREST)
+8216973,5,112,DC,PIMCO SHORT ASSET INVESTMENT FUND INSTITUTIONAL CLASS,,purchase,2020-01-28,2020-02-07,K,high,"Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST); only column K (spouse/DC amount over $1,000,000) marked"
+8216973,5,113,DC,Vanguard Short-Term Inflation-Protected Securities Index Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,K,high,"Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST); only column K (spouse/DC amount over $1,000,000) marked"
+8216973,5,114,DC,Vanguard Long-Term Tax-Exempt Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,F,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,115,DC,ELANCO ANIMAL HEALTH INC,,purchase,2020-01-14,2020-02-07,E,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,116,DC,AMAZON COM INC,,purchase,2020-01-14,2020-02-07,E,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,117,DC,PALO ALTO NETWORKS INC,,purchase,2020-01-14,2020-02-07,E,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,118,DC,Vanguard Long-Term Tax-Exempt Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,D,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,119,DC,NEW YORK N Y CITY TRANSITIONAL,,purchase,2020-01-21,2020-02-07,D,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,120,DC,Hilton Worldwide Holdings Inc.,,purchase,2020-01-15,2020-02-07,D,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,121,DC,WELLS FARGO & CO,,purchase,2020-01-15,2020-02-07,D,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,122,DC,TRIPADVISOR INC,,purchase,2020-01-15,2020-02-07,D,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,123,DC,LEAVENWORTH KANS,,purchase,2020-01-30,2020-02-07,D,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,124,DC,SCHLUMBERGER LTD,,purchase,2020-01-14,2020-02-07,C,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,5,125,DC,Vanguard Long-Term Tax-Exempt Fund Admiral Shares,,purchase,2020-01-28,2020-02-07,C,high,Typed schedule page 4 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,126,DC,Fiserv Inc,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,127,DC,BERKSHIRE HATHAWAY INC,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,128,DC,FLORIDA ST BRD ED PUB ED CAP OUTLAY,,purchase,2020-01-15,2020-02-07,C,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,129,DC,BOSTON SCIENTIFIC CORP,,purchase,2020-01-16,2020-02-07,C,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,130,DC,COMCAST CORP,,purchase,2020-01-13,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,131,DC,EATON CORP PLC,,purchase,2020-01-09,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,132,DC,UNIVERSITY TEX UNIV REVS,,purchase,2020-01-17,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,133,DC,DOLLAR TREE INC,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,134,DC,HD SUPPLY HLDGS INC,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,135,DC,SOUTHWEST AIRLS CO,,purchase,2020-01-13,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,136,DC,CHUBB LTD,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,137,DC,BOOKING HLDGS INC,,purchase,2020-01-29,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,138,DC,NORTHERN TR CORP,,purchase,2020-01-17,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,139,DC,QUEST DIAGNOSTICS INC,,purchase,2020-01-14,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,140,DC,Liberty Tripadvisor Holdings,,purchase,2020-01-15,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,141,DC,SCHWAB CHARLES CORP NEW,,purchase,2020-01-10,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,142,DC,QUEST DIAGNOSTICS INC,,purchase,2020-01-21,2020-02-07,B,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,143,DC,BERKSHIRE HATHAWAY INC DEL,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,144,DC,UMB Financial Corp,,purchase,2020-01-31,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,145,DC,Veritex Holdings Inc,,purchase,2020-01-07,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,146,DC,Veritex Holdings Inc,,purchase,2020-01-06,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,147,DC,Veritex Holdings Inc,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,148,DC,Veritex Holdings Inc,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,149,DC,Veritex Holdings Inc,,purchase,2020-01-09,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,150,DC,NUTRIEN LTD,,purchase,2020-01-14,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,151,DC,Veritex Holdings Inc,,purchase,2020-01-08,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,152,DC,NEENAH PAPER INC,,purchase,2020-01-28,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,153,DC,Veritex Holdings Inc,,purchase,2020-01-03,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,154,DC,Veritex Holdings Inc,,purchase,2020-01-02,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,155,DC,Veritex Holdings Inc,,purchase,2020-01-02,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,156,DC,Veritex Holdings Inc,,purchase,2020-01-02,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,6,157,DC,NEENAH PAPER INC,,purchase,2020-01-27,2020-02-07,A,high,Typed schedule page 5 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,158,DC,NEENAH PAPER INC,,purchase,2020-01-31,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,159,DC,NEENAH PAPER INC,,purchase,2020-01-29,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,160,DC,NEENAH PAPER INC,,purchase,2020-01-30,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,161,DC,NEENAH PAPER INC,,purchase,2020-01-24,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,162,DC,NEENAH PAPER INC,,purchase,2020-01-27,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,163,DC,OREGON ST HSG & CMNTY SVCS DEP,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,164,DC,ALBANY INTL CORP,,sale,2020-01-29,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,165,DC,TJX COS INC NEW,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,166,DC,SMITH & NEPHEW PLC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,167,DC,PACCAR INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,168,DC,TE CONNECTIVITY LTD,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,169,DC,UNILEVER PLC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,170,DC,National Bank Holdings,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,171,DC,National Bank Holdings,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,172,DC,National Bank Holdings,,sale,2020-01-02,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,173,DC,ALBANY INTL CORP,,sale,2020-01-27,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,174,DC,National Bank Holdings,,sale,2020-01-03,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,175,DC,OMNICOM GROUP INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,176,DC,MASCO CORP,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,177,DC,FACEBOOK INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,178,DC,ALIBABA GROUP HLDG LTD,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,179,DC,ADOBE INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,180,DC,MICROSOFT CORP,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,181,DC,HONEYWELL INTL INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,182,DC,UNITEDHEALTH GROUP INC,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,183,DC,J P MORGAN CHASE & CO,,sale,2020-01-14,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,184,DC,ALBANY INTL CORP,,sale,2020-01-24,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,185,DC,National Bank Holdings,,sale,2020-01-06,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,186,DC,WesBanco INC,,sale,2020-01-31,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,187,DC,ALBANY INTL CORP,,sale,2020-01-28,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,188,DC,National Bank Holdings,,sale,2020-01-07,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,7,189,DC,INDEPENDENCE KY,,sale,2020-01-06,2020-02-07,A,high,Typed schedule page 6 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,190,DC,TJX COS INC NEW,,sale,2020-01-17,2020-02-07,A,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,191,DC,NEW JERSEY ST HIGHER ED ASSIST,,sale,2020-01-03,2020-02-07,B,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,192,DC,PPG INDS INC,,sale,2020-01-13,2020-02-07,B,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,193,DC,PEPSICO INC,,sale,2020-01-13,2020-02-07,B,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,194,DC,CERNER CORP,,sale,2020-01-15,2020-02-07,B,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,195,DC,NESTLE S A,,sale,2020-01-10,2020-02-07,B,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,196,DC,J P MORGAN CHASE & CO,,sale,2020-01-29,2020-02-07,B,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,197,DC,ACCENTURE PLC,,sale,2020-01-09,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,198,DC,DOLLAR GEN CORP,,sale,2020-01-13,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,199,DC,STANLEY BLACK & DECKER INC,,sale,2020-01-15,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,200,DC,VIRGINIA COLLEGE BLDG AUTH VA,,sale,2020-01-02,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,201,DC,FLA WTR POLLUTION CTL FING COR,,sale,2020-01-17,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,202,DC,ARIZONA ST LOTTERY REV,,sale,2020-01-02,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,203,DC,ZOETIS INC,,sale,2020-01-16,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,204,DC,MICROSOFT CORP,,sale,2020-01-15,2020-02-07,C,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,205,DC,AMAZON.COM INC,,sale,2020-01-15,2020-02-07,D,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,206,DC,UNITED HEALTH GROUP INC,,sale,2020-01-15,2020-02-07,D,high,Typed schedule page 7 of 7; held through LLM FAMILY INVESTMENTS LP (13.2986% INTEREST)
+8216973,8,207,SP,LEWIS AND CLARK AGRIFOOD FUND II LP,,purchase,2020-01-15,2020-02-07,A,high,Typed schedule page 7 of 7; held through LLM PARTNERS LTD.
+8216973,8,208,DC,LEWIS AND CLARK AGRIFOOD FUND II LP,,purchase,2020-01-15,2020-02-07,B,high,Typed schedule page 7 of 7; held through LLM PARTNERS LTD.
