@@ -24,9 +24,20 @@ import pandas as pd
 proc = sys.argv[1]
 tx = pd.read_parquet(os.path.join(proc, "ptr_transaction.parquet"))
 tx["source"] = "e-filed"
-scan_path = os.path.join(proc, "ptr_transaction_scanned.parquet")
-if os.path.exists(scan_path):  # scanned filings, transcribed (Phase 2)
-    s = pd.read_parquet(scan_path)
+# Scanned filings, transcribed from page images (Phase 2). One row per trade; a row with
+# line_no 0 records a filing with no trades ("nothing to report").
+scan_path = os.path.join(proc, "..", "transcribed", "scanned_ptr_rows.csv")
+if os.path.exists(scan_path):
+    RANGES = {"A": (1001, 15000), "B": (15001, 50000), "C": (50001, 100000), "D": (100001, 250000),
+              "E": (250001, 500000), "F": (500001, 1000000), "G": (1000001, 5000000),
+              "H": (5000001, 25000000), "I": (25000001, 50000000), "J": (50000001, None),
+              "K": (1000001, None)}
+    s = pd.read_csv(scan_path, dtype=str)
+    s = s[s.line_no != "0"].copy()
+    s["line_no"] = s.line_no.astype(int)
+    s["amount_low"] = s.amount_col.map(lambda c: RANGES.get(c, (None, None))[0])
+    s["amount_high"] = s.amount_col.map(lambda c: RANGES.get(c, (None, None))[1])
+    s["filing_status"] = None
     s["source"] = "scanned"
     tx = pd.concat([tx, s], ignore_index=True)
 

@@ -9,3 +9,6 @@ __pycache__/
 
 # downloaded filing PDFs (large; re-download with scripts/download_ptrs.py)
 data/ptr_pdfs/
+
+# upload batches for scanned-PTR transcription (rebuilt from data/ptr_pdfs)
+data/scan_batches/
