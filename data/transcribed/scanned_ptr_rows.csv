@@ -1,0 +1,122 @@
+filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date,amount_col,review_status,note
+8217425,1,1,SP,Morgan Stanley IRA (see attached),,partial sale,2020-07-10,2020-07-10,B,high,"Attached Morgan Stanley confirmation lists 13 mutual-fund sales on 07/10/20 totaling $40,583.60 (net)"
+8217635,1,1,SELF,Johnson Controls,,purchase,2020-08-17,2020-08-25,A,verified,"Filer struck the A upper bound and wrote $3,000; notification date overwritten (8/18 -> 8/25). Filer note: assets in trust not managed or controlled by him"
+8217635,1,2,SELF,Boeing,,sale,2020-08-17,2020-08-25,A,verified,Same notes as line 1
+8217764,1,1,SELF,Put Enterprise Product Partners L.P. Strike $17.50 EXP 11/13/20,,sale,2020-11-09,2020-11-09,A,high,Typed on the paper form
+8217764,1,2,SELF,Enterprise Product Partners L.P.,,sale,2020-11-14,2020-11-14,D,high,Typed on the paper form
+8217937,1,1,JT,King Cnty WA Sch Dist No 414 Lake 1.75% 12/1/2024,,purchase,2021-03-11,,D,high,Older form version without a Partial Sale column; notification date left blank
+8217937,1,2,JT,Aransas Cnty TX LTD Tax Nts 2021 3.00% 2/15/2022,,purchase,2021-03-15,,D,high,Notification date left blank
+8218040,1,1,SELF,BRP GROUP INC COM CL A,,sale,2021-04-27,2021-04-28,J,verified,"Check mark is clearly in column J (over $50,000,000); worth confirming given the size"
+8218491,1,1,SELF,Vulcan Materials,,purchase,2021-11-08,2021-11-30,A,high,
+8218491,1,2,SELF,Northrup Grumman,,purchase,2021-11-08,2021-11-30,A,high,Spelled as filed (Northrop)
+8218491,1,3,SELF,VISA,,sale,2021-11-08,2021-11-30,A,high,
+8218491,1,4,SELF,Union Pacific Corp,,sale,2021-11-08,2021-11-30,A,high,
+8218491,2,5,SELF,Blackstone Inc,,sale,2021-11-08,2021-11-30,A,high,
+8218580,3,1,SELF,AB PRIVATE CREDIT INVESTORS CORPORATION CLOSE 4,,purchase,2022-01-03,2022-02-21,B,high,Account: DIANA HARSHBARGER ROLLOVER IRA - BDC; owner column reads '0' (not a valid code) - treated as SELF
+8218580,3,2,SELF,AB PRIVATE CREDIT INVESTORS CORPORATION CLOSE 4,,purchase,2022-01-03,2022-02-21,A,high,"Account: ROBERT HARSHBARGER, JR. ROLLOVER IRA - BDC; owner column blank although the account is the spouse's IRA - treated as SELF as filed"
+8218580,3,3,SELF,ALPHABET INC-CL C,,purchase,2022-01-20,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST II DTD 8/23/2012; owner column reads '0' (not a valid code) - treated as SELF
+8218580,3,4,SP,GOLDMAN SACHS GROUP INC,,purchase,2022-01-20,2022-02-21,A,high,"Account: ROBERT HARSHBARGER, JR. REVOCABLE LIVING TRUST DTD 6/4/1996"
+8218580,3,5,JT,GOLDMAN SACHS GROUP INC,,purchase,2022-01-20,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST I DTD 8/23/2012
+8218580,3,6,SELF,GOLDMAN SACHS GROUP INC,,purchase,2022-01-20,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST II DTD 8/23/2012; owner column reads '0' (not a valid code) - treated as SELF
+8218580,3,7,SELF,GOLDMAN SACHS GROUP INC,,purchase,2022-01-20,2022-02-21,A,high,Account: DIANA LYNN HARSHBARGER REVOCABLE LIVING TRUST DTD 6/4/1996; owner column reads '0' (not a valid code) - treated as SELF
+8218580,3,8,JT,REGAL REXNORD CORP,,purchase,2022-01-20,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST I DTD 8/23/2012
+8218580,3,9,SP,STELLANTIS NV,,purchase,2022-01-20,2022-02-21,A,high,"Account: ROBERT HARSHBARGER, JR. REVOCABLE LIVING TRUST DTD 6/4/1996"
+8218580,3,10,SELF,STELLANTIS NV,,purchase,2022-01-20,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST II DTD 8/23/2012; owner column reads '0' (not a valid code) - treated as SELF
+8218580,3,11,JT,STELLANTIS NV,,purchase,2022-01-20,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST I DTD 8/23/2012
+8218580,3,12,SELF,ADOBE INC,,purchase,2022-01-21,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST II DTD 8/23/2012; owner column reads '0' (not a valid code) - treated as SELF
+8218580,3,13,JT,ADOBE INC,,purchase,2022-01-21,2022-02-21,A,high,Account: HARSHBARGER FAMILY TRUST I DTD 8/23/2012
+8218580,3,14,SP,ADOBE INC,,purchase,2022-01-21,2022-02-21,A,high,"Account: ROBERT HARSHBARGER, JR. REVOCABLE LIVING TRUST DTD 6/4/1996"
+8218580,3,15,SELF,ADOBE INC,,purchase,2022-01-21,2022-02-21,A,high,Account: DIANA LYNN HARSHBARGER REVOCABLE LIVING TRUST DTD 6/4/1996; owner column reads '0' (not a valid code) - treated as SELF
+8218580,3,16,SP,ALPHABET INC-CL C,,purchase,2022-01-21,2022-02-21,A,high,"Account: ROBERT HARSHBARGER, JR. REVOCABLE LIVING TRUST DTD 6/4/1996"
+8219340,3,1,SP,Kennedy-Wilson Holdings Inc,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,2,SP,Gates Industrial Corp PLC,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,3,SP,White Mountains Insurance Group Ltd,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,4,SP,Simpson Manufacturing Co,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,5,SP,TriMas Corp,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,6,SP,FirstCash Holdings,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,7,SP,"KBR, Inc.",,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,8,SP,PRIMERICA INC,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,9,SP,"Carlisle Companies, Inc.",,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,10,SP,Beacon Roofing Supply Inc Class A,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,11,SP,BJ's Wholesale Club Holdings,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,12,SP,PLEXUS CORP,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,13,SP,GENPACT LTD,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,14,SP,Houlihan Lokey Inc,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,15,SP,"Insight Enterprises, Inc.",,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,16,SP,Robert Half International Inc.,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,17,SP,Interpublic Group of Companies Inc,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,18,SP,"Donaldson Company, Inc.",,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,19,SP,nVent Electric,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,20,SP,Five Below Inc,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,21,SP,"Arrow Electronics, Inc.",,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,22,SP,"Henry Schein, Inc.",,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,23,SP,Skechers USA Inc,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,24,SP,Applied Industrial Technologies,,sale,2022-12-14,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,25,SP,MasterBrand Inc,,sale,2022-12-15,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,26,SP,O'REILLY AUTOMOTIVE INC,,sale,2022-12-16,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,27,SP,KEURIG DR PEPPER INC,,sale,2022-12-16,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,28,SP,AON PLC REG SHS,,sale,2022-12-16,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,29,SP,LINDE PLC REG SHS,,sale,2022-12-16,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,30,SP,UNITEDHEALTH GROUP INC,,sale,2022-12-16,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,31,SP,ASTRAZENECA PLC SPND ADR,,sale,2022-12-16,2023-01-06,A,high,Typed attachment page '2 of 11'
+8219340,3,32,SP,MONSTER BEVERAGE SHS,,sale,2022-12-16,2023-01-06,A,high,Typed attachment page '2 of 11'
+8220906,2,1,DC,BANK OF MONTREAL LINKED TO S&P 500 INDEX,,purchase,2025-04-24,2025-05-08,D,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,2,DC,BANK OF MONTREAL LINKED TO S&P 500 INDEX,,purchase,2025-04-24,2025-05-08,B,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,3,DC,ADOBE INC CMN,,purchase,2025-04-17,2025-05-08,B,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,4,DC,AON PUBLIC LIMITED COMPANY CMN,,purchase,2025-04-25,2025-05-08,B,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,5,DC,ADOBE INC CMN,,purchase,2025-04-17,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,6,DC,CAPITAL ONE FINANCIAL CORP CMN,,purchase,2025-04-04,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,7,DC,MORGAN STANLEY CMN,,purchase,2025-04-04,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,8,DC,"CARMAX, INC. CMN",,purchase,2025-04-10,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,9,DC,TEXAS INSTRUMENTS INC. CMN,,purchase,2025-04-04,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,10,DC,WALT DISNEY COMPANY (THE) CMN,,purchase,2025-04-04,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,11,DC,SALESFORCE INC CMN,,purchase,2025-04-04,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,12,DC,CATERPILLAR INC (DELAWARE) CMN,,purchase,2025-04-04,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,13,DC,STARBUCKS CORP. CMN,,purchase,2025-04-07,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,14,DC,CAPITAL ONE FINANCIAL CORP CMN,,purchase,2025-04-07,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,15,DC,TARGET CORPORATION CMN,,purchase,2025-04-07,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8220906,2,16,DC,SBA COMMUNICATIONS CORPORATION CMN,,partial sale,2025-04-17,2025-05-08,B,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren; Sale + Partial Transaction columns both marked
+8220906,2,17,DC,"BECTON, DICKINSON AND COMPANY CMN",,partial sale,2025-04-21,2025-05-08,A,high,Account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren; Sale + Partial Transaction columns both marked
+8219092,1,1,SELF,Shopify,,sale,2022-06-03,2022-07-16,E,verified,Handwritten
+8219092,1,2,SELF,Shopify,,purchase,2022-06-03,2022-07-16,E,verified,Handwritten
+8219092,1,3,SELF,Shopify,,sale,2022-06-07,2022-07-16,E,verified,Handwritten
+8219092,1,4,SELF,Shopify,,purchase,2022-06-13,2022-07-16,E,verified,Day blotted out on the scan; human reviewer confirmed 06/13/22 from the PDF
+8219742,1,1,SP,"Golden Touch Fund I, LLC",,purchase,2023-05-24,2023-05-24,F,reviewed_uncertain,"Tiny low-resolution print; reviewer agrees Golden Touch Fund I, LLC is the best reading but it cannot be confirmed from the scan"
+8219843,1,1,SP,CALIFORNIA ST GO CALL 11/01/27,,sale,2023-06-01,2023-07-03,A,verified,Handwritten year unclear on the scan; reviewer confirmed 2023
+8219748,1,0,,,,,,,,high,Harold Rogers: form states Nothing to report for May 2023 - no transactions
+8220177,1,1,SP,"NetApp, Inc. stock",,sale,2024-03-01,2024-03-01,B,high,Handwritten 'NetApp'
+8220177,1,2,SELF,"NetApp, Inc. stock",,sale,2024-03-01,2024-03-01,B,high,'IRA' written in the margin
+8220177,1,3,SP,"NetApp, Inc. stock",,sale,2024-03-01,2024-03-01,B,high,'IRA' written in the margin
+8220317,1,1,JT,Franklin Templeton ETF (FLJP),FLJP,purchase,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,1,2,JT,Invesco ETF (XMHQ),XMHQ,sale,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,1,3,JT,IShares Tr 1-3 Yr (SHY),SHY,sale,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,1,4,JT,IShares Tr 1-5 Yr (IGSB),IGSB,purchase,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,1,5,JT,Ishares Tr BB Rated Corp Bd ETF (HYBB),HYBB,purchase,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,2,6,JT,Pacer Fds Tr Pacer US Small Cap (CALF),CALF,purchase,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,2,7,JT,SPDR Index Shs Fds (SPDW),SPDW,purchase,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,2,8,JT,SPDR Ser Tr S&P 400 Mid Cap Gwth (MDYG),MDYG,sale,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,2,9,JT,SPDR Ser Tr S&P 400 Mid Cap Value (MDYV),MDYV,sale,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220317,2,10,JT,World Gold Tr Spdr (GLDM),GLDM,sale,2024-04-25,2024-05-01,A,high,Typed paper form (older version without Partial Sale column)
+8220710,1,1,SELF,Boeing,,purchase,2024-12-24,2025-01-06,B,high,Handwritten
+8220710,1,2,SELF,U.S. Treasury Bill,,purchase,2024-12-24,2025-01-06,D,high,Handwritten
+8220710,1,3,SELF,Pfizer,,sale,2024-12-24,2025-01-06,A,high,Handwritten
+8220780,1,1,SELF,US Treasury Bonds,,purchase,2025-03-03,2025-03-03,A,verified,"Notification date overwritten (3/03 or 3/05). Filer note on the last page says the Treasury bonds ""listed on Page 2"" are I Bonds; that page is labeled page 3 of 3 but the PDF has only 2 pages, so a page may be missing from the scan; reviewer confirmed notification date 03/03/25"
+8220809,1,1,SELF,TESLA COMMON STOCK,,sale,2025-03-17,2025-03-20,D,verified,Notification day handwritten (reads 20; could be 28)
+9116292,1,1,SP,Apple Incorporated (AAPL),AAPL,purchase,2024-08-20,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,1,2,SP,Alphabet Incorporated (GOOGL),GOOGL,purchase,2024-08-20,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,1,3,SP,Microsoft Corporation (MSFT),MSFT,purchase,2024-08-20,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,1,4,SP,Meta Platforms (META),META,purchase,2024-08-20,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,2,5,SP,Nvidia Corporation (NVDA),NVDA,purchase,2024-08-20,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,2,6,SP,Apple Incorporated (AAPL),AAPL,sale,2024-09-09,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,2,7,SP,Alphabet Incorporated (GOOGL),GOOGL,sale,2024-09-09,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,2,8,SP,Microsoft Corporation (MSFT),MSFT,sale,2024-09-09,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,2,9,SP,Meta Platforms (META),META,sale,2024-09-09,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116292,2,10,SP,Nvidia Corporation (NVDA),NVDA,sale,2024-09-09,2026-08-04,A,high,Typed form. Trades in 2024 reported with a 2026 notification date - about two years late
+9116326,1,1,JT,SCHWAB SHORT TERM U S TREASURY ETF,,partial sale,2026-08-14,2026-09-02,C,high,
+9116326,1,2,JT,SALESFORCE INC,,purchase,2026-08-14,2026-09-02,B,high,
+9116326,1,3,JT,SERVICENOW INC,,purchase,2026-08-14,2026-09-02,B,high,
+9116326,1,4,JT,HUBSPOT INC,,purchase,2026-08-14,2026-09-02,B,high,
+9116326,2,5,JT,THE TRADE DESK INC CLASS A,,partial sale,2026-08-14,2026-09-02,B,high,
+9116326,2,6,JT,UPSTART HLDGS INC,,partial sale,2026-08-14,2026-09-02,B,high,
+9116326,2,7,JT,US TREASUR NT 1 5/08XXX**MATURED,,sale,2026-08-15,2026-09-02,E,high,Maturity recorded as a sale
+9116326,2,8,JT,US TREASURY BILL27U S T BILL DUE 02/25/27,,purchase,2026-08-31,2026-09-02,E,high,
