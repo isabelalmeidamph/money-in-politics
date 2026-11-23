@@ -1198,3 +1198,536 @@ filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date
 8220906,40,655,SP,CISCO SYSTEMS INC,,sale,2025-04-04,2025-04-07,A,high,Typed attachment page 40 of 51; account: MURA Holdings - Ritu Ahuja 1994 Trust
 8220906,40,656,SP,CISCO SYSTEMS INC,,sale,2025-04-04,2025-04-07,A,high,Typed attachment page 40 of 51; account: MURA Holdings - Ritu Ahuja 1994 Trust
 8220906,40,657,SP,CONOCOPHILLIPS COM,,sale,2025-04-04,2025-04-07,A,high,Typed attachment page 40 of 51; account: MURA Holdings - Ritu Ahuja 1994 Trust
+8216878,1,1,JT,United Technologies Corp.,,sale,2020-01-06,2020-01-07,B,high,"Paper form, typed; page 2 blank"
+8216880,1,1,SELF,Apple Inc,,sale,2020-01-02,2020-01-06,B,high,Handwritten
+8216957,1,1,SELF,Bank of America,,sale,2020-01-04,2020-02-05,A,medium,"Handwritten; trade date reads 1/4/20, but 01/04/2020 was a Saturday and the other trade is 2/3/20, so 2/4/20 is possible"
+8216957,1,2,SELF,Slack Technologies,,purchase,2020-02-03,2020-02-05,A,high,Handwritten
+8216960,1,1,SELF,Exxon Mobil corp,,purchase,2020-01-07,2020-02-01,A,high,Handwritten
+8216960,1,2,SELF,Blackrock,,sale,2020-01-07,2020-02-01,A,high,Handwritten
+8216960,1,3,SELF,Ishares Russell 3000,,sale,2020-01-07,2020-02-01,B,high,Handwritten
+8216960,1,4,SELF,Abbvie,,sale,2020-01-07,2020-02-01,A,high,Handwritten
+8216960,2,5,SELF,Blackstone Group Inc,,purchase,2020-01-21,2020-02-04,A,high,Handwritten
+8216960,2,6,SELF,Hilton Worldwide Holdings,,purchase,2020-01-21,2020-02-04,A,high,Handwritten
+8216960,2,7,SELF,Sea Ltd ADR,,purchase,2020-01-24,2020-02-04,A,high,Handwritten
+8216960,2,8,SELF,OW Large Cap Strat. Fund,,sale,2020-01-10,2020-02-04,B,medium,Handwritten; fund name hard to read (OW or DW Large Cap Strategy Fund)
+8216960,2,9,SELF,Discover Financial Services,,sale,2020-01-21,2020-02-04,A,high,Handwritten
+8216960,2,10,SELF,Bookings Hldgs Inc,,sale,2020-01-21,2020-02-04,A,high,"Handwritten; written as Bookings, likely Booking Holdings"
+8216960,2,11,SELF,Activision Blizzard Inc,,sale,2020-01-24,2020-02-04,A,high,Handwritten
+8216961,1,1,JT,CONNECTICUT ST 5% 11/15/2021,,purchase,2020-01-06,,C,high,Typed on paper form; notification date left blank. Page 2 is a Moneta account statement
+8216961,1,2,JT,PERTH AMBOY N J 4% 05/01/2021,,purchase,2020-01-06,,C,high,Typed on paper form; notification date left blank. Page 2 is a Moneta account statement
+8216961,1,3,JT,GREENDALE WIS SCH DIST 3% 03/01/2022,,purchase,2020-01-17,,D,high,Typed on paper form; notification date left blank. Page 2 is a Moneta account statement
+8216969,1,1,JT,ISHARES TR 20+ YR TREAS BD (TLT),TLT,sale,2020-01-23,2020-02-01,A,high,Typed on paper form
+8216969,1,2,JT,ISHARES TR LONG-TERM CORP BD (IGLB),IGLB,purchase,2020-01-23,2020-02-01,A,high,Typed on paper form
+8216969,1,3,JT,ISHARES DEC 2023 TERM CORP (IBDO),IBDO,sale,2020-01-23,2020-02-01,A,high,Typed on paper form
+8216969,1,4,JT,ISHARES DEC 2024 TERM CORP (IBDP),IBDP,purchase,2020-01-23,2020-02-01,A,high,Typed on paper form
+8216969,1,5,JT,ISHARES TR DEC 2026 TERM CORP (IBDR),IBDR,purchase,2020-01-23,2020-02-01,A,high,Typed on paper form
+8216969,2,6,JT,ISHARES TR DEC 2029 TERM CORP (IBDU),IBDU,purchase,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
+8216969,2,7,JT,SPDR SER TR PORTFOLIO INTER (SPTI),SPTI,sale,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
+8216969,2,8,JT,SELECT SPDR TR CONSUMER STAP (XLP),XLP,sale,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
+8216969,2,9,JT,SELECT SPDR TR COMMUNICATION (XLC),XLC,purchase,2020-01-23,2020-02-01,,medium,Typed on paper form; NO amount box marked on page 2 (filing omits the amount)
+8216915,2,1,SELF,"UnitedHealth Group, Inc",,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,2,SELF,United Technologies Corp,,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,3,SELF,Tiffany & Co.,,sale,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,4,SELF,Microsoft Corp,,sale,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,5,SELF,"Gilead Sciences, Inc",,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,6,SELF,"Home Depot, Inc",,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,7,SELF,Johnson & Johnson,,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,8,SELF,"Kinder Morgan, Inc",,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,9,SELF,"Apple, Inc",,sale,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,10,SELF,Comcast Corp Cl A,,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,11,SELF,"Cisco Systems, Inc.",,purchase,2020-01-09,,A,high,Typed schedule; account: Brown Advisory; schedule has no notification-date column
+8216915,2,12,SELF,Warburg Global Growth LP,,purchase,2019-12-11,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); filer note: Fund Manager Letter on file with the Ethics Committee"
+8216879,2,1,SP,NIKE INC B,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,2,SP,MICROSOFT CORP,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,3,SP,ECOLAB INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,4,SP,ADOBE INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,5,SP,IHS MARKIT LTD,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,6,SP,ALPHABET INC CL A,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,7,SP,FACEBOOK INC CL-A,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,8,SP,S&P GLOBAL INC COM,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,9,SP,EQUINIX INC COM PAR $0.001,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,10,SP,AMERICAN TOWER REIT,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,11,SP,BOOKING HOLDINGS INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,12,SP,NETFLIX INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,13,SP,CME GROUP INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,14,SP,INTUITIVE SURGICAL INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,15,SP,ALIGN TECHNOLOGY,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,16,SP,NVIDIA CORPORATION,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,17,SP,AMAZON COM INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,18,SP,INTUIT INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,19,SP,ESTEE LAUDER CO INC CL A,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,20,SP,ILLUMINA INC,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,21,SP,PAYPAL HLDGS INC COM,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,2,22,SP,VISA INC CL A,,purchase,2019-12-27,2020-01-03,A,high,Typed attachment page 2 of 6; account: M&R Trust Partnership
+8216879,3,23,SP,BOOKING HOLDINGS INC,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,24,DC,BOOKING HOLDINGS INC,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,25,SP,NETFLIX INC,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,26,DC,NETFLIX INC,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,27,SP,ALIGN TECHNOLOGY,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,28,DC,ALIGN TECHNOLOGY,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,29,SP,NVIDIA CORPORATION,,sale,2019-12-27,2020-01-03,B,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,30,DC,NVIDIA CORPORATION,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,31,SP,AMAZON COM INC,,sale,2019-12-27,2020-01-03,B,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,32,DC,AMAZON COM INC,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,33,SP,INTUIT INC,,sale,2019-12-27,2020-01-03,B,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,34,DC,INTUIT INC,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,35,SP,ILLUMINA INC,,sale,2019-12-27,2020-01-03,B,high,Typed attachment page 3 of 6; account: Areco
+8216879,3,36,DC,ILLUMINA INC,,sale,2019-12-27,2020-01-03,A,high,Typed attachment page 3 of 6; account: Areco
+8216879,4,37,DC,URBAN OUTFITTERS INC CMN,,purchase,2019-12-30,2020-01-03,A,high,Typed attachment page 4 of 6; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216879,4,38,DC,URBAN OUTFITTERS INC CMN,,purchase,2019-12-19,2020-01-03,A,high,Typed attachment page 4 of 6; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216879,4,39,DC,URBAN OUTFITTERS INC CMN,,purchase,2019-12-13,2020-01-03,A,high,Typed attachment page 4 of 6; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216879,4,40,DC,URBAN OUTFITTERS INC CMN,,purchase,2019-12-11,2020-01-03,A,high,Typed attachment page 4 of 6; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216879,4,41,DC,URBAN OUTFITTERS INC CMN,,purchase,2019-12-06,2020-01-03,A,high,Typed attachment page 4 of 6; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216879,4,42,DC,MOSAIC COMPANY (THE) CMN,,sale,2019-12-05,2020-01-03,A,high,Typed attachment page 4 of 6; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216879,4,43,DC,MOSAIC COMPANY (THE) CMN,,sale,2019-12-04,2020-01-03,A,high,Typed attachment page 4 of 6; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216879,4,44,SP,NASSAU CNTY N Y GO 2% 03/16/20 MS,,purchase,2019-12-10,2020-01-03,B,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,45,SP,IOWA FIN AUTH REV REV 5.0000% 08/01/20 FA,,purchase,2019-12-09,2020-01-03,B,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,46,SP,NORTH SLOPE BORO ALASKA GO 5% 06/30/20 JD,,purchase,2019-12-02,2020-01-03,B,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,47,SP,MOSAIC COMPANY (THE) CMN,,sale,2019-12-05,2020-01-03,B,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,48,SP,JEA FLA WTR & SWR SYS REV REV 4.2000% 10/01/30 AO,,purchase,2019-12-09,2020-01-03,B,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,49,SP,S D CONSERVANCY DIST REV 5% 08/01/20 FA,,purchase,2019-12-05,2020-01-03,B,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,50,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-11,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,51,SP,MOSAIC COMPANY (THE) CMN,,sale,2019-12-04,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,52,SP,FEDEX CORPORATION CMN,,purchase,2019-12-18,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,53,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-23,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,54,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-13,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,55,SP,"NETFLIX, INC. CMN",,purchase,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,56,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-03,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,57,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-06,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,58,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-02,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,59,SP,ALBEMARLE CORP CMN,,purchase,2019-12-31,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,60,SP,ALBEMARLE CORP CMN,,purchase,2019-12-05,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,61,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-30,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,62,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-19,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,63,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-10,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,64,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,65,SP,"ENTEGRIS, INC. CMN",,sale,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,66,SP,AMAZON.COM INC CMN,,purchase,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,67,SP,EXELON CORPORATION CMN,,purchase,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,68,SP,BIOGEN INC. CMN,,purchase,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,69,SP,URBAN OUTFITTERS INC CMN,,purchase,2019-12-19,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1994 Trust
+8216879,4,70,SP,CONNECTICUT ST GO 3% 01/15/21 JJ,,purchase,2019-12-13,2020-01-03,E,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,71,SP,LEAVENWORTH CNTY KANS GO 4% 12/01/20 JD,,purchase,2019-12-09,2020-01-03,D,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,72,SP,NASSAU CNTY N Y GO 2% 03/16/20 MS,,purchase,2019-12-10,2020-01-03,D,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,73,SP,BROWARD CNTY FLA SCH BRD CTFS COPS 5% 07/01/20-CA JJ,,purchase,2019-12-18,2020-01-03,C,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,74,SP,WAUWATOSA WIS SCH DIST GO 5% 09/01/20 MS,,purchase,2019-12-03,2020-01-03,C,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,75,SP,GRANITE SCH DIST UTAH SALT GO 4.5000% 06/01/20 JD,,purchase,2019-12-16,2020-01-03,C,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,76,SP,TEXAS A & M UNIV PERM UNIV FD REV 5% 07/01/20 JJ,,purchase,2019-12-17,2020-01-03,B,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,77,SP,CARROLLTON TEX GO 5% 08/15/20 FA,,purchase,2019-12-18,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,78,SP,PORT HOUSTON AUTH TEX HARRIS GO 5% 10/01/20 AO,,purchase,2018-12-05,2020-01-03,A,medium,"Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust; trade date printed as 12/05/18, likely a typo for 12/05/19 (all other trades are Dec 2019)"
+8216879,4,79,SP,WILL CNTY ILL SCH DIST NO 159 GO 3% 12/01/20 JD,,purchase,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,80,SP,PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS,,purchase,2019-12-11,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,81,SP,"CHENIERE ENERGY, INC. CMN",,purchase,2019-12-17,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,82,SP,SUNOCO LP CMN,,sale,2019-12-12,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,83,SP,MPLX LP CMN,,purchase,2019-12-19,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,84,SP,TYLER TEX JR COLLEGE DIST GO 3% 02/15/20 FA,,purchase,2019-12-16,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,85,SP,PUT/XSP @ 295 EXP 01/24/2020,,sale,2019-12-05,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,86,SP,ENTERPRISE PRODUCTS PART L.P CMN,,purchase,2019-12-09,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,87,SP,DCP MIDSTREAM LP CMN,,purchase,2019-12-11,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,88,SP,PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS,,purchase,2019-12-17,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,89,SP,PUT/XSP @ 309 EXP 02/07/2020,,sale,2019-12-26,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,4,90,SP,CRESTWOOD EQUITY PARTNERS LP CMN,,sale,2019-12-10,2020-01-03,A,high,Typed attachment page 4 of 6; account: Ritu Ahuja 1995 Trust
+8216879,5,91,SP,ENTERPRISE PRODUCTS PART L.P CMN,,purchase,2019-12-09,2020-01-03,A,high,Typed attachment page 5 of 6; account: Ritu Ahuja 1995 Trust (continued)
+8216879,5,92,SP,3M COMPANY CMN,,purchase,2019-12-12,2020-01-03,A,high,Typed attachment page 5 of 6; account: Ritu Ahuja 1995 Trust (continued)
+8216879,5,93,SP,PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS,,purchase,2019-12-05,2020-01-03,A,high,Typed attachment page 5 of 6; account: Ritu Ahuja 1995 Trust (continued)
+8216879,5,94,SP,EXXON MOBIL CORPORATION CMN,,purchase,2019-12-12,2020-01-03,A,high,Typed attachment page 5 of 6; account: Ritu Ahuja 1995 Trust (continued)
+8216879,5,95,SP,ENTERPRISE PRODUCTS PART L.P CMN,,purchase,2019-12-09,2020-01-03,A,high,Typed attachment page 5 of 6; account: Ritu Ahuja 1995 Trust (continued)
+8216879,5,96,SP,PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS,,purchase,2019-12-05,2020-01-03,A,high,Typed attachment page 5 of 6; account: Ritu Ahuja 1995 Trust (continued)
+8216879,5,97,SP,ELI LILLY & CO CMN,,purchase,2019-12-12,2020-01-03,A,high,Typed attachment page 5 of 6; account: Ritu Ahuja 1995 Trust (continued)
+8216879,6,98,DC,Transtar/Speedstar Holding Company 1st Lien TL,,sale,2019-12-31,2019-12-31,E,high,"Typed attachment page 6 of 6; account: Grandchildren's Trust (ASK Partners, LLC)"
+8216965,2,1,SP,NETFLIX INC,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,2,DC,NETFLIX INC,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,3,SP,ALIGN TECHNOLOGY,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,4,DC,ALIGN TECHNOLOGY,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,5,SP,NVIDIA CORPORATION,,purchase,2020-01-27,2020-02-03,B,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,6,DC,NVIDIA CORPORATION,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,7,SP,AMAZON COM INC,,purchase,2020-01-27,2020-02-03,B,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,8,DC,AMAZON COM INC,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,9,SP,INTUIT INC,,purchase,2020-01-27,2020-02-03,B,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,10,DC,INTUIT INC,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,11,SP,ILLUMINA INC,,purchase,2020-01-27,2020-02-03,B,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,12,DC,ILLUMINA INC,,purchase,2020-01-27,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,2,13,SP,EQUINIX INC COM PAR $0.001,,sale,2020-01-24,2020-02-03,A,high,Typed attachment page 2 of 11; account: Areco
+8216965,3,14,SP,EQUINIX INC COM PAR $0.001,,sale,2019-12-27,2020-02-03,A,high,Typed attachment page 3 of 11; account: M&R Trust Partnership; the Jan 2020 filing (8216879) lists an M&R purchase of Equinix on the same date
+8216965,4,15,DC,ALBEMARLE CORP CMN,,purchase,2020-01-06,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,16,DC,DUPONT DE NEMOURS INC CMN,,purchase,2020-01-24,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,17,DC,DUPONT DE NEMOURS INC CMN,,purchase,2020-01-24,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,18,DC,CORNING INCORPORATED CMN,,purchase,2020-01-29,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,19,DC,URBAN OUTFITTERS INC CMN,,purchase,2020-01-21,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,20,DC,URBAN OUTFITTERS INC CMN,,purchase,2020-01-13,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,21,DC,"WPX ENERGY, INC. CMN",,purchase,2020-01-24,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,22,DC,APPLE INC. CMN,,sale,2020-01-13,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,23,DC,BANK OF AMERICA CORP CMN,,sale,2020-01-30,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,24,DC,"ENTEGRIS, INC. CMN",,sale,2020-01-02,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,25,DC,"ENTEGRIS, INC. CMN",,sale,2020-01-14,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,26,DC,BANK OF AMERICA CORP CMN,,sale,2020-01-30,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,27,DC,GRAPHIC PACKAGING HLDGCO CMN,,sale,2020-01-27,2020-02-04,A,high,Typed attachment page 4 of 11; account: Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+8216965,4,28,SP,EXXON MOBIL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,29,SP,AMAZON.COM INC CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,30,SP,ILLINOIS FIN AUTH REV REV 5% 10/01/20 AO,,purchase,2020-01-02,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,31,SP,JPMORGAN CHASE & CO CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,32,SP,WALT DISNEY COMPANY (THE) CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,33,SP,INTEL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,34,SP,"SALESFORCE.COM, INC CMN",,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,35,SP,BERKSHIRE HATHAWAY INC. CLASS B,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,36,SP,DUPONT DE NEMOURS INC CMN,,purchase,2020-01-24,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,37,SP,ADOBE INC CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,38,SP,TEXAS INSTRUMENTS INC. CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,39,SP,"ANALOG DEVICES, INC. CMN",,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,40,SP,DUPONT DE NEMOURS INC CMN,,purchase,2020-01-24,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,41,SP,CORNING INCORPORATED CMN,,purchase,2020-01-29,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,42,SP,WELLS FARGO & CO (NEW) CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,43,SP,LINCOLN NATL.CORP.INC. CMN,,purchase,2020-01-08,2020-02-04,B,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,44,SP,ALBEMARLE CORP CMN,,purchase,2020-01-06,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,45,SP,AFLAC INCORPORATED CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,46,SP,"MICRON TECHNOLOGY, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,47,SP,CHUBB LIMITED CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,48,SP,PFIZER INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,49,SP,"MERCK & CO., INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,50,SP,ELI LILLY & CO CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,51,SP,SIMON PROPERTY GROUP INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,52,SP,GENERAL MOTORS COMPANY CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,53,SP,QUALCOMM INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,54,SP,URBAN OUTFITTERS INC CMN,,purchase,2020-01-17,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,55,SP,INGERSOLL-RAND PLC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,56,SP,AON PLC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,57,SP,SERVICENOW INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,58,SP,FIDELITY NATL INFO SVCS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,59,SP,BIOGEN INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,60,SP,DUPONT DE NEMOURS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,61,SP,EOG RESOURCES INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,62,SP,MAXIM INTEGRATED PRODUCTS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,63,SP,GENERAL ELECTRIC CO CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,64,SP,NORTHERN TRUST CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,65,SP,URBAN OUTFITTERS INC CMN,,purchase,2020-01-13,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,66,SP,CINCINNATI FINANCIAL CRP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,67,SP,EXELON CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,68,SP,EMERSON ELECTRIC CO. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,69,SP,BANK OF AMERICA CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,70,SP,KLA CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,4,71,SP,AMPHENOL CORP CL-A (NEW) CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 4 of 11; account: Ritu Ahuja 1994 Trust
+8216965,5,72,SP,EDWARDS LIFESCIENCES CORPORATI CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,73,SP,"THE WILLIAMS COMPANIES, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,74,SP,AMERICAN EXPRESS CO. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,75,SP,L3HARRIS TECHNOLOGIES INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,76,SP,"PNC FINANCIAL SERVICES GROUP, CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,77,SP,WELLTOWER INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,78,SP,NVIDIA CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,79,SP,HILTON WORLDWIDE HOLDINGS INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,80,SP,MARSH & MCLENNAN CO INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,81,SP,TJX COMPANIES INC (NEW) CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,82,SP,FEDEX CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,83,SP,UNUM GROUP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,84,SP,"VENTAS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,85,SP,DOLLAR GENERAL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,86,SP,URBAN OUTFITTERS INC CMN,,purchase,2020-01-10,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,87,SP,URBAN OUTFITTERS INC CMN,,purchase,2020-01-13,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,88,SP,CATERPILLAR INC (DELAWARE) CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,89,SP,ROCKWELL AUTOMATION INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,90,SP,"NETFLIX, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,91,SP,FRANKLIN RESOURCES INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,92,SP,KIMBERLY-CLARK CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,93,SP,"SKYWORKS SOLUTIONS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,94,SP,IQVIA HOLDINGS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,95,SP,E*TRADE FINANCIAL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,96,SP,"ADVANCED MICRO DEVICES, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,97,SP,CUMMINS INC COMMON STOCK,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,98,SP,PUBLIC STORAGE CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,99,SP,CME GROUP INC. CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,100,SP,MSCI INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,101,SP,NISOURCE INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,102,SP,NORFOLK SOUTHERN CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,103,SP,COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,104,SP,N V R INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,105,SP,CDW CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,106,SP,"CORTEVA, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,107,SP,"CHIPOTLE MEXICAN GRILL, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,108,SP,"QORVO, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,109,SP,CNA FINCL.CORP. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,110,SP,"AMERIPRISE FINANCIAL, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,111,SP,TRANSDIGM GROUP INCORPORATED CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,112,SP,JOHNSON & JOHNSON CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,113,SP,DOVER CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,114,SP,ARTHUR J GALLAGHER & CO CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,115,SP,INTERNATIONAL PAPER CO. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,116,SP,SCHLUMBERGER LTD CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,117,SP,"TWITTER, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,118,SP,XYLEM INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,119,SP,"RAYMOND JAMES FINANCIAL, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,120,SP,GENERAL DYNAMICS CORP. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,121,SP,UNION PACIFIC CORP. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,122,SP,UNITED AIRLINES HOLDINGS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,123,SP,IDEX CORPORATION COMMON STOCK,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,124,SP,THE PROGRESSIVE CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,125,SP,NIKE CLASS-B CMN CLASS B,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,126,SP,ZEBRA TECHNOLOGIES INC CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,127,SP,"WPX ENERGY, INC. CMN",,purchase,2020-01-24,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,128,SP,LAS VEGAS SANDS CORP. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,129,SP,AMCOR PLC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,130,SP,TE CONNECTIVITY LTD CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,5,131,SP,"WPX ENERGY, INC. CMN",,purchase,2020-01-27,2020-02-04,A,high,Typed attachment page 5 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,132,SP,HEALTHPEAK PROPERTIES INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,133,SP,PIONEER NATURAL RESOURCES CO CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,134,SP,MGM RESORTS INTERNATIONAL CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,135,SP,"BRIGHTHOUSE FINANCIAL, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,136,SP,VERTEX PHARMACEUTICALS INCORPO CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,137,SP,"DARDEN RESTAURANTS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,138,SP,TRUIST FINANCIAL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,139,SP,ITT INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,140,SP,MKS INSTRUMENTS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,141,SP,"O'REILLY AUTOMOTIVE, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,142,SP,HP INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,143,SP,TERADYNE INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,144,SP,COCA-COLA EUROPEAN PARTNERS PL CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,145,SP,"VERISIGN, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,146,SP,FORD MOTOR COMPANY CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,147,SP,"INTERACTIVE BROKERS GROUP, INC CMN CLASS A",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,148,SP,ECOLAB INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,149,SP,REPUBLIC SERVICES INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,150,SP,"MONOLITHIC POWER SYSTEMS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,151,SP,TD AMERITRADE HOLDING CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,152,SP,CARNIVAL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,153,SP,WESTERN DIGITAL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,154,SP,SNAP-ON INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,155,SP,"VERISK ANALYTICS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,156,SP,AGCO CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,157,SP,CSX CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,158,SP,VF CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,159,SP,"LAMB WESTON HOLDINGS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,160,SP,ABBVIE INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,161,SP,ARCH CAPITAL GROUP LTD. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,162,SP,ULTA BEAUTY INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,163,SP,EQUITY RESIDENTIAL CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,164,SP,MARVELL TECHNOLOGY GROUP LTD. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,165,SP,ATHENE HOLDING LTD. CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,166,SP,NORWEGIAN CRUISE LINE HLDG LTD CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,167,SP,"AUTOZONE, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,168,SP,PENTAIR PLC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,169,SP,LOEWS CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,170,SP,"ENTEGRIS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,171,SP,AVALONBAY COMMUNITIES INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,172,SP,CHEVRON CORPORATION CMN,,sale,2020-01-08,2020-02-04,C,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,173,SP,APPLIED MATERIALS INC CMN,,sale,2020-01-08,2020-02-04,C,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,174,SP,BROADCOM INC. CMN,,sale,2020-01-08,2020-02-04,C,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,175,SP,CITIGROUP INC. CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,176,SP,APPLE INC. CMN,,sale,2020-01-13,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,177,SP,"BLACKROCK, INC. CMN",,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,178,SP,STARBUCKS CORP. CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,179,SP,"PAYPAL HOLDINGS, INC. CMN",,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,180,SP,AMETEK INC (NEW) CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,181,SP,ILLINOIS TOOL WORKS CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,182,SP,KINDER MORGAN INC CMN CLASS P,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,183,SP,BANK OF AMERICA CORP CMN,,sale,2020-01-30,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,184,SP,HARTFORD FINANCIAL SRVCS GROUP CMN,,sale,2020-01-06,2020-02-04,B,medium,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued); trade date reads 01/06/20 but may be 01/08/20 like its neighbors
+8216965,6,185,SP,S&P GLOBAL INC. CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,186,SP,WILLIS TOWERS WATSON PLC CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,187,SP,ON SEMICONDUCTOR CORPORATION CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,188,SP,"PEPSICO, INC. CMN",,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,189,SP,PACCAR INC CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,190,SP,MICROCHIP TECHNOLOGY INCORPORA CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,6,191,SP,GRAPHIC PACKAGING HLDGCO CMN,,sale,2020-01-27,2020-02-04,B,high,Typed attachment page 6 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,192,SP,"THE TRAVELERS COMPANIES, INC CMN",,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,193,SP,"AGILENT TECHNOLOGIES, INC. CMN",,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,194,SP,"BECTON, DICKINSON AND COMPANY CMN",,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,195,SP,"ENTEGRIS, INC. CMN",,sale,2020-01-02,2020-02-04,B,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,196,SP,"EQUINIX, INC. REIT",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,197,SP,XILINX INCORPORATED CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,198,SP,PRUDENTIAL FINANCIAL INC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,199,SP,"ROSS STORES,INC CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,200,SP,STERLING BANCORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,201,SP,"METLIFE, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,202,SP,"AMERICAN INTL GROUP, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,203,SP,"ENTEGRIS, INC. CMN",,sale,2020-01-14,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,204,SP,FIRST REPUBLIC BANK CMN SERIES,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,205,SP,"FIREEYE, INC. CMN",,sale,2020-01-07,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,206,SP,ORACLE CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,207,SP,"ENTEGRIS, INC. CMN",,sale,2020-01-13,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,208,SP,BANK OF AMERICA CORP CMN,,sale,2020-01-30,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,209,SP,"YUM BRANDS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,210,SP,INCYTE CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,211,SP,"MERCK & CO., INC. CMN",,sale,2020-01-02,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,212,SP,TYSON FOODS INC CL-A CMN CLASS A,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,213,SP,APPLE INC. CMN,,sale,2020-01-28,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,214,SP,"DOLLAR TREE STORES, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,215,SP,DENTSPLY SIRONA INC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,216,SP,DISH NETWORK CORPORATION CMN CLASS A,,sale,2020-01-24,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,217,SP,CYPRESS SEMICONDUCTOR CORPORAT CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,218,SP,DEERE & COMPANY CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,219,SP,APPLE INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,220,SP,EXPEDIA GROUP INC CMN,,sale,2020-01-10,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,221,SP,LENNAR CORPORATION CMN CLASS A,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,222,SP,"MARRIOTT INTERNATIONAL, INC CMN CLASS A",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,223,SP,GRAPHIC PACKAGING HLDGCO CMN,,sale,2020-01-22,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,224,SP,FEDERAL RLTY INVT TR SBI CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,225,SP,YANDEX N.V. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,226,SP,"PRINCIPAL FINANCIAL GROUP, INC CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,227,SP,"ENTEGRIS, INC. CMN",,sale,2020-01-10,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,228,SP,MONSTER BEVERAGE CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,229,SP,"ENTEGRIS, INC. CMN",,sale,2020-01-02,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,230,SP,NCR CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,231,SP,MANPOWER GROUP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,232,SP,"BOSTON PROPERTIES, INC. COMMON STOCK",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,233,SP,DISH NETWORK CORPORATION CMN CLASS A,,sale,2020-01-29,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,234,SP,OCCIDENTAL PETROLEUM CORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,235,SP,FORTUNE BRANDS HOME & SECURITY CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,236,SP,SEAGATE TECHNOLOGY PLC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,237,SP,CONSTELLATION BRANDS INC CMN CLASS A,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,238,SP,"MATCH GROUP, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,239,SP,NORTONLIFELOCK IN CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,240,SP,HANESBRANDS INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,241,SP,PINNACLE FINL PARTNERS INC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,242,SP,LAM RESEARCH CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,243,SP,AXALTA COATING SYSTEMS LTD. CMN,,sale,2020-01-29,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,244,SP,MACERICH COMPANY CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,245,SP,"C.H. ROBINSON WORLDWIDE, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,246,SP,"ALEXION PHARMACEUTICALS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,247,SP,QURATE RETAIL INC CMN SERIES A,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,248,SP,NXP SEMICONDUCTORS N.V. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,249,SP,GRAPHIC PACKAGING HLDGCO CMN,,sale,2020-01-14,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,250,SP,"DIGITAL REALTY TRUST, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,7,251,SP,WORLD WRESTLING ENTERTAINMENT CMN CLASS A,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 7 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,252,SP,PERRIGO CO PLC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,253,SP,EXTRA SPACE STORAGE INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,254,SP,"F5 NETWORKS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,255,SP,"ARISTA NETWORKS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,256,SP,XEROX HOLDINGS CORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,257,SP,EBAY INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,258,SP,WAYFAIR INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,259,SP,AMERICAN AIRLINES GROUP INC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,260,SP,"YUM CHINA HOLDINGS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,261,SP,"COTY, INC. CMN CLASS A",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,262,SP,OSHKOSH CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,263,SP,PULTEGROUP INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,264,SP,"EXELIXIS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,265,SP,BOEING COMPANY CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,266,SP,TEXTRON INC.DEL. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,267,SP,COSTCO WHOLESALE CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,268,SP,UGI CORPORATION (HOLDING CO) CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,269,SP,THE KRAFT HEINZ CO CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,270,SP,"ETSY, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,271,SP,"NRG ENERGY, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,272,SP,THE GOODYEAR TIRE & RUBBER CO. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1994 Trust (continued)
+8216965,8,273,SP,METROPOLITAN GOVT NASHVILLE & GO 5% 07/01/20 JJ,,purchase,2020-01-21,2020-02-04,D,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,274,SP,PENNSYLVANIA ST GO 5% 11/15/20 MN,,purchase,2020-01-09,2020-02-04,B,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,275,SP,MADISON WIS GO 4% 10/01/20 AO,,purchase,2020-01-07,2020-02-04,B,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,276,SP,EXXON MOBIL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,277,SP,3M COMPANY CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,278,SP,HONEYWELL INTL INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,279,SP,BANK OF AMERICA CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,280,SP,PFIZER INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,281,SP,ELI LILLY & CO CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,282,SP,"FACEBOOK, INC. CMN CLASS A",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,283,SP,AMAZON.COM INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,284,SP,"MARRIOTT INTERNATIONAL, INC CMN CLASS A",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,285,SP,DUPONT DE NEMOURS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,286,SP,AFLAC INCORPORATED CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,287,SP,SIMON PROPERTY GROUP INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,288,SP,UNITED TECHNOLOGIES CORPORATIO CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,289,SP,NISOURCE INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,290,SP,BOSTON SCIENTIFIC CORP. COMMON STOCK,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,291,SP,THE BANK OF NY MELLON CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,292,SP,AMERICAN EXPRESS CO. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,293,SP,ADOBE INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,294,SP,PRUDENTIAL FINANCIAL INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,295,SP,CHARLES SCHWAB CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,296,SP,"MICRON TECHNOLOGY, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,297,SP,"SALESFORCE.COM, INC CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,298,SP,"DELTA AIR LINES, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,299,SP,GENERAL MOTORS COMPANY CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,300,SP,VISA INC. CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,301,SP,CLOROX CO (THE) (DELAWARE) CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,302,SP,"CENTERPOINT ENERGY, INC CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,303,SP,"CHURCH & DWIGHT CO., INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,304,SP,EXELON CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,305,SP,FIDELITY NATL INFO SVCS INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,306,SP,LENNAR CORPORATION CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,307,SP,"VERIZON COMMUNICATIONS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,308,SP,NORFOLK SOUTHERN CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,309,SP,"YUM BRANDS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,8,310,SP,CME GROUP INC. CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 8 of 11; account: Ritu Ahuja 1995 Trust
+8216965,9,311,SP,HARTFORD FINANCIAL SRVCS GROUP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,312,SP,OMNICOM GROUP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,313,SP,"DARDEN RESTAURANTS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,314,SP,MASTERCARD INCORPORATED CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,315,SP,"AUTODESK, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,316,SP,CONSTELLATION BRANDS INC CMN CLASS A,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,317,SP,SERVICENOW INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,318,SP,INGERSOLL-RAND PLC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,319,SP,"VENTAS, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,320,SP,UDR INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,321,SP,"C.H. ROBINSON WORLDWIDE, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,322,SP,UNUM GROUP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,323,SP,WEYERHAEUSER COMPANY CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,324,SP,HILTON WORLDWIDE HOLDINGS INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,325,SP,ESSEX PROPERTY TRUST INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,326,SP,REPUBLIC SERVICES INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,327,SP,CARNIVAL CORPORATION CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,328,SP,PINNACLE WEST CAPITAL CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,329,SP,DOW INC. CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,330,SP,"AUTOZONE, INC. CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,331,SP,TAKE TWO INTERACTIVE SOFTWARE INC,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,332,SP,MARSH & MCLENNAN CO INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,333,SP,NORTHROP GRUMMAN CORP CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,334,SP,"ACTIVISION BLIZZARD, INC CMN",,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,335,SP,LIVE NATION ENTERTAINMENT INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,336,SP,ULTA BEAUTY INC CMN,,purchase,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,337,SP,PUT/XSP @ 318 EXP 03/31/2020,,sale,2020-01-22,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,338,SP,PUT/XSP @ 312 EXP 03/20/2020,,sale,2020-01-15,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,339,SP,PUT/XSP @ 315 EXP 02/28/2020,,sale,2020-01-09,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,340,SP,MC DONALDS CORP CMN,,sale,2020-01-08,2020-02-04,B,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,341,SP,STARBUCKS CORP. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,342,SP,WALT DISNEY COMPANY (THE) CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,343,SP,CHEVRON CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,344,SP,UNION PACIFIC CORP. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,345,SP,AIR PRODUCTS & CHEMICALS INC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,346,SP,KINDER MORGAN INC CMN CLASS P,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,347,SP,ALPHABET INC. CMN CLASS A,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,348,SP,"METLIFE, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,349,SP,BOEING COMPANY CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,350,SP,DUKE ENERGY CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,351,SP,KIMBERLY-CLARK CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,352,SP,"AMERICAN INTL GROUP, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,353,SP,"AGILENT TECHNOLOGIES, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,354,SP,SYNOVUS FINANCIAL CORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,355,SP,"PRINCIPAL FINANCIAL GROUP, INC CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,356,SP,"PPG INDUSTRIES, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,357,SP,ELECTRONIC ARTS CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,358,SP,WILLIS TOWERS WATSON PLC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,359,SP,"TWITTER, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,360,SP,"D.R. HORTON, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,361,SP,FEDEX CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,362,SP,DIVERSIFIED HEALTHCARE TRUST CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,363,SP,PACKAGING CORP OF AMERICA COMMON STOCK,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,364,SP,PUBLIC-SVC ENTERPRISE GROUP HOLDING CO,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,365,SP,LINCOLN NATL.CORP.INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,366,SP,SEAGATE TECHNOLOGY PLC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,367,SP,COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,368,SP,NORTONLIFELOCK IN CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,369,SP,JOHNSON CONTROLS INTERNATIONAL CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,9,370,SP,LOCKHEED MARTIN CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 9 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,371,SP,XEROX HOLDINGS CORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,372,SP,CAPITAL ONE FINANCIAL CORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,373,SP,NCR CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,374,SP,"DOLLAR TREE STORES, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,375,SP,MASCO CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,376,SP,VULCAN MATERIALS CO CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,377,SP,STERLING BANCORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,378,SP,"WASTE CONNECTIONS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,379,SP,MANPOWER GROUP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,380,SP,RAYTHEON COMPANY CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,381,SP,DISCOVER FINANCIAL SERVICES CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,382,SP,"WORKDAY, INC. CMN CLASS A",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,383,SP,COLGATE-PALMOLIVE CO CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,384,SP,"WYNN RESORTS, LIMITED CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,385,SP,NORTHERN TRUST CORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,386,SP,MARATHON PETROLEUM CORPORATION CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,387,SP,WESTERN ALLIANCE BANCORP CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,388,SP,"AMERICAN WATER WORKS CO, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,389,SP,MOHAWK INDUSTRIES INC COMMON STOCK,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,390,SP,CONSOLIDATED EDISON INC CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,391,SP,"BOSTON PROPERTIES, INC. COMMON STOCK",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,392,SP,"VMWARE, INC. CMN CLASS A",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,393,SP,PULTEGROUP INC. CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,394,SP,MACERICH COMPANY CMN,,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,10,395,SP,"ARISTA NETWORKS, INC. CMN",,sale,2020-01-08,2020-02-04,A,high,Typed attachment page 10 of 11; account: Ritu Ahuja 1995 Trust (continued)
+8216965,11,396,SP,Strategic Value FNBA Investors LP Limited Partnership Interest,,purchase,2020-01-10,2020-01-02,B,high,Typed attachment page 11 of 11; account: M & R Trust Partnership; notification date (01/02/20) is before the trade date as filed
