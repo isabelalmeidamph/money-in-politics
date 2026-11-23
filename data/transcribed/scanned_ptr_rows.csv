@@ -2740,3 +2740,169 @@ filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date
 8217060,13,573,DC,Transtar/Speedstar Holding Company PIK Note,,purchase,2020-02-10,2020-02-20,C,high,"Typed attachment page 13 of 13; account: Grandchildren's Trust (Ask Partners, LLC)"
 8217060,13,574,SP,Citymark Capital U.S. Apartment Fund II L.P.,,purchase,2020-02-19,2020-02-13,E,high,Typed attachment page 13 of 13; account: Areco; notification date (02/13/20) printed as earlier than the transaction date (02/19/20)
 8217060,13,575,DC,Citymark Capital U.S. Apartment Fund II L.P.,,purchase,2020-02-19,2020-02-13,B,high,Typed attachment page 13 of 13; account: Areco; notification date (02/13/20) printed as earlier than the transaction date (02/19/20)
+8217103,1,0,,,,,,,,high,Harold Rogers: form states NOTHING TO REPORT - no transactions
+8217113,1,1,SELF,Community Trust Bancorp Inc,,purchase,2020-02-21,2020-02-21,A,high,Handwritten; owner column blank (filer)
+8217113,1,2,SELF,Westlake Chemical Corporation,,purchase,2020-02-24,2020-02-24,A,high,Handwritten; owner column blank (filer)
+8217113,1,3,SELF,Apple,,purchase,2020-02-24,2020-02-24,A,high,Handwritten; owner column blank (filer)
+8217113,1,4,SELF,Bank of America,,purchase,2020-02-25,2020-02-25,B,high,Handwritten; owner column blank (filer)
+8217113,2,5,SELF,Republic Bancorp Inc. KY,,purchase,2020-02-25,2020-02-25,A,high,Handwritten; owner column blank (filer)
+8217113,2,6,SELF,Apple,,purchase,2020-03-18,2020-03-18,A,high,Handwritten; owner column blank (filer)
+8217114,2,1,SELF,Brown Advisory Global Leaders Fund Cl Inst,,purchase,2020-03-12,,E,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,2,SELF,"AvalonBay Communities, Inc.",,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,3,SELF,Public Storage,,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,4,SELF,JBG Smith Properties,,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,5,SELF,iShares Core MSCI EAFE ETF,,sale,2020-03-12,,E,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,6,SELF,Federal Realty Investment Trust,,sale,2020-03-12,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,7,SELF,Chicago IL O'Hare International Airport 5% DUE 01-01-2027,,sale,2020-03-02,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,8,SELF,Washington Multnomah & Yamhill Cos. OR Sch Dist #1J GO 4% DUE 06-15-2035,,purchase,2020-03-02,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,9,SELF,New York City NY TFA Future Tax 5% DUE 11-01-2027,,sale,2020-02-21,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,10,SELF,Canadian National Railway Co.,,purchase,2020-03-16,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,11,SELF,"Broadcom, Inc.",,sale,2020-03-17,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,12,SELF,"Blackstone Group, Inc.",,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,13,SELF,Canadian National Railway Co.,,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,14,SELF,"Analog Devices, Inc.",,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,15,SELF,Target Corp.,,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,16,SELF,"T. Rowe Price Group, Inc.",,purchase,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,17,SELF,Occidental Petroleum Corp.,,sale,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,18,SELF,VF Corp.,,sale,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,19,SELF,"Broadcom, Inc.",,sale,2020-03-12,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,20,SELF,"Blackstone Group, Inc.",,purchase,2020-03-11,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,21,SELF,"T. Rowe Price Group, Inc.",,purchase,2020-03-11,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,22,SELF,Wells Fargo & Co.,,sale,2020-03-11,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,23,SELF,Bank of America Corp.,,sale,2020-03-11,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,24,SELF,"Ameriprise Financial, Inc.",,purchase,2020-03-05,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,25,SELF,"AbbVie, Inc.",,purchase,2020-02-28,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,26,SELF,"AbbVie, Inc.",,purchase,2020-02-25,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,27,SELF,General Dynamics Corp.,,purchase,2020-02-25,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217114,2,28,SELF,RTN Development LLC,,partial sale,2020-03-02,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217084,1,1,SELF,ALPHABET INC SHS CL C,,sale,2020-02-24,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,1,2,SELF,MERCADOLIBRE INC,,sale,2020-02-24,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,1,3,SELF,FACEBOOK INC CLASS A COMMON STOCK,,sale,2020-02-24,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,1,4,SELF,CARVANA CO CL A,,purchase,2020-02-18,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,1,5,SELF,TWILIO INC CL A,,purchase,2020-02-07,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,2,6,SELF,SLACK TECHNOLOGIES INC CL A,,purchase,2020-02-04,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,2,7,SELF,FACEBOOK INC CLASS A COMMON STOCK,,sale,2020-02-03,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,2,8,SELF,SQUARE INC SHS CL A,,purchase,2020-02-03,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,2,9,SELF,ZOOM VIDEO COMMUNICATIONS INC CL A,,purchase,2020-01-31,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,2,10,SELF,ALPHABET INC SHS CL C,,sale,2020-01-31,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,2,11,SELF,PROLOGIS INC COM,,purchase,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,2,12,SELF,BP PLC SPON ADR,,purchase,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,3,13,SELF,KLA CORP,,purchase,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,3,14,SELF,NEXTERA ENERGY INC COM,,purchase,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,3,15,SELF,PROCTER & GAMBLE CO,,purchase,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,3,16,SELF,LINDE PLC EUR,,purchase,2020-02-27,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,3,17,SELF,PUBLIC STORAGE REIT,,purchase,2020-02-27,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,3,18,SELF,WILLIS TOWERS WATSON PUB LTD CO,,purchase,2020-02-27,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,3,19,SELF,ESSEX PROPERTY TRUST INC,,purchase,2020-02-26,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,4,20,SELF,AMER ELECTRIC POWER CO,,purchase,2020-02-26,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,4,21,SELF,ORANGE SPON ADR,,purchase,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,4,22,SELF,BIC SA ADR,,purchase,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,4,23,SELF,DTE ENERGY CO,,purchase,2020-02-21,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,4,24,SELF,EMCOR GROUP INC,,purchase,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,4,25,SELF,ESSEX PROPERTY TRUST INC,,purchase,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,4,26,SELF,HONEYWELL INTL INC,,purchase,2020-02-12,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,5,27,SELF,IMPERIAL BRANDS PLC SPON ADR,,purchase,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,5,28,SELF,MERCK & CO INC NEW COM,,purchase,2020-02-21,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,5,29,SELF,MERCK & CO INC NEW COM,,purchase,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,5,30,SELF,PROLOGIS INC COM,,purchase,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,5,31,SELF,KEYCORP NEW,,purchase,2020-02-20,2020-03-12,C,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,5,32,SELF,DOUGLAS EMMETT INC,,purchase,2020-02-14,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,5,33,SELF,ITT INC COM,,purchase,2020-02-14,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,6,34,SELF,PROCTER & GAMBLE CO,,purchase,2020-02-14,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,6,35,SELF,REPSOL SA SPON ADR,,purchase,2020-02-14,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,6,36,SELF,CELANESE CORP NEW,,purchase,2020-02-12,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,6,37,SELF,AMER EXPRESS CO,,purchase,2020-02-12,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,6,38,SELF,BROADRIDGE FINANCIAL SOLUTIONS INC,,purchase,2020-02-12,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,6,39,SELF,CYRUSONE INC REIT,,purchase,2020-02-12,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,6,40,SELF,CITIGROUP INC,,purchase,2020-02-12,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,7,41,SELF,OLD REPUBLIC INTL CORP,,purchase,2020-02-12,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,7,42,SELF,MCDONALDS CORP,,purchase,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,7,43,SELF,MERCK & CO INC NEW COM,,purchase,2020-02-11,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,7,44,SELF,PUBLIC SERVICE ENTERPRSE GROUP INC,,purchase,2020-02-10,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,7,45,SELF,CONOCOPHILLIPS,,purchase,2020-02-10,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,7,46,SELF,TAISHO PHARMACEUTICAL HLDGS CO LTD,,purchase,2020-02-10,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,7,47,SELF,VERIZON COMMUNICATIONS INC,,purchase,2020-02-10,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,8,48,SELF,INTERCONTINENTALEXCHANGE GROUP,,purchase,2020-02-07,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,8,49,SELF,CYRUSONE INC REIT,,purchase,2020-02-07,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,8,50,SELF,SWATCH GROUP AG ADR,,purchase,2020-02-06,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,8,51,SELF,AMER EXPRESS CO,,purchase,2020-02-06,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,8,52,SELF,"HCA HEALTHCARE, INC",,purchase,2020-02-06,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,8,53,SELF,J. SAINSBURY PLC SPON ADR,,purchase,2020-02-06,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,8,54,SELF,PUBLICIS GROUPE S.A. NEW SPON ADR,,purchase,2020-02-06,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,9,55,SELF,"HCA HEALTHCARE, INC",,purchase,2020-02-05,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,9,56,SELF,AMER EXPRESS CO,,purchase,2020-02-05,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,9,57,SELF,BANK OF AMER CORP,,purchase,2020-02-05,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,9,58,SELF,HONEYWELL INTL INC,,purchase,2020-02-05,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,9,59,SELF,G4S ADR,,purchase,2020-02-04,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,9,60,SELF,WHIRLPOOL CORP,,purchase,2020-02-03,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,9,61,SELF,ONEOK INC NEW,,purchase,2020-02-03,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,10,62,SELF,TOTAL S.A. FRANCE SPON ADR,,purchase,2020-02-03,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,10,63,SELF,EOG RESOURCES INC,,sale,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,10,64,SELF,DOW INC,,sale,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,10,65,SELF,REINSURANCE GROUP AMER INC NEW,,sale,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,10,66,SELF,VALERO ENERGY CORP NEW,,sale,2020-02-28,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,10,67,SELF,CRANE CO,,sale,2020-02-27,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,10,68,SELF,VULCAN MATERIALS CO NEW (HOLDING CO),,sale,2020-02-27,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,11,69,SELF,REINSURANCE GROUP AMER INC NEW,,sale,2020-02-26,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,11,70,SELF,OCCIDENTAL PETROLEUM CRP,,sale,2020-02-26,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,11,71,SELF,UNTD TECHNOLOGIES CORP,,sale,2020-02-26,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,11,72,SELF,ROCHE HLDG LTD SPONS ADR SWITZ ADR,,sale,2020-02-21,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,11,73,SELF,ALEXANDRIA REAL ESTATE EQUITIES,,sale,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,11,74,SELF,EATON CORP PLC,,sale,2020-02-21,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,11,75,SELF,CROWN CASTLE INTL CORP REIT,,sale,2020-02-21,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,12,76,SELF,FIDELITY NATIONAL FINANCIAL IN COM,,sale,2020-02-21,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,12,77,SELF,PINNACLE WEST CAP CORP,,sale,2020-02-21,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,12,78,SELF,TARGET CORP,,sale,2020-02-21,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,12,79,SELF,EXPEDITORS INTL WASH INC,,sale,2020-02-20,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,12,80,SELF,HOME DEPOT INC,,sale,2020-02-19,2020-03-12,C,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,12,81,SELF,CHEVRON CORP,,sale,2020-02-14,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,12,82,SELF,EATON CORP PLC,,sale,2020-02-14,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,13,83,SELF,CONOCOPHILLIPS,,sale,2020-02-14,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,13,84,SELF,PROGRESSIVE CORP OHIO,,sale,2020-02-12,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,13,85,SELF,AUTOMATIC DATA PROCESSNG INC,,sale,2020-02-12,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,13,86,SELF,CORESITE RLTY CORP COM REIT,,sale,2020-02-12,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,13,87,SELF,QUEST DIAGNOSTICS INC,,sale,2020-02-12,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,13,88,SELF,PFIZER INC,,sale,2020-02-11,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,13,89,SELF,ROYAL CARIBBEAN CRUISES LTD LIBERIA,,sale,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,14,90,SELF,FIDELITY NATIONAL FINANCIAL IN COM,,sale,2020-02-07,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,14,91,SELF,GENERAL MOTORS CO,,sale,2020-02-07,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,14,92,SELF,CORESITE RLTY CORP COM REIT,,sale,2020-02-07,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,14,93,SELF,EXPEDITORS INTL WASH INC,,sale,2020-02-06,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,14,94,SELF,UNTD TECHNOLOGIES CORP,,sale,2020-02-05,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,14,95,SELF,GENERAL MOTORS CO,,sale,2020-02-05,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,14,96,SELF,EXPEDITORS INTL WASH INC,,sale,2020-02-05,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,15,97,SELF,US BANCORP DEL (NEW),,sale,2020-02-05,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,15,98,SELF,DAI NIPPON PRINTING CO SPON ADR,,sale,2020-02-04,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,15,99,SELF,KIMCO REALTY CORP,,sale,2020-02-03,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,15,100,SELF,TC ENERGY CORP CAD,,sale,2020-02-03,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,15,101,SELF,WILLIAMSON CNTY TN REF-C BE/R/,,purchase,2020-02-21,2020-03-12,D,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,15,102,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #53713
+8217084,15,103,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #53978
+8217084,16,104,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #54231
+8217084,16,105,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #54559
+8217084,16,106,SELF,INTEL CORP DE,,sale,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #53714
+8217084,16,107,SELF,MICROSOFT CORP DE,,sale,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #53979
+8217084,16,108,SELF,MARSH & MCLENNAN COS INC DE,,sale,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,16,109,SELF,NEXTERA ENERGY INC COM DE,,sale,2020-02-11,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,16,110,SELF,ACCENTURE PLC IRELAND CL A,,purchase,2020-02-18,2020-03-12,,high,Typed on paper form; asset name cut off at the box edge on the scan; no amount box marked on the filing
+8217084,17,111,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: page 17 is an exact repeat of page 16; same as page 16 line 104
+8217084,17,112,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: page 17 is an exact repeat of page 16; same as page 16 line 105
+8217084,17,113,SELF,INTEL CORP DE,,sale,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: page 17 is an exact repeat of page 16; same as page 16 line 106
+8217084,17,114,SELF,MICROSOFT CORP DE,,sale,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: page 17 is an exact repeat of page 16; same as page 16 line 107
+8217084,17,115,SELF,MARSH & MCLENNAN COS INC DE,,sale,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: page 17 is an exact repeat of page 16; same as page 16 line 108
+8217084,17,116,SELF,NEXTERA ENERGY INC COM DE,,sale,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: page 17 is an exact repeat of page 16; same as page 16 line 109
+8217084,17,117,SELF,ACCENTURE PLC IRELAND CL A,,purchase,2020-02-18,2020-03-12,,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: page 17 is an exact repeat of page 16; same as page 16 line 110; no amount box marked on the filing
+8217084,18,118,SELF,FACEBOOK INC CL A DE,,purchase,2020-02-18,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #99859
+8217084,18,119,SELF,O REILLY AUTOMOTIVE INC DE,,purchase,2020-02-18,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,18,120,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: trade #54231 also on page 16 line 104
+8217084,18,121,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: trade #53713 also on page 15 line 102
+8217084,18,122,SELF,CISCO SYSTEMS INC DE,,purchase,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: trade #53978 also on page 15 line 103
+8217084,18,123,SELF,ALPHABET INC CL A DE,,sale,2020-02-18,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #99860
+8217084,18,124,SELF,ADOBE INC. (DELAWARE) DE,,sale,2020-02-18,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,19,125,SELF,AMERICAN TOWER CORP REIT DE,,sale,2020-02-18,2020-03-12,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217084,19,126,SELF,NUCOR CORP DE,,sale,2020-02-13,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #88017
+8217084,19,127,SELF,AT&T INC DE,,sale,2020-02-13,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #88019
+8217084,19,128,SELF,ENBRIDGE INC CAD DE,,sale,2020-02-13,2020-03-12,B,high,Typed on paper form; asset name cut off at the box edge on the scan; trade #88016
+8217084,19,129,SELF,MARSH & MCLENNAN COS INC DE,,sale,2020-02-11,2020-03-12,A,reviewed_uncertain,"Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same asset, date and amount as page 16 line 108 (trade number cut off)"
+8217084,19,130,SELF,INTEL CORP DE,,sale,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: trade #53714 also on page 16 line 106
+8217084,19,131,SELF,MICROSOFT CORP DE,,sale,2020-02-11,2020-03-12,A,reviewed_uncertain,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: trade #53979 also on page 16 line 107
