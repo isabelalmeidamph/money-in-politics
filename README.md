@@ -1,0 +1,71 @@
+# money-in-politics
+
+A free, public resource showing what members of Congress own and trade in stocks. Every number links back to the official filing it came from.
+
+Version 1 covers the stock holdings and trades of members of Congress. FEC campaign contributions and Senate lobbying data come later, linked by each member's bioguide ID.
+
+## Status: Phase 0 (foundation)
+
+| Phase | What | Status |
+| --- | --- | --- |
+| 0 | Member roster and House filing indexes in DuckDB/Parquet, filings linked to members | Done |
+| 1 | Parse e-filed House trade reports (PTRs) | Next |
+| 2 | Senate eFD and OCR for scanned filings | |
+| 3 | Annual holdings, sectors, committee overlap | |
+| 4 | Public launch | |
+| 5 | FEC contributions and lobbying | |
+
+## Quick start
+
+```bash
+pip install -r requirements.txt
+bash scripts/fetch_sources.sh                                       # House indexes + member roster
+python3 scripts/build_phase0.py data/house_index refs data/processed
+```
+
+Querying the results with DuckDB:
+
+```sql
+select m.official_full, m.party, count(*) as trade_reports
+from 'data/processed/filing.parquet' f
+join 'data/processed/member.parquet' m using (bioguide_id)
+where f.filing_type = 'P'
+group by all order by trade_reports desc limit 10;
+```
+
+## Data sources
+
+| Source | Used for |
+| --- | --- |
+| [House Clerk financial disclosures](https://disclosures-clerk.house.gov/FinancialDisclosure/ViewReport) | Yearly index of every House filing (`{YEAR}FD.ZIP`) |
+| [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) | Member IDs, party, districts, terms, committees |
+
+## Tables (`data/processed/`)
+
+| Table | One row per | Notes |
+| --- | --- | --- |
+| `member` | Member who served in 2019 or later (House and Senate) | `bioguide_id` is the join key; includes FEC and OpenSecrets IDs |
+| `member_term` | Term served in 2019 or later | Type, state, district, party, start and end dates |
+| `committee_membership` | Member × committee or subcommittee (current Congress) | |
+| `filing` | House disclosure filing, 2020–2026 | `format` = e-filed / scanned; `source_url` points to the PDF; `bioguide_id` and `match_method` (`district` or `state`) link the filer to a member |
+| `filing_type` | Filing type code | `confirmed = false` means the label is a best guess; it hasn't been checked against Clerk documentation |
+
+## Phase 0 findings (House index as published Nov 20, 2026)
+
+- 17,928 House filings were indexed from 2020 to 2026. Of these, 3,940 are trade reports (PTRs) filed by 270 different members.
+- 3,938 of the 3,940 PTRs (99.9%) are linked to a member. The other 2 come from non-members.
+- 623 PTRs (15.8%) are paper scans that will need OCR. Scans are concentrated among a few heavy filers: every PTR from Ro Khanna (83), Harold Rogers (81) and Michael McCaul (80) is a scan. Skipping scanned filings would leave out some of the most active traders.
+
+| Year | PTRs | E-filed | Scanned | Members filing |
+| --- | --- | --- | --- | --- |
+| 2020 | 733 | 597 | 136 | 119 |
+| 2021 | 680 | 565 | 115 | 124 |
+| 2022 | 624 | 505 | 119 | 116 |
+| 2023 | 460 | 388 | 72 | 101 |
+| 2024 | 451 | 394 | 57 | 98 |
+| 2025 | 515 | 449 | 66 | 108 |
+| 2026 (to Nov 20) | 477 | 419 | 58 | 111 |
+
+## Use of this data
+
+These reports are public under the Ethics in Government Act. Under [5 U.S.C. § 13107(c)](https://uscode.house.gov/us/usc/119-120/t5/s13107/), it is unlawful to use them for any unlawful purpose, for a commercial purpose (except by news media sharing them with the public), to determine anyone's credit rating, or to solicit money for any political, charitable or other purpose. This project is free, non-commercial and does no fundraising with the data.

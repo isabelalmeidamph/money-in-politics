@@ -1,0 +1,8 @@
+# fetched reference files (re-download with scripts/fetch_sources.sh)
+refs/*.yaml
+tmp/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.venv/
+.DS_Store
