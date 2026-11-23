@@ -3272,3 +3272,306 @@ filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date
 8217121,53,364,SELF,SMYRNA TN BE/R/,,sale,2020-03-24,2020-04-03,D,high,Typed on paper form; asset name cut off at the box edge on the scan
 8217121,53,365,SELF,MISSOURI ST BRD PUB BLDG SR A RV BE/R/,,sale,2020-03-16,2020-04-03,D,high,Typed on paper form; asset name cut off at the box edge on the scan
 8217121,53,366,SELF,NYS THRUWAY AUTH INCOME SR A RV /R/,,sale,2020-03-10,2020-04-03,D,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217163,1,1,SP,New York City NY Muni Wtr Fin A,,purchase,2020-02-06,2020-03-04,D,high,Handwritten
+8217198,1,1,SP,New York City NY Muni Wtr Fin A,,purchase,2020-02-06,2020-03-04,D,reviewed_uncertain,"Handwritten; possible duplicate: same trade as filing 8217163 (page signed 4/29/20, received 5/5/20, apparently a resubmission)"
+8217253,1,1,SP,"Cleveland Cliffs, Inc",,purchase,2020-04-29,2020-05-07,B,high,Handwritten
+8217402,1,1,SP,California State GO Call 12/1/27,,sale,2020-06-01,2020-07-13,A,medium,Handwritten; call date in the name hard to read (12/1/27 or 1/1/27)
+8217212,1,1,SELF,Bridge Builder Core Bond,,sale,2020-03-26,2020-04-10,A,high,Typed; owner column blank (filer)
+8217212,1,2,SELF,Bridge Builder Core Bond,,sale,2020-03-26,2020-04-10,A,reviewed_uncertain,Typed; owner column blank (filer); possible duplicate: identical to the row above (no trade numbers to tell them apart)
+8217326,1,0,,,,,,,,high,Harold Rogers: form states NOTHING TO REPORT FOR APRIL 2020
+8217353,1,1,SELF,Walt Disney,,purchase,2020-06-09,2020-06-09,A,high,Handwritten; owner column blank (filer)
+8217353,1,2,SELF,Southern Company,,purchase,2020-06-09,2020-06-09,B,high,Handwritten; owner column blank (filer)
+8217353,1,3,SELF,Southern Company,,purchase,2020-06-17,2020-06-17,C,high,Handwritten; owner column blank (filer)
+8217364,1,1,SELF,Apple Inc,,sale,2020-07-06,2020-07-08,A,high,Typed; marked with check marks; owner column blank (filer)
+8217474,1,1,SELF,Conoco Phillips,,sale,2020-07-21,2020-07-23,A,high,Handwritten; owner column blank (filer)
+8217474,1,2,SELF,Philip Morris Intl,,sale,2020-07-21,2020-07-23,A,high,Handwritten; owner column blank (filer)
+8217188,2,1,SELF,BA - Beutel Goodman Large-Cap Value Fund Cl Inst,,purchase,2020-03-20,,D,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,2,SELF,Brown Advisory Global Leaders Fund Cl Inst,,purchase,2020-03-20,,D,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,3,SELF,Artisan Global Value Fund Cl Ins,,sale,2020-03-20,,E,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,4,SELF,Brown Advisory Small-Cap Fundamental Value Fund Cl Inv,,purchase,2020-03-19,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,5,SELF,Brown Advisory Mid-Cap Growth Fund Cl Inst,,purchase,2020-03-19,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,6,SELF,Cardinal Small Cap Value Fund Cl Inst,,sale,2020-03-19,,D,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,7,SELF,New York City NY Transitional Finance Authority 5% DUE 11-01-2021,,purchase,2020-03-31,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,8,SELF,AZ State Lottery 5% DUE 07-01-2022,,purchase,2020-03-25,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,9,SELF,"W.P. Carey, Inc.",,sale,2020-04-07,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,10,SELF,"Kontoor Brands, Inc.",,sale,2020-04-07,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,11,SELF,Target Corp.,,purchase,2020-03-25,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,12,SELF,"T. Rowe Price Group, Inc.",,purchase,2020-03-24,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,13,SELF,Unilever NV,,sale,2020-03-24,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,14,SELF,"Philip Morris International, Inc.",,purchase,2020-03-24,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,15,SELF,"DuPont de Nemours, Inc.",,sale,2020-03-24,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,16,SELF,"Dow, Inc.",,purchase,2020-03-24,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,17,SELF,Microsoft Corp.,,sale,2020-03-23,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,18,SELF,"UnitedHealth Group, Inc.",,purchase,2020-03-23,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,19,SELF,"Home Depot, Inc.",,purchase,2020-03-18,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217188,2,20,SELF,"RP Band LLC - property investment at Irving Street and Michigan Avenue, Washington, DC",,purchase,2020-04-17,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217188,2,21,SELF,Morgan Stanley - BCS 17.00% WORSTOF CONTINGENT DAILY CALLABLE INDU RTY SPX,,purchase,2020-04-09,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217188,2,22,SELF,"Morgan Stanley - ALKEON GROWTH SER 2, 2.00",,purchase,2020-03-30,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217188,2,23,SELF,Note Receivable - Energy Holdings LLC,,partial sale,2020-04-07,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217281,2,1,SELF,Vanguard Dividend Growth Fund Cl Inv,,purchase,2020-05-08,,D,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,2,SELF,Raytheon Technologies Corp.,,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,3,SELF,"Philip Morris International, Inc.",,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,4,SELF,"Suncor Energy, Inc.",,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,5,SELF,Otis Worldwide Corp.,,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,6,SELF,"Altria Group, Inc.",,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,7,SELF,"Kinder Morgan, Inc.",,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,8,SELF,General Dynamics Corp.,,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,9,SELF,"Hasbro, Inc.",,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,10,SELF,Comcast Corp Cl A,,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,11,SELF,"Dow, Inc.",,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,12,SELF,Cincinnati Financial Corp.,,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,13,SELF,Bank of America Corp.,,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,14,SELF,"Ameriprise Financial, Inc.",,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,15,SELF,Carrier Global Corp.,,sale,2020-05-08,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,16,SELF,"Merck & Co, Inc.",,purchase,2020-05-05,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,17,SELF,Weyerhaeuser Co.,,sale,2020-05-05,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,18,SELF,Weyerhaeuser Co.,,sale,2020-04-30,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,19,SELF,Cincinnati Financial Corp.,,purchase,2020-04-30,,A,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217281,2,20,SELF,Brown Advisory - Brown Advisory Small-Cap Fundamental Value Fund Cl Inv,,purchase,2020-05-11,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217281,2,21,SELF,Goldman Sachs - WASHOE CNTY REV SCH DIST DB 5% 10/01/27 AO,,purchase,2020-05-12,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217281,2,22,SELF,Goldman Sachs - COLORADO ST ED LN PROG REV 3% 06/29/20 JD,,sale,2020-05-12,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217281,2,23,SELF,"1831 Michael Faraday, LLC - property investment in 1831 Michael Faraday Drive, Reston, VA",,partial sale,2020-04-22,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217345,2,1,SELF,Brown Advisory Mid-Cap Growth Fund Cl Inst,,purchase,2020-05-21,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,2,SELF,Brown Advisory Tax Exempt Bond Fund Cl Inst,,sale,2020-05-21,,G,reviewed_uncertain,"Typed schedule; account: Brown Advisory; no notification-date column; two amount boxes marked (C $50,001-$100,000 and G $1,000,001-$5,000,000); recorded G, the larger"
+8217345,2,3,SELF,Henrico Co VA Water & Sewer 4% DUE 05-01-2032,,purchase,2020-06-19,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,4,SELF,Philadelphia PA Airport 5% DUE 06-15-2027,,purchase,2020-06-19,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,5,SELF,Douglas Co NE Hosp Auth 4% DUE 11-15-2037,,purchase,2020-06-17,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,6,SELF,Tampa FL Impt Cigarette Tax 0% DUE 09-01-2037,,purchase,2020-06-25,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,7,SELF,E-470 Co. Public Highway Auth 5% DUE 09-01-2040,,purchase,2020-06-18,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,8,SELF,PA State Higher Educational Facilities Authority 5% DUE 08-15-2030,,purchase,2020-06-15,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,9,SELF,Hartford CT GO 5% DUE 04-01-2031,,purchase,2020-06-15,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,10,SELF,Dist Of Columbia Water & Sewer Authority 5% DUE 10-01-2039,,purchase,2020-06-12,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,11,SELF,Greensboro NC Enterprise Sys 5% DUE 06-01-2029,,purchase,2020-06-25,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,12,SELF,East Bay CA Muni Utility Dist Wtr Sys - Green Bond 4% DUE 06-01-2045,,purchase,2020-06-05,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,13,SELF,California Co. CA Tobacco Securitization Agency 5% DUE 06-01-2033,,purchase,2020-06-01,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,14,SELF,Tobacco Settlement Authority WA 5% DUE 06-01-2020,,sale,2020-06-01,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,15,SELF,Harford Co. MD GO 5% DUE 10-01-2030,,purchase,2020-06-03,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,16,SELF,Regional Transportation Authority IL 5% DUE 06-01-2031,,purchase,2020-06-01,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217345,2,17,SELF,Killeen TX GO 5% DUE 08-01-2028,,purchase,2020-05-29,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217419,2,1,SELF,OR State Facs Auth-LOC TDS-VRDN Daily 0.11% DUE 08-01-2020,,purchase,2020-06-29,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217419,2,2,SELF,Lynchburg VA Economic Dev Auth Hosp Rev-LOC BBT-VRDN Daily 0.13%,,purchase,2020-06-29,,C,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217419,2,3,SELF,PA State Econ Dev/Fing Auth 3% DUE 02-01-2020,,purchase,2020-06-23,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217419,2,4,SELF,Chattanooga TN Health Educational & Housing Facilities Board 3% DUE,,purchase,2020-06-22,,B,high,Typed schedule; account: Brown Advisory; no notification-date column
+8217419,2,5,SELF,"RP Belmont Land, LLC - property investment in 19775 Belmont Executive Plaza, Ashburn, VA",,purchase,2020-06-25,,A,high,"Typed schedule; account: Rooney Capital, LLC (Private Investments, Naples, FL); no notification-date column"
+8217232,1,1,SELF,Call Vanguard Total Stock Market ETF Strike $145 EXP 5/15/20,,sale,2020-04-23,2020-04-23,A,high,Typed; owner column blank (filer); page 2 is a blank continuation form
+8217322,1,1,SELF,Call Vanguard Total Stock Market ETF Strike $145 EXP 5/15/20,,sale,2020-05-13,2020-05-13,A,high,Typed; owner column blank (filer)
+8217322,1,2,SELF,Put Vanguard Total Stock Market ETF Strike $139 EXP 6/19/20,,sale,2020-05-13,2020-05-13,A,high,Typed; owner column blank (filer)
+8217322,1,3,SELF,Call Vanguard Total Stock Market ETF Strike $151 EXP 6/19/20,,,2020-05-20,2020-05-20,A,high,Typed; owner column blank (filer); no transaction type marked
+8217322,1,4,SELF,Put Vanguard Total Stock Market ETF Strike $139 EXP 6/19/20,,,,,,high,"Typed; owner column blank (filer); row lists only the asset: no transaction type, dates or amount marked"
+8217352,1,1,SELF,Put Vanguard Total Stock Market ETF Strike $145 EXP 7/17/20,,sale,2020-06-26,2020-06-26,A,high,Typed; owner column blank (filer)
+8217352,1,2,SELF,Call Vanguard Total Stock Market ETF Strike $151 EXP 6/19/20,,purchase,2020-06-19,2020-06-19,B,high,Typed; owner column blank (filer)
+8217447,1,1,SELF,Put Enterprise Product Partners L.P. Strike $17.50 EXP 7/17/20,,sale,2020-07-06,2020-07-06,A,high,Typed; owner column blank (filer)
+8217447,1,2,SELF,Put Enterprise Product Partners L.P. Strike $17.50 EXP 7/31/20,,sale,2020-07-17,2020-07-17,A,high,Typed; owner column blank (filer)
+8217447,1,3,SELF,Call Vanguard Total Stock Market ETF Strike $170 EXP 8/21/20,,sale,2020-07-17,2020-07-17,A,high,Typed; owner column blank (filer)
+8217447,1,4,SELF,Put Enterprise Product Partners L.P. Strike $17.50 EXP 7/31/20,,purchase,2020-07-21,2020-07-21,A,high,Typed; owner column blank (filer)
+8217447,2,5,SELF,Put Enterprise Product Partners L.P. Strike $17.50 EXP 8/7/20,,sale,2020-07-27,2020-07-27,A,high,Typed; owner column blank (filer)
+8217447,2,6,SELF,Call Vanguard Total Stock Market ETF Strike $170 EXP 8/21/20,,purchase,2020-07-28,2020-07-28,A,high,Typed; owner column blank (filer)
+8217447,2,7,SELF,Put Enterprise Product Partners L.P. Strike $17.50 EXP 8/7/20,,purchase,2020-07-29,2020-07-29,A,high,Typed; owner column blank (filer)
+8217447,2,8,SELF,"Enterprise Product Partners L.P. (via HGI, LLC)",,purchase,2020-07-22,2020-07-22,E,high,Typed; owner column blank (filer)
+8217447,2,9,SELF,"Enterprise Product Partners L.P. (via HGI, LLC)",,purchase,2020-07-23,2020-07-23,E,high,Typed; owner column blank (filer)
+8217447,2,10,SELF,"Enterprise Product Partners L.P. (via HGI, LLC)",,purchase,2020-07-24,2020-07-24,E,high,Typed; owner column blank (filer)
+8217447,2,11,SELF,"Enterprise Product Partners L.P. (via HGI, LLC)",,purchase,2020-07-24,2020-07-24,D,high,Typed; owner column blank (filer)
+8217447,3,12,SELF,"Enterprise Product Partners L.P. (via HGI, LLC)",,purchase,2020-07-27,2020-07-27,D,high,Typed; owner column blank (filer)
+8217447,3,13,SELF,"Enterprise Product Partners L.P. (via HGI, LLC)",,purchase,2020-07-28,2020-07-28,D,high,Typed; owner column blank (filer)
+8217447,3,14,SELF,"Enterprise Product Partners L.P. (via HGI, LLC)",,purchase,2020-07-28,2020-07-28,D,high,Typed; owner column blank (filer)
+8217225,1,1,SELF,Tencent Holdings Ltd,,purchase,2020-04-01,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217225,1,2,SELF,Apple Inc,,purchase,2020-04-08,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217225,1,3,SELF,Adobe Inc,,purchase,2020-04-29,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217225,1,4,SELF,Ross Stores Inc,,purchase,2020-04-30,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217225,2,5,SELF,Hilton Worldwide Hldgs,,sale,2020-04-30,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217225,2,6,SELF,Safran SA,,sale,2020-04-30,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217225,2,7,SELF,Home Depot,,sale,2020-04-30,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217225,2,8,SELF,Blackstone Grp Inc,,sale,2020-04-30,2020-04-30,A,high,Handwritten; owner column blank (filer)
+8217339,1,1,SELF,Healthcare Select SPDR,,sale,2020-05-01,2020-05-31,A,high,Handwritten; owner column blank (filer)
+8217339,1,2,SELF,VanEck Vectors Gold Miners ETF,,purchase,2020-05-26,2020-05-31,A,high,Handwritten; owner column blank (filer)
+8217339,1,3,SELF,SPDR Gold Trust ETF,,purchase,2020-05-26,2020-05-31,A,high,Handwritten; owner column blank (filer)
+8217339,1,4,SELF,Western Asset Core Bond Fund,,purchase,2020-05-26,2020-05-31,B,high,Handwritten; owner column blank (filer)
+8217339,2,5,SELF,Blackrock Long Short Equity,,purchase,2020-05-26,2020-05-31,B,high,Handwritten; owner column blank (filer)
+8217339,2,6,SELF,Eaton Vance Floating Rate Fund,,sale,2020-05-26,2020-05-31,B,high,Handwritten; owner column blank (filer)
+8217339,2,7,SELF,Pimco Income Fund,,sale,2020-05-26,2020-05-31,B,high,Handwritten; owner column blank (filer)
+8217654,1,1,SELF,Visa Inc,,purchase,2020-08-17,2020-09-01,A,high,Handwritten; owner column blank (filer)
+8217654,1,2,SELF,Citigroup Inc,,purchase,2020-08-17,2020-09-01,A,high,Handwritten; owner column blank (filer)
+8217654,1,3,SELF,Zoetis Inc,,sale,2020-08-17,2020-09-01,A,high,Handwritten; owner column blank (filer)
+8217654,1,4,SELF,Sea Ltd ADR,,sale,2020-08-17,2020-09-01,A,high,Handwritten; owner column blank (filer)
+8217689,1,1,SELF,AON PLC,,purchase,2020-09-04,2020-10-01,A,high,Handwritten; owner column blank (filer)
+8217689,1,2,SELF,CME Group Inc,,sale,2020-09-04,2020-10-01,A,high,Handwritten; owner column blank (filer)
+8217689,1,3,SELF,OW Small & Midcap Strat Fd,,sale,2020-09-15,2020-10-01,C,medium,Handwritten; owner column blank (filer); trade date hard to read (9/15 or 9/1)
+8217689,1,4,SELF,Eli Lilly,,purchase,2020-09-01,2020-10-01,A,high,Handwritten; owner column blank (filer)
+8217689,2,5,SELF,American International Group,,purchase,2020-09-01,2020-10-01,A,high,Handwritten; owner column blank (filer)
+8217141,1,1,SELF,Eaton Vance Floating Rate Fund,,sale,2020-03-10,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,1,2,SELF,Amazon,,purchase,2020-03-10,2020-04-01,B,high,Handwritten; owner column blank (filer)
+8217141,1,3,SELF,Exxon Mobil,,sale,2020-03-30,2020-04-01,B,high,Handwritten; owner column blank (filer)
+8217141,1,4,SELF,iShares Biotech ETF,,purchase,2020-03-30,2020-04-01,B,high,Handwritten; owner column blank (filer)
+8217141,2,5,SELF,Phillips 66,,sale,2020-03-30,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,2,6,SELF,Blackrock,,sale,2020-03-30,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,2,7,SELF,Carlyle Group,,sale,2020-03-30,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,2,8,SELF,VanEck Gold Miners,,purchase,2020-03-20,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,2,9,SELF,OW Small & Midcap Strat Fd,,purchase,2020-03-27,2020-04-01,B,high,Handwritten; owner column blank (filer)
+8217141,2,10,SELF,OW Large Cap Strat Fund,,purchase,2020-03-27,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,2,11,SELF,Nike Inc Cl B,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,3,12,SELF,Iqvia Holdings,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,3,13,SELF,Microsoft Corp,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,3,14,SELF,Bank of America Corp,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,3,15,SELF,Citigroup Inc,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,3,16,SELF,Visa Inc,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,3,17,SELF,LVMH Moet Hennessy Vuitton,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,3,18,SELF,United Health Group,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,4,19,SELF,Apple Inc,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,4,20,SELF,Facebook Inc-A,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,4,21,SELF,Safran SA,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,4,22,SELF,Union Pacific Corp,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,4,23,SELF,Hilton Worldwide Hldgs,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,4,24,SELF,Fidelity Natl Info Svc,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,4,25,SELF,Blackstone Group Inc,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,5,26,SELF,Blackrock Inc,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,5,27,SELF,Charter Communications,,purchase,2020-03-31,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,5,28,SELF,Walt Disney Co,,sale,2020-03-02,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,5,29,SELF,Chubb Limited,,sale,2020-03-02,2020-04-01,A,high,Handwritten; owner column blank (filer)
+8217141,5,30,SELF,OW Municipal Bond Fd,,sale,2020-03-27,2020-04-01,B,high,Handwritten; owner column blank (filer)
+8217141,5,31,SELF,OW Multi-asset Opps Fd,,sale,2020-03-27,2020-04-01,B,high,Handwritten; owner column blank (filer)
+8217406,1,1,SELF,Ross Stores,,purchase,2020-06-05,2020-06-30,A,high,Handwritten; owner column blank (filer)
+8217406,1,2,SELF,Air Products & Chemicals,,purchase,2020-06-26,2020-06-30,A,high,Handwritten; owner column blank (filer)
+8217406,1,3,SELF,Healthcare Select SPDR,,sale,2020-06-05,2020-06-30,A,high,Handwritten; owner column blank (filer)
+8217406,1,4,SELF,OW Multi-Asset Opps Fund,,sale,2020-06-18,2020-06-30,A,high,Handwritten; owner column blank (filer)
+8217406,2,5,SELF,OW Large Cap Strategies Fund,,sale,2020-06-18,2020-06-30,C,high,Handwritten; owner column blank (filer)
+8217406,2,6,SELF,OW Small & Midcap Strat Fd,,sale,2020-06-18,2020-06-30,B,high,Handwritten; owner column blank (filer)
+8217406,2,7,SELF,Bank of America Corp,,sale,2020-06-19,2020-06-30,A,high,Handwritten; owner column blank (filer)
+8217406,2,8,SELF,Charter Communications Inc,,sale,2020-06-19,2020-06-30,A,high,Handwritten; owner column blank (filer)
+8217406,2,9,SELF,Facebook Inc A,,sale,2020-06-19,2020-06-30,A,medium,Handwritten; owner column blank (filer); trade date digits hard to read
+8217406,2,10,SELF,Microsoft Corp,,sale,2020-06-19,2020-06-30,A,medium,Handwritten; owner column blank (filer); trade date digits hard to read
+8217406,2,11,SELF,ServiceNow Inc,,sale,2020-06-11,2020-06-30,A,medium,Handwritten; owner column blank (filer); trade date digits hard to read
+8217123,1,1,SELF,"Biogen, Inc",,purchase,2020-03-08,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,1,2,SELF,DuPont,,sale,2020-03-13,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,1,3,SELF,Wells Fargo,,sale,2020-03-06,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,1,4,SELF,Paypal,,purchase,2020-03-06,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,2,5,SELF,Accenture PLC Cl A,,sale,2020-02-26,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,2,6,SELF,Electronic Arts,,sale,2020-02-27,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,2,7,SELF,Amazon,,purchase,2020-02-27,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,2,8,SELF,"Intuit, Inc",,purchase,2020-02-27,2020-03-22,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,2,9,SELF,Linde,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 2)"
+8217123,2,10,SELF,Mastercard,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 4)"
+8217123,2,11,SELF,Charter Com.,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 5)"
+8217123,3,12,SELF,Fiserv,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 6)"
+8217123,3,13,SELF,Honeywell,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 7)"
+8217123,3,14,SELF,United Health,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 8)"
+8217123,4,15,SELF,Disney,,sale,2020-03-06,2020-03-23,A,high,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer"
+8217123,4,16,SELF,Amazon,,sale,2020-02-13,2020-03-23,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 1)"
+8217123,4,17,SELF,Apple,,sale,2020-02-13,2020-03-23,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 9)"
+8217123,5,18,SELF,Alphabet,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 3)"
+8217123,5,19,SELF,Microsoft,,sale,2020-02-13,2020-03-22,A,reviewed_uncertain,"Handwritten; filer note: these are all trust transactions conducted by J.P. Morgan w/o control or direction by me; my ownership in these trusts is zero. Column A relabeled ""$1,000-$2,000"" by the filer; possible duplicate: same sale reported in earlier filing 8216975 (line 10)"
+8217182,1,1,SELF,United Technologies,,sale,2020-04-02,2020-04-09,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217182,1,2,SELF,Abbvie,,purchase,2020-04-02,2020-04-09,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217182,1,3,SELF,Whirlpool,,sale,2020-03-26,2020-04-09,B,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217182,2,4,SP,Stryker,,purchase,2020-03-13,2020-03-20,B,high,Handwritten; owner written as SP on the first of each pair; each trade listed twice with the same date and amount
+8217182,2,5,SP,Stryker,,purchase,2020-03-13,2020-03-20,B,high,Handwritten; owner written as SP on the first of each pair; each trade listed twice with the same date and amount
+8217182,2,6,SP,Booz Allen,,purchase,2020-03-10,2020-03-20,B,high,Handwritten; owner written as SP on the first of each pair; each trade listed twice with the same date and amount
+8217182,2,7,SP,Booz Allen,,purchase,2020-03-10,2020-03-20,B,high,Handwritten; owner written as SP on the first of each pair; each trade listed twice with the same date and amount
+8217211,1,1,SP,First Trust High Income Model,,purchase,2020-04-13,2020-04-13,D,high,Handwritten
+8217211,1,2,SP,First Trust High Income Model,,purchase,2020-04-13,2020-04-13,B,high,Handwritten
+8217211,2,3,SELF,Marathon,,sale,2020-04-27,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217211,2,4,SELF,Whirlpool,,sale,2020-04-23,2020-05-04,B,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217211,2,5,SELF,Comcast CL A,,sale,2020-04-20,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217211,2,6,SELF,Charter Com.,,purchase,2020-04-20,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217211,2,7,SELF,Ross Stores,,sale,2020-04-20,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217211,3,8,SELF,Exxon,,sale,2020-03-26,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by Northern Trust w/o control or direction by me
+8217211,3,9,SELF,American Express,,sale,2020-03-26,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by Northern Trust w/o control or direction by me
+8217211,3,10,SELF,Chevron,,purchase,2020-03-26,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by Northern Trust w/o control or direction by me
+8217211,3,11,SELF,Honeywell,,purchase,2020-03-26,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by Northern Trust w/o control or direction by me
+8217211,3,12,SELF,EOG Resources,,sale,2020-03-26,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by Northern Trust w/o control or direction by me
+8217211,3,13,SELF,General Dynamics,,sale,2020-03-26,2020-05-04,A,high,Handwritten; filer note: these trust transactions were conducted by Northern Trust w/o control or direction by me
+8217211,3,14,SELF,Kimberly Clark,,sale,2020-03-30,2020-05-04,B,high,Handwritten; filer note: these trust transactions were conducted by Northern Trust w/o control or direction by me
+8217325,1,1,SELF,Whirlpool,,sale,2020-05-20,2020-06-02,B,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217325,1,2,SELF,Adobe,,sale,2020-05-06,2020-06-02,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217325,2,3,SELF,Moody's Corp,,sale,2020-05-02,2020-06-02,A,high,Handwritten; filer note: this trust transaction was conducted by Northern Trust w/o control or direction by me
+8217346,2,1,SP,Disney,,exchange,2019-03-19,2020-06-01,A,high,Handwritten; page 1 says 'see page 2'. Filer note: 21st Century Fox was acquired by Disney and Disney shares were distributed to Fox shareholders; Hilliard Lyons transferred those shares into my wife's account and I was not aware of that holding until I began to work on our FD report this weekend
+8217384,1,1,SELF,Key Corp,,sale,2020-07-02,2020-07-05,A,medium,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero; trade date written as 7/2 or 7/7 (2020 added above)
+8217384,1,2,SELF,Booking Holdings,,sale,2020-06-26,2020-07-05,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217384,1,3,SELF,Berkshire Hathaway CL B,,sale,2020-06-26,2020-07-05,A,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217384,1,4,SELF,Whirlpool,,sale,2020-04-17,2020-07-05,B,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan w/o control or direction by me; my ownership is zero
+8217384,2,5,SELF,Pepsi,,sale,2020-06-11,2020-07-07,B,high,Handwritten; filer note: these trust transactions were conducted by J.P. Morgan (header partly cut off on this page) w/o control or direction by me; my ownership is zero
+8217423,1,1,SELF,Facebook,,purchase,2019-02-19,2020-07-24,A,high,Handwritten; filer note: conducted by Northern Trust w/o control or direction by me. Second filer note: these 5 transactions were conducted in 2019 and not discovered by me until I began to prepare my Disclosure Report for 2019 and noticed the discrepancy with material provided to me; I then went back to N. Trust to get the proper disclosure information
+8217423,1,2,SELF,Wells Fargo,,sale,2019-04-25,2020-07-24,A,high,Handwritten; filer note: conducted by Northern Trust w/o control or direction by me. Second filer note: these 5 transactions were conducted in 2019 and not discovered by me until I began to prepare my Disclosure Report for 2019 and noticed the discrepancy with material provided to me; I then went back to N. Trust to get the proper disclosure information
+8217423,1,3,SELF,Carnival,,sale,2019-02-19,2020-07-24,A,high,Handwritten; filer note: conducted by Northern Trust w/o control or direction by me. Second filer note: these 5 transactions were conducted in 2019 and not discovered by me until I began to prepare my Disclosure Report for 2019 and noticed the discrepancy with material provided to me; I then went back to N. Trust to get the proper disclosure information
+8217423,1,4,SELF,Vodaphone,,sale,2019-12-03,2019-12-07,A,medium,"Handwritten; filer note: conducted by Northern Trust w/o control or direction by me. Second filer note: these 5 transactions were conducted in 2019 and not discovered by me until I began to prepare my Disclosure Report for 2019 and noticed the discrepancy with material provided to me; I then went back to N. Trust to get the proper disclosure information; notification date reads 12/7/19, which conflicts with the filer note that these were discovered later"
+8217423,2,5,SELF,J.P. Morgan,,purchase,2019-04-25,2020-07-24,A,high,Handwritten; filer note: conducted by Northern Trust w/o control or direction by me. Second filer note: these 5 transactions were conducted in 2019 and not discovered by me until I began to prepare my Disclosure Report for 2019 and noticed the discrepancy with material provided to me; I then went back to N. Trust to get the proper disclosure information
+8217681,1,1,SELF,Apple,,sale,2020-08-25,2020-10-05,A,high,Handwritten; filer note: this trust transaction not controlled or directed by me
+8217165,1,1,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,1,2,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,1,3,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,1,4,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,2,5,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,2,6,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,2,7,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,2,8,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,2,9,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,2,10,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,2,11,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,3,12,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,3,13,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,3,14,SELF,Southern Company,,sale,2020-03-16,2020-03-16,B,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,3,15,SELF,Southern Company,,sale,2020-03-16,2020-03-16,C,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217165,3,16,SELF,Southern Company,,sale,2020-03-16,2020-03-16,E,high,"Handwritten; owner column blank (filer); 16 separate sale rows of Southern Company on the same day, listed one per line"
+8217343,1,1,SELF,Targa Pipeline,,purchase,2020-06-11,2020-06-25,A,high,"Handwritten; owner column reads ""MKn"" (filer note: Markam Interests Limited Ameritrade Account), not one of SP/DC/JT"
+8217343,1,2,SELF,CMO-E Capstead,,purchase,2020-06-11,2020-06-25,A,high,"Handwritten; owner column reads ""MKn"" (filer note: Markam Interests Limited Ameritrade Account), not one of SP/DC/JT"
+8217343,1,3,SELF,American Airlines,,sale,2020-06-05,2020-06-25,B,high,"Handwritten; owner column reads ""MKn"" (filer note: Markam Interests Limited Ameritrade Account), not one of SP/DC/JT"
+8217403,1,1,JT,Medtronic PLC,,sale,2020-07-13,2020-07-14,A,high,Typed
+8217660,1,1,JT,Marriott International Inc.,,sale,2020-09-15,2020-09-16,A,high,Typed
+8217280,1,1,DC,Dodge & Cox International Fund (DODFX),,sale,2020-04-15,2020-05-01,B,high,Typed
+8217280,1,2,DC,Euronet Worldwide Inc (EEFT),,purchase,2020-04-15,2020-05-01,B,high,Typed
+8217280,1,3,JT,Invesco S&P 500 Quality ETF (SPHQ),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,1,4,JT,iShares Gold Trust (IAU),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,1,5,JT,iShares iBoxx $ Invmt Grade Corp Bd (LQD),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,2,6,JT,iShares S&P 500 Growth ETF (IVW),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,2,7,JT,iShares S&P 500 Value ETF (IVE),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,2,8,JT,iShares 20+ Year Treasury Bond ETF (TLT),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,2,9,JT,iShares S&P Mid-Cap 400 Growth ETF (IJK),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,2,10,JT,iShares S&P Mid-Cap 400 Value ETF (IJJ),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,2,11,JT,iShares Long-Term Corporate Bond (IGLB),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,3,12,JT,iShares iBonds Dec 2027 Term Corp (IBDS),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,3,13,JT,iShares iBonds Dec 2028 Term Corp (IBDT),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,3,14,JT,iShares iBonds Dec 2029 Term Corp (IBDU),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,3,15,JT,iShares iBonds Dec 2029 Term Tr ETF (IBTJ),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,3,16,JT,iShares iBonds Dec 2028 Term Tr ETF (IBTI),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,3,17,JT,iShares iBonds Dec 2027 Term Tr ETF (IBTH),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,4,18,JT,iShares iBonds Dec 2026 Term Tr ETF (IBTG),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,4,19,JT,SPDR S&P 600 Small Cap Growth (SLYG),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,4,20,JT,SPDR S&P 600 Small Cap Value ETF (SLYV),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,4,21,JT,SPDR Portfolio S&P 500 Growth ETF (SPYG),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,4,22,JT,SPDR Portfolio S&P 500 Value ETF (SPYV),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,4,23,JT,SPDR S&P 400 Mid Cap Growth ETF (MDYG),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,5,24,JT,iShares iBonds Dec 2023 Term Corp (IBDO),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,5,25,JT,iShares iBonds Dec 2022 Term Corp (IBDN),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,5,26,JT,iShares iBonds Dec 2025 Term Corp (IBDQ),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,5,27,JT,iShares iBonds Dec 2024 Term Corp (IBDP),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,5,28,JT,iShares iBonds Dec 2021 Term Corp (IBDM),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,5,29,JT,iShares iBonds Dec 2026 Term Corp (IBDR),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,6,30,JT,SPDR S&P 400 Mid Cap Value ETF (MDYV),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217280,6,31,JT,Health Care Select Sector SPDR ETF (XLV),,sale,2020-04-01,2020-05-01,A,high,Typed
+8217280,6,32,JT,Consumer Discret Sel Sect SPDR ETF (XLY),,purchase,2020-04-01,2020-05-01,A,high,Typed
+8217559,1,1,JT,Invesco S&P 500 Quality ETF (SPHQ),,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,1,2,JT,iShares Silver Trust (SLV),,purchase,2020-07-23,2020-08-01,A,high,Typed
+8217559,1,3,JT,iShares iBoxx $ Inv Grade Corporate Bo (LQD),,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,1,4,JT,iShares 20+ Year Treasury Bond ETF,,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,1,5,JT,iShares MBS ETF,,purchase,2020-07-23,2020-08-01,A,high,Typed
+8217559,2,6,JT,iShares Long-Term Corporate Bond ET (IGLB),,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,2,7,JT,iShares iBonds Dec 2022 Term Corpor (IBDN),,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,2,8,JT,iShares iBonds Dec 2021 Term Corpor (IBDM),,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,2,9,JT,SPDR S&P 600 Small Cap Growth ET (SLYG),,purchase,2020-07-23,2020-08-01,A,high,Typed
+8217559,2,10,JT,SPDR S&P 600 Small Cap Value ETF (SLYV),,purchase,2020-07-23,2020-08-01,A,high,Typed
+8217559,2,11,JT,SPDR Portfolio S&P 500 Growth ETF (SPYG),,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,3,12,JT,SPDR Portfolio S&P 500 Value ETF (SPYV),,purchase,2020-07-23,2020-08-01,A,high,Typed
+8217559,3,13,JT,SPDR Portfolio Intermediate Term Trea (SPTI),,purchase,2020-07-23,2020-08-01,A,high,Typed
+8217559,3,14,JT,SPDR S&P 400 Mid Cap Growth ETF (MDYG),,sale,2020-07-23,2020-08-01,A,high,Typed
+8217559,3,15,JT,SPDR S&P 400 Mid Cap Value ETF (MDYV),,purchase,2020-07-23,2020-08-01,A,high,Typed
+8217737,1,1,DC,EMERSON ELEC CO COM (EMR),,sale,2020-10-20,2020-11-01,A,high,Typed
+8217737,1,2,JT,ISHARES SILVER TR ISHARES (SLV),,sale,2020-10-22,2020-11-01,A,high,Typed
+8217737,1,3,JT,ISHARES GOLD TR ISHARES (IAU),,purchase,2020-10-22,2020-11-01,A,high,Typed
+8217737,1,4,JT,ISHARES INC CORE MSCI EMERGIN (IEMG),,purchase,2020-10-22,2020-11-01,A,high,Typed
+8217737,1,5,JT,SPDR INDEX SHS FDS SPDR PORT (SPDW),,purchase,2020-10-22,2020-11-01,A,high,Typed
+8217737,2,6,JT,SPDR SER TR S&P 400 MID CAP G (MDYG),,sale,2020-10-22,2020-11-01,A,high,Typed
+8217737,2,7,JT,SPDR SER TR S&P 400 MID CAP VA (MDYV),,sale,2020-10-22,2020-11-01,A,high,Typed
+8217737,2,8,JT,SPDR SER TR S&P HOMEBUILDERS (XHB),,purchase,2020-10-22,2020-11-01,A,high,Typed
+8217737,2,9,JT,SELECT SECTOR SPDR TR MATLS (XLB),,purchase,2020-10-22,2020-11-01,A,high,Typed
+8217737,2,10,JT,SELECT SECTOR SPDR TR INDL (XLI),,purchase,2020-10-22,2020-11-01,A,high,Typed
+8217737,2,11,JT,SELECT SECTOR SPDR TR TECHNO (XLK),,sale,2020-10-22,2020-11-01,A,high,Typed
+8217737,3,12,JT,SELECT SECTOR SPDR TR COMMUN (XLC),,sale,2020-10-22,2020-11-01,A,high,Typed
