@@ -1,4 +1,6 @@
 duckdb>=1.1
 pandas>=2.0
+pyarrow>=14
 pyyaml>=6.0
 rapidfuzz>=3.0
+pdfplumber>=0.11

@@ -9,7 +9,7 @@ Version 1 covers the stock holdings and trades of members of Congress. FEC campa
 | Phase | What | Status |
 | --- | --- | --- |
 | 0 | Member roster and House filing indexes in DuckDB/Parquet, filings linked to members | Done |
-| 1 | Parse e-filed House trade reports (PTRs) | Next |
+| 1 | Parse e-filed House trade reports (PTRs) | Parser built and checked on a 30-filing sample; full run next |
 | 2 | Senate eFD and OCR for scanned filings | |
 | 3 | Annual holdings, sectors, committee overlap | |
 | 4 | Public launch | |
@@ -32,6 +32,23 @@ join 'data/processed/member.parquet' m using (bioguide_id)
 where f.filing_type = 'P'
 group by all order by trade_reports desc limit 10;
 ```
+
+## Phase 1: trade report parser
+
+```bash
+python3 scripts/download_ptrs.py --sample 30     # or no flag for all e-filed PTRs (~1 hour)
+python3 scripts/parse_ptr.py data/ptr_pdfs data/processed
+```
+
+Outputs: `ptr_transaction.parquet` (one row per trade), `ptr_filing_parse.parquet` (one row per PDF), and `ptr_parse_warnings.csv`.
+
+The parser assigns words to columns by their x position under the table header. Table detection merged rows on these PDFs, so it isn't used. Two font quirks are handled:
+- Older PDFs garble letter case (`(AAPl)`), so tickers and codes are upper-cased. Asset names are kept as filed.
+- Newer PDFs replace most letters of labels with NUL characters (`F\0\0\0\0\0 S\0\0\0\0\0:` for `FILING STATUS:`). Labels are matched on their length plus the visible letters.
+
+Identical rows within a filing are flagged in `possible_duplicate_of`, never dropped. Some are page-break repeats; others are two real lots traded the same day.
+
+**Sample check (30 filings, 2020–2026):** 192 trades parsed. The row count matched an independent count of transaction-date lines in every file. All stock and option rows have a ticker.
 
 ## Data sources
 
