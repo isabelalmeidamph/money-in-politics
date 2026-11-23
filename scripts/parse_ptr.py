@@ -110,10 +110,16 @@ def split_asset(raw):
         asset_type = m.group(1).upper()
         raw = raw[:m.start()].strip()
     ticker = None
-    m = re.search(r"\(([A-Za-z][A-Za-z0-9.\-/ ]{0,9})\)\s*$", raw)
-    if m:
+    tick = r"\(([A-Za-z][A-Za-z0-9.\-/$ ]{0,11})\)"
+    tick_ok = lambda c: re.fullmatch(r"[A-Za-z]{1,6}(?:[.$/\-][A-Za-z]{1,2})?", c.replace(" ", ""))
+    m = re.search(tick + r"\s*$", raw)
+    if m and tick_ok(m.group(1)):
         ticker = m.group(1).replace(" ", "").upper()
         raw = raw[:m.start()].strip()
+    elif asset_type in ("ST", "OP"):  # e.g. "Walt Disney Company (DIS), 100% Interest"
+        cands = [c for c in re.findall(tick, raw) if tick_ok(c)]
+        if cands:
+            ticker = cands[-1].replace(" ", "").upper()
     return raw, ticker, asset_type
 
 
@@ -159,7 +165,7 @@ def parse_pdf(path):
                     cells[col_of(w["x0"], xs)].append(w["text"])
                 cells = {c: " ".join(v) for c, v in cells.items()}
                 field, value = detail_key(text)
-                if DATE_RE.match(cells["date"].split(" ")[0] if cells["date"] else ""):
+                if not field and DATE_RE.match(cells["date"].split(" ")[0] if cells["date"] else ""):
                     close()
                     in_details = False
                     owner, asset = cells["owner"].strip(), cells["asset"]
@@ -230,6 +236,9 @@ def parse_pdf(path):
             warnings.append((filing_id, n, "bad_amount", r["amount_raw"]))
         if asset_type in ("ST", "OP") and not ticker:
             warnings.append((filing_id, n, "stock_without_ticker", r["asset_raw"][:80]))
+        for label, d in (("tx_date", tx_date), ("notification_date", notified)):
+            if d and not (2012 <= d.year <= datetime.now().year):
+                warnings.append((filing_id, n, "implausible_date", "%s %s" % (label, d)))
         if tx_date and notified and notified < tx_date:
             warnings.append((filing_id, n, "notified_before_trade", ""))
         # Identical rows in one filing. Seen at page breaks (a row repeated at the top of the
