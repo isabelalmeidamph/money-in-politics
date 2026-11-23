@@ -60,6 +60,22 @@ Each trade must be reported by the earlier of 30 days after the filer was notifi
 
 Outputs: `ptr_timeliness.parquet` (deadline, days late and a timeliness band for each trade) and `late_filers_by_member.csv`. Bands: on time / late within the 30-day grace period / 31–365 days late / over a year late. The $200 late fee applies after the 30-day grace period.
 
+### Missing or unusable data
+
+The same script flags information each filer was required to give but didn't, or gave in a form that can't be right. The flags are in `data_issues` in `ptr_timeliness.parquet`, and are counted per member in `missing_data_by_member.csv`:
+
+| Flag | Meaning |
+| --- | --- |
+| `missing_trade_date` | No transaction date |
+| `missing_notification_date` | No date-notified, including schedules that leave out that column |
+| `missing_amount` | No amount range marked |
+| `invalid_amount` | An amount that isn't one of the form's ranges (e.g. `$.01`) |
+| `missing_tx_type` | No purchase, sale or exchange marked |
+| `notification_after_receipt_or_before_trade` | Notified before the trade, or after the Clerk received the report |
+| `impossible_trade_date` | Trade dated after the report was received, or outside 2012–today |
+
+A blank owner column is **not** flagged, because on the House form a blank owner means the member's own asset. Column K (a spouse or dependent-child transaction over $1,000,000) is a permitted way to report an amount, so it isn't flagged either. On e-filed reports, a transaction type counts as missing only when the field itself is empty, so a parser miss isn't blamed on the filer.
+
 ## Data sources
 
 | Source | Used for |

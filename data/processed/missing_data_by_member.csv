@@ -1,0 +1,55 @@
+bioguide_id,trades_reported,missing_trade_date,missing_notification_date,missing_amount,invalid_amount,missing_tx_type,notification_after_receipt_or_before_trade,impossible_trade_date,trades_with_any_issue,filings_with_any_issue,share_with_issue,official_full,party,state,chamber
+R000607,42,0,42,0,0,0,0,0,42,3,1.0,Francis Rooney,Republican,FL,House
+S000250,218,0,0,0,0,0,17,7,24,14,0.11,Pete Sessions,Republican,TX,House
+S001229,636,0,0,0,0,0,19,0,19,2,0.03,Jefferson Shreve,Republican,IN,House
+M001234,127,0,0,0,0,0,15,0,15,3,0.118,Kelly Morrison,Democrat,MN,House
+F000450,617,0,0,0,0,0,8,3,11,9,0.018,Virginia Foxx,Republican,NC,House
+A000372,318,0,0,0,0,0,6,0,6,4,0.019,Rick W. Allen,Republican,GA,House
+M001203,395,0,0,0,0,0,6,0,6,3,0.015,Tom Malinowski,Democrat,NJ,House
+W000812,17,0,6,0,0,0,0,0,6,3,0.353,Ann Wagner,Republican,MO,House
+G000590,671,0,0,0,0,0,4,0,4,3,0.006,Mark E. Green,Republican,TN,House
+R000609,172,0,0,0,0,0,4,0,4,3,0.023,John H. Rutherford,Republican,FL,House
+B001292,835,0,0,0,0,0,2,2,4,2,0.005,"Donald S. Beyer, Jr.",Democrat,VA,House
+C001114,335,0,0,0,0,0,4,0,4,2,0.012,John R. Curtis,Republican,UT,Senate
+F000459,19,0,0,4,0,0,0,0,4,1,0.211,"Charles J. ""Chuck"" Fleischmann",Republican,TN,House
+B001327,654,0,0,0,0,0,2,1,3,3,0.005,"Robert P. Bresnahan, Jr.",Republican,PA,House
+K000389,1726,0,0,0,0,0,3,0,3,2,0.002,Ro Khanna,Democrat,CA,House
+M001232,486,0,0,0,0,0,3,0,3,2,0.006,April McClain Delaney,Democrat,MD,House
+A000378,218,0,0,0,0,0,3,0,3,1,0.014,Cynthia Axne,Democrat,IA,House
+M001205,124,0,0,0,0,0,3,0,3,1,0.024,Carol D. Miller,Republican,WV,House
+B001248,129,0,0,0,0,0,2,0,2,2,0.016,Michael C. Burgess,Republican,TX,House
+C001108,54,0,0,0,0,0,2,0,2,2,0.037,James Comer,Republican,KY,House
+G000596,560,0,0,0,0,0,2,0,2,2,0.004,Marjorie Taylor Greene,Republican,GA,House
+H001082,941,0,0,0,0,0,2,0,2,2,0.002,Kevin Hern,Republican,OK,House
+J000307,274,0,0,0,0,0,2,0,2,2,0.007,John James,Republican,MI,House
+M001222,65,0,0,0,0,0,2,0,2,2,0.031,Max L. Miller,Republican,OH,House
+P000608,419,0,0,0,0,0,2,0,2,2,0.005,Scott H. Peters,Democrat,CA,House
+S001190,20,0,0,0,0,0,2,0,2,2,0.1,Bradley Scott Schneider,Democrat,IL,House
+C001129,42,0,0,0,0,0,2,0,2,1,0.048,Mike Collins,Republican,GA,House
+F000246,321,0,0,0,0,0,2,0,2,1,0.006,Pat Fallon,Republican,TX,House
+L000595,257,0,0,0,0,0,2,0,2,1,0.008,Julia Letlow,Republican,LA,House
+R000582,315,0,0,2,0,0,0,0,2,1,0.006,David P. Roe,Republican,TN,House
+S001201,752,0,0,0,0,0,2,0,2,1,0.003,Thomas R. Suozzi,Democrat,NY,House
+B001274,53,0,0,0,0,0,1,0,1,1,0.019,Mo Brooks,Republican,AL,House
+C001068,100,0,0,0,0,0,0,1,1,1,0.01,Steve Cohen,Democrat,TN,House
+C001101,274,0,0,0,0,0,1,0,1,1,0.004,Katherine M. Clark,Democrat,MA,House
+C001104,31,0,0,0,0,0,0,1,1,1,0.032,Madison Cawthorn,Republican,NC,House
+C001123,2494,0,0,0,0,0,1,0,1,1,0.0,"Gilbert Ray Cisneros, Jr.",Democrat,CA,House
+D000626,6,0,0,0,0,0,1,0,1,1,0.167,Warren Davidson,Republican,OH,House
+F000472,268,0,0,0,0,0,1,0,1,1,0.004,Scott Franklin,Republican,FL,House
+G000583,2997,0,0,0,0,0,1,0,1,1,0.0,Josh Gottheimer,Democrat,NJ,House
+G000584,497,0,0,0,0,0,1,0,1,1,0.002,Greg Gianforte,Republican,MT,House
+K000375,201,0,0,0,0,0,0,1,1,1,0.005,William R. Keating,Democrat,MA,House
+K000378,24,0,0,0,0,0,0,1,1,1,0.042,Adam Kinzinger,Republican,IL,House
+K000392,7,0,0,0,0,1,0,0,1,1,0.143,David Kustoff,Republican,TN,House
+L000557,34,0,0,0,0,0,0,1,1,1,0.029,John B. Larson,Democrat,CT,House
+L000566,23,0,0,0,0,0,1,0,1,1,0.043,Robert E. Latta,Republican,OH,House
+L000579,716,0,0,0,0,0,0,1,1,1,0.001,Alan S. Lowenthal,Democrat,CA,House
+L000590,866,0,0,0,1,0,0,0,1,1,0.001,Susie Lee,Democrat,NV,House
+M001245,8,0,0,0,0,0,0,1,1,1,0.125,Christian D. Menefee,Democrat,TX,House
+N000192,310,0,0,0,0,0,0,1,1,1,0.003,Marie Newman,Democrat,IL,House
+R000606,3,0,0,0,0,0,1,0,1,1,0.333,Jamie Raskin,Democrat,MD,House
+S001150,3,0,0,0,0,0,1,0,1,1,0.333,Adam B. Schiff,Democrat,CA,Senate
+S001156,6,0,0,0,1,0,0,0,1,1,0.167,Linda T. Sánchez,Democrat,CA,House
+S001172,7,0,0,0,0,0,0,1,1,1,0.143,Adrian Smith,Republican,NE,House
+W000804,207,0,0,0,0,0,0,1,1,1,0.005,Robert J. Wittman,Republican,VA,House

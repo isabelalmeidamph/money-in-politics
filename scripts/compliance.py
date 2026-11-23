@@ -91,9 +91,35 @@ amended = df["filing_status"].fillna("").str.lower().eq("amended")
 df.loc[amended, "timeliness"] = "amendment (not assessed)"
 df.loc[amended, "days_late"] = None
 
+# ---- Missing or unusable data the filer was required to give ----------------------------
+# Each flag is about what the FILER left out or got wrong, not about our parser. A blank
+# owner column is not missing: on the House form it means the member's own asset.
+def blank(s):
+    return s.isna() | s.astype(str).str.strip().isin(["", "nan", "None"])
+
+
+is_scan = df.source.eq("scanned")
+raw_type = df["tx_type_raw"] if "tx_type_raw" in df else pd.Series(None, index=df.index)
+raw_amt = df["amount_raw"] if "amount_raw" in df else pd.Series(None, index=df.index)
+flags = pd.DataFrame(index=df.index)
+flags["missing_trade_date"] = df.tx_date.isna()
+flags["missing_notification_date"] = df.notification_date.isna()
+# Amount: scanned rows have no box marked; e-filed rows have a value that is not one of the
+# form's ranges (e.g. "$.01"). Column K is a legal way to report and is not flagged.
+flags["missing_amount"] = (is_scan & blank(df.get("amount_col"))) | (~is_scan & df.amount_low.isna() & blank(raw_amt))
+flags["invalid_amount"] = ~is_scan & df.amount_low.isna() & ~blank(raw_amt) & ~df.get("spouse_dc_over", False).fillna(False).astype(bool)
+# Transaction type: for e-filed rows only count it when the raw field itself is empty, so a
+# parser miss is not blamed on the filer.
+flags["missing_tx_type"] = (is_scan & blank(df.tx_type)) | (~is_scan & blank(raw_type))
+flags["notification_after_receipt_or_before_trade"] = df.date_issue.eq("notification_date_impossible")
+flags["impossible_trade_date"] = df.date_issue.eq("trade_date_missing_or_impossible") & df.tx_date.notna()
+FLAG_COLS = list(flags.columns)
+df = pd.concat([df, flags], axis=1)
+df["data_issues"] = flags.apply(lambda r: ";".join(c for c in FLAG_COLS if r[c]), axis=1)
+
 keep = ["filing_id", "line_no", "source", "bioguide_id", "owner", "asset_name", "ticker", "tx_type",
         "tx_date", "notification_date", "filed_date", "deadline", "deadline_basis", "days_late",
-        "timeliness", "date_issue", "amount_low", "amount_high"]
+        "timeliness", "date_issue", "data_issues", "amount_low", "amount_high"]
 out = df[keep].copy()
 for c in ["tx_date", "notification_date", "filed_date", "deadline"]:
     out[c] = pd.to_datetime(out[c])
@@ -113,5 +139,19 @@ summary = summary.merge(member, on="bioguide_id", how="left").sort_values(
     ["late_over_30_days", "late_trades"], ascending=False)
 summary.to_csv(os.path.join(proc, "late_filers_by_member.csv"), index=False)
 
+gm = df[df.bioguide_id.notna()].groupby("bioguide_id")
+miss = pd.DataFrame({"trades_reported": gm.size()})
+for c in FLAG_COLS:
+    miss[c] = gm[c].sum()
+miss["trades_with_any_issue"] = gm.apply(lambda x: x[FLAG_COLS].any(axis=1).sum())
+miss["filings_with_any_issue"] = gm.apply(lambda x: x[x[FLAG_COLS].any(axis=1)].filing_id.nunique())
+miss["share_with_issue"] = (miss.trades_with_any_issue / miss.trades_reported).round(3)
+miss = miss.reset_index().merge(member, on="bioguide_id", how="left")
+miss = miss[miss.trades_with_any_issue > 0].sort_values(
+    ["trades_with_any_issue", "filings_with_any_issue"], ascending=False)
+miss.to_csv(os.path.join(proc, "missing_data_by_member.csv"), index=False)
+
 print(df.timeliness.value_counts().to_string())
+print("data issues (trades):", {c: int(df[c].sum()) for c in FLAG_COLS})
+print("members with any data issue:", len(miss))
 print("date issues:", df.date_issue.value_counts().to_dict())

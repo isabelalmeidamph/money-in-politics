@@ -21,7 +21,7 @@ N000189,212,52,52,2,540.0,0.245,Dan Newhouse,Republican,WA,House
 M001135,809,52,50,3,427.0,0.064,Kathy E. Manning,Democrat,NC,House
 C001069,164,67,45,2,181.0,0.409,Joe Courtney,Democrat,CT,House
 T000483,48,48,41,3,536.0,1.0,David J. Trone,Democrat,MD,House
-F000472,266,40,35,4,475.0,0.15,Scott Franklin,Republican,FL,House
+F000472,267,40,35,4,475.0,0.15,Scott Franklin,Republican,FL,House
 J000309,205,37,35,2,130.0,0.18,Jonathan L. Jackson,Democrat,IL,House
 M001218,127,34,34,2,872.0,0.268,Richard McCormick,Republican,GA,House
 M001205,119,60,31,3,559.0,0.504,Carol D. Miller,Republican,WV,House
@@ -49,6 +49,7 @@ L000590,861,262,12,10,272.0,0.304,Susie Lee,Democrat,NV,House
 S001207,182,135,12,4,545.0,0.742,Mikie Sherrill,Democrat,NJ,House
 C001117,12,11,11,2,890.0,0.917,Sean Casten,Democrat,IL,House
 C001120,41,23,10,3,347.0,0.561,Dan Crenshaw,Republican,TX,House
+M000871,12,10,10,1,678.0,0.833,Tracey Mann,Republican,KS,House
 R000609,168,100,9,7,239.0,0.595,John H. Rutherford,Republican,FL,House
 M001234,127,10,9,2,392.0,0.079,Kelly Morrison,Democrat,MN,House
 P000597,22,9,9,3,491.0,0.409,Chellie Pingree,Democrat,ME,House
@@ -91,7 +92,7 @@ S001229,636,298,2,2,3653.0,0.469,Jefferson Shreve,Republican,IN,House
 C001123,2492,66,2,4,368.0,0.026,"Gilbert Ray Cisneros, Jr.",Democrat,CA,House
 E000296,115,36,2,7,110.0,0.313,Dwight Evans,Democrat,PA,House
 M001199,48,23,2,11,512.0,0.479,Brian J. Mast,Republican,FL,House
-K000376,77,12,2,2,346.0,0.156,Mike Kelly,Republican,PA,House
+K000376,79,14,2,4,346.0,0.177,Mike Kelly,Republican,PA,House
 C001078,46,6,2,3,111.0,0.13,Gerald E. Connolly,Democrat,VA,House
 B001300,3,3,2,2,124.0,1.0,Nanette Diaz Barragán,Democrat,CA,House
 G000603,24,3,2,1,91.0,0.125,Brandon Gill,Republican,TX,House
@@ -110,6 +111,7 @@ S000185,17,2,2,1,222.0,0.118,"Robert C. ""Bobby"" Scott",Democrat,VA,House
 S001214,20,2,2,2,328.0,0.1,W. Gregory Steube,Republican,FL,House
 W000806,2,2,2,2,430.0,1.0,Daniel Webster,Republican,FL,House
 K000375,198,47,1,4,57.0,0.237,William R. Keating,Democrat,MA,House
+K000389,1726,34,1,2,355.0,0.02,Ro Khanna,Democrat,CA,House
 S000168,170,19,1,8,86.0,0.112,Maria Elvira Salazar,Republican,FL,House
 H001072,45,14,1,2,58.0,0.311,J. French Hill,Republican,AR,House
 D000628,87,7,1,4,31.0,0.08,Neal P. Dunn,Republican,FL,House
@@ -130,7 +132,7 @@ N000188,1,1,1,1,412.0,1.0,Donald Norcross,Democrat,NJ,House
 P000616,518,1,1,1,540.0,0.002,Dean Phillips,Democrat,MN,House
 R000305,28,1,1,1,143.0,0.036,Deborah K. Ross,Democrat,NC,House
 R000579,1,1,1,1,391.0,1.0,Patrick Ryan,Democrat,NY,House
-S000344,11,1,1,1,34.0,0.091,Brad Sherman,Democrat,CA,House
+S000344,12,1,1,1,34.0,0.083,Brad Sherman,Democrat,CA,House
 S001211,190,1,1,1,336.0,0.005,Greg Stanton,Democrat,AZ,House
 S001216,38,1,1,1,78.0,0.026,Kim Schrier,Democrat,WA,House
 T000482,12,1,1,1,275.0,0.083,Lori Trahan,Democrat,MA,House
@@ -139,6 +141,7 @@ W000828,2,1,1,1,487.0,0.5,Brandon Williams,Republican,NY,House
 W000830,35,1,1,1,109.0,0.029,George Whitesides,Democrat,CA,House
 B001327,652,94,0,3,1.0,0.144,"Robert P. Bresnahan, Jr.",Republican,PA,House
 F000462,663,90,0,18,12.0,0.136,Lois Frankel,Democrat,FL,House
+M001157,523,53,0,2,6.0,0.101,Michael T. McCaul,Republican,TX,House
 J000305,66,51,0,2,15.0,0.773,Sara Jacobs,Democrat,CA,House
 G000599,1307,33,0,2,5.0,0.025,Daniel S. Goldman,Democrat,NY,House
 P000197,149,31,0,9,12.0,0.208,Nancy Pelosi,Democrat,CA,House
@@ -151,17 +154,19 @@ K000378,23,6,0,3,17.0,0.261,Adam Kinzinger,Republican,IL,House
 B001248,129,4,0,4,8.0,0.031,Michael C. Burgess,Republican,TX,House
 D000399,150,4,0,1,11.0,0.027,Lloyd Doggett,Democrat,TX,House
 D000598,18,4,0,1,1.0,0.222,Susan A. Davis,Democrat,CA,House
-L000597,22,4,0,2,24.0,0.182,Laurel M. Lee,Republican,FL,House
+L000597,23,4,0,2,24.0,0.174,Laurel M. Lee,Republican,FL,House
 M001212,8,4,0,1,28.0,0.5,Barry Moore,Republican,AL,House
 S000929,26,4,0,2,15.0,0.154,Victoria Spartz,Republican,IN,House
 H001091,14,3,0,1,2.0,0.214,Ashley Hinson,Republican,IA,House
 K000405,3,3,0,1,16.0,1.0,Brad Knott,Republican,NC,House
 B001284,14,2,0,1,5.0,0.143,Susan W. Brooks,Republican,IN,House
+H001086,172,2,0,1,11.0,0.012,Diana Harshbarger,Republican,TN,House
 O000171,4,2,0,1,24.0,0.5,Tom O’Halleran,Democrat,AZ,House
 R000597,12,2,0,1,1.0,0.167,Tom Rice,Republican,SC,House
 S001185,5,2,0,1,1.0,0.4,Terri A. Sewell,Democrat,AL,House
 W000823,6,2,0,1,6.0,0.333,Michael Waltz,Republican,FL,House
 B001297,1,1,0,1,2.0,1.0,Ken Buck,Republican,CO,House
+C001108,54,1,0,1,3.0,0.019,James Comer,Republican,KY,House
 M001156,1,1,0,1,22.0,1.0,Patrick T. McHenry,Republican,NC,House
 M001198,29,1,0,1,19.0,0.034,Roger Marshall,Republican,KS,Senate
 M001210,2,1,0,1,8.0,0.5,Gregory F. Murphy,Republican,NC,House
@@ -177,12 +182,12 @@ B001309,1,0,0,0,0.0,0.0,Tim Burchett,Republican,TN,House
 B001323,2,0,0,0,0.0,0.0,Nicholas J. Begich III,Republican,AK,House
 C001068,98,0,0,0,0.0,0.0,Steve Cohen,Democrat,TN,House
 C001080,6,0,0,0,0.0,0.0,Judy Chu,Democrat,CA,House
-C001108,46,0,0,0,0.0,0.0,James Comer,Republican,KY,House
 C001124,1,0,0,0,0.0,0.0,TJ Cox,Democrat,CA,House
 D000032,181,0,0,0,0.0,0.0,Byron Donalds,Republican,FL,House
 D000600,1,0,0,0,0.0,0.0,Mario Diaz-Balart,Republican,FL,House
 D000616,2,0,0,0,0.0,0.0,Scott DesJarlais,Republican,TN,House
 F000110,242,0,0,0,0.0,0.0,Cleo Fields,Democrat,LA,House
+F000459,19,0,0,0,0.0,0.0,"Charles J. ""Chuck"" Fleischmann",Republican,TN,House
 F000461,3,0,0,0,0.0,0.0,Bill Flores,Republican,TX,House
 F000468,11,0,0,0,0.0,0.0,Lizzie Fletcher,Democrat,TX,House
 F000474,1,0,0,0,0.0,0.0,Mike Flood,Republican,NE,House
@@ -192,25 +197,29 @@ G000559,4,0,0,0,0.0,0.0,John Garamendi,Democrat,CA,House
 G000563,50,0,0,0,0.0,0.0,Bob Gibbs,Republican,OH,House
 G000577,11,0,0,0,0.0,0.0,Garret Graves,Republican,LA,House
 G000579,38,0,0,0,0.0,0.0,Mike Gallagher,Republican,WI,House
+G000581,1,0,0,0,0.0,0.0,Vicente Gonzalez,Democrat,TX,House
 G000584,497,0,0,0,0.0,0.0,Greg Gianforte,Republican,MT,House
 G000588,7,0,0,0,0.0,0.0,Anthony Gonzalez,Republican,OH,House
 G000589,3,0,0,0,0.0,0.0,Lance Gooden,Republican,TX,House
 G000596,560,0,0,0,0.0,0.0,Marjorie Taylor Greene,Republican,GA,House
 G000597,16,0,0,0,0.0,0.0,Andrew R. Garbarino,Republican,NY,House
 H001047,5,0,0,0,0.0,0.0,James A. Himes,Democrat,CT,House
-H001086,1,0,0,0,0.0,0.0,Diana Harshbarger,Republican,TN,House
+H001065,7,0,0,0,0.0,0.0,George Holding,Republican,NC,House
+H001074,2,0,0,0,0.0,0.0,Trey Hollingsworth,Republican,IN,House
 J000294,7,0,0,0,0.0,0.0,Hakeem S. Jeffries,Democrat,NY,House
 J000308,2,0,0,0,0.0,0.0,Jeff Jackson,Democrat,NC,House
+K000379,1,0,0,0,0.0,0.0,Joseph P. Kennedy III,Democrat,MA,House
 K000391,1,0,0,0,0.0,0.0,Raja Krishnamoorthi,Democrat,IL,House
-K000392,3,0,0,0,0.0,0.0,David Kustoff,Republican,TN,House
+K000392,7,0,0,0,0.0,0.0,David Kustoff,Republican,TN,House
 K000403,1,0,0,0,0.0,0.0,Mike Kennedy,Republican,UT,House
 L000557,33,0,0,0,0.0,0.0,John B. Larson,Democrat,CT,House
+L000564,3,0,0,0,0.0,0.0,Doug Lamborn,Republican,CO,House
 L000566,23,0,0,0,0.0,0.0,Robert E. Latta,Republican,OH,House
 L000589,2,0,0,0,0.0,0.0,Debbie Lesko,Republican,AZ,House
 L000591,4,0,0,0,0.0,0.0,Elaine G. Luria,Democrat,VA,House
 L000596,3,0,0,0,0.0,0.0,Anna Paulina Luna,Republican,FL,House
 L000607,1,0,0,0,0.0,0.0,Sam T. Liccardo,Democrat,CA,House
-M000871,2,0,0,0,0.0,0.0,Tracey Mann,Republican,KS,House
+M000317,3,0,0,0,0.0,0.0,Nicole Malliotakis,Republican,NY,House
 M001163,38,0,0,0,0.0,0.0,Doris O. Matsui,Democrat,CA,House
 M001180,161,0,0,0,0.0,0.0,David B. McKinley,Republican,WV,House
 M001184,1,0,0,0,0.0,0.0,Thomas Massie,Republican,KY,House
@@ -223,18 +232,25 @@ M001241,2,0,0,0,0.0,0.0,Dave Min,Democrat,CA,House
 N000147,17,0,0,0,0.0,0.0,Eleanor Holmes Norton,Democrat,DC,House
 P000034,10,0,0,0,0.0,0.0,"Frank Pallone, Jr.",Democrat,NJ,House
 P000523,17,0,0,0,0.0,0.0,David E. Price,Democrat,NC,House
+R000582,315,0,0,0,0.0,0.0,David P. Roe,Republican,TN,House
 R000603,13,0,0,0,0.0,0.0,David Rouzer,Republican,NC,House
+R000607,42,0,0,0,0.0,0.0,Francis Rooney,Republican,FL,House
 R000610,6,0,0,0,0.0,0.0,Guy Reschenthaler,Republican,PA,House
 R000612,14,0,0,0,0.0,0.0,John W. Rose,Republican,TN,House
 R000614,10,0,0,0,0.0,0.0,Chip Roy,Republican,TX,House
 R000621,11,0,0,0,0.0,0.0,Emily Randall,Democrat,WA,House
 S000510,18,0,0,0,0.0,0.0,Adam Smith,Democrat,WA,House
-S001150,2,0,0,0,0.0,0.0,Adam B. Schiff,Democrat,CA,Senate
+S001150,3,0,0,0,0.0,0.0,Adam B. Schiff,Democrat,CA,Senate
+S001180,24,0,0,0,0.0,0.0,Kurt Schrader,Democrat,OR,House
+S001204,4,0,0,0,0.0,0.0,Michael F. Q. San Nicolas,Democrat,GU,House
 S001209,5,0,0,0,0.0,0.0,Abigail Davis Spanberger,Democrat,VA,House
 S001212,1,0,0,0,0.0,0.0,Pete Stauber,Republican,MN,House
+U000031,20,0,0,0,0.0,0.0,Fred Upton,Republican,MI,House
 V000108,2,0,0,0,0.0,0.0,Peter J. Visclosky,Democrat,IN,House
 V000139,13,0,0,0,0.0,0.0,Matt Van Epps,Republican,TN,House
 W000809,1,0,0,0,0.0,0.0,Steve Womack,Republican,AR,House
-W000812,11,0,0,0,0.0,0.0,Ann Wagner,Republican,MO,House
+W000812,17,0,0,0,0.0,0.0,Ann Wagner,Republican,MO,House
 W000821,213,0,0,0,0.0,0.0,Bruce Westerman,Republican,AR,House
+W000829,8,0,0,0,0.0,0.0,Tony Wied,Republican,WI,House
+Y000065,1,0,0,0,0.0,0.0,Ted S. Yoho,Republican,FL,House
 Y000067,32,0,0,0,0.0,0.0,Rudy Yakym III,Republican,IN,House
