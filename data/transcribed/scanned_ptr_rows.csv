@@ -6268,3 +6268,636 @@ filing_id,page,line_no,owner,asset_name,ticker,tx_type,tx_date,notification_date
 8217164,18,936,SP,"CARMAX, INC. CMN",,sale,2020-03-05,2020-04-02,A,medium,Typed attachment page 18 of 18; account: Ritu Ahuja 1995 Trust; Blurred scan; transaction-date digits read best-effort
 8217164,18,937,SP,HP INC. CMN,,sale,2020-03-05,2020-04-02,A,medium,Typed attachment page 18 of 18; account: Ritu Ahuja 1995 Trust; Blurred scan; transaction-date digits read best-effort
 8217164,18,938,SP,ARCH CAPITAL GROUP LTD. CMN,,sale,2020-03-05,2020-04-02,A,medium,Typed attachment page 18 of 18; account: Ritu Ahuja 1995 Trust; Blurred scan; transaction-date digits read best-effort
+8217226,1,1,SELF,PEPSICO INC GLB 02.750% MAR 05 2022 R,,sale,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,1,2,SELF,VISA INC GLB 02.800% DEC 14 2022 RATIN,,sale,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,1,3,SELF,WELLS FARGO & COMPANY GLB 02.100%,,sale,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,1,4,SELF,REGIONS FINANCIAL CORP GLB 02.750%,,sale,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,1,5,SELF,MORGAN STANLEY SER MTN 02.625% NO,,sale,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,2,6,SELF,BP CAP MARKETS AMERICA COMPANY G,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,2,7,SELF,JPMORGAN CHASE & CO - 03.900% JUL 15,,sale,2020-04-03,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,2,8,SELF,MERCK & CO INC GLB 02.750% FEB 10 202,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,2,9,SELF,HP ENTERPRISE CO GLB 04.900% OCT 15,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,2,10,SELF,BB&T CORPORATION SER MTN 02.850% O,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,2,11,SELF,AMERICAN INTL GROUP GLB 04.125% FEB,,sale,2020-04-02,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,2,12,SELF,CITIGROUP INC GLB 03.875% OCT 25 2023,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,3,13,SELF,UNITED TECHNOLOGIES CORP GLB 03.65,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,3,14,SELF,THERMO FISHER SCIENTIFIC GLB 04.150%,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,3,15,SELF,APPLE INC GLB 02.400% MAY 03 2023 RAT,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,3,16,SELF,VERIZON COMMUNICATIONS GLB 03.376%,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,3,17,SELF,COMCAST CORP COMPANY GUARNT GLB,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,3,18,SELF,DISNEY (WALT) CO COM STK EXECUTED,,sale,2020-04-28,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,3,19,SELF,VISA INC GLB 02.800% DEC 14 2022 RATIN,,purchase,2020-04-24,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,4,20,SELF,UNITED TECHNOLOGIES CORP GLB 03.95,,purchase,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,4,21,SELF,PFIZER INC GLB 02.200% DEC 15 2021 RA,,purchase,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,4,22,SELF,REGIONS FINANCIAL CORP GLB 02.750%,,purchase,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,4,23,SELF,HP ENTERPRISE CO GLB 04.900% OCT 15,,purchase,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,4,24,SELF,BP CAP MARKETS AMERICA COMPANY G,,purchase,2020-04-23,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,4,25,SELF,INTUITIVE SURGICAL INC NEW PER ADVIS,,sale,2020-04-22,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,4,26,SELF,DEXCOM INC EXECUTED 100% AGENCY A,,sale,2020-04-22,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,5,27,SELF,TWITTER INC PER ADVISORY AGREEMEN,,sale,2020-04-22,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,5,28,SELF,CARVANA CO CL A PER ADVISORY A,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,5,29,SELF,SPOTIFY TECH S.A. REG SHS PER ADVIS,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,5,30,SELF,VEEVA SYS INC CL A PER ADVISORY A,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,5,31,SELF,SHOPIFY INC CL A PER ADVISORY AGREE,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,5,32,SELF,ZOOM VIDEO COMMUNICATIONS INC CL,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,5,33,SELF,SPS COMM INC EXECUTED 100% AGENCY,,purchase,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,6,34,SELF,INOVALON HOLDINGS INC SHS C,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,6,35,SELF,CINEMARK HLDGS INC EXECUTED 100% A,,sale,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,6,36,SELF,TRUIST FINL CORP EXECUTED 100% AGE,,sale,2020-04-08,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,6,37,SELF,CITIGROUP INC GLB 03.875% OCT 25 2023,,sale,2020-03-31,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,6,38,SELF,CHEVRON CORP GLB 02.100% MAY 16 202,,sale,2020-03-30,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,6,39,SELF,CVS HEALTH CORP GLB 03.700% MAR 09,,sale,2020-03-30,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,6,40,SELF,DUNKIN BRANDS GROUP INC UNSOLICITE,,purchase,2020-04-28,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,7,41,SELF,KEYCORP NEW UNSOLICITED Trade#:333,,purchase,2020-04-28,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,7,42,SELF,CITIZENS FINANCIAL GROUP INC Trade#:4,,purchase,2020-04-27,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,7,43,SELF,GARMIN LTD SHS CHF UNSOLICITED Trad,,purchase,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,7,44,SELF,ALLSTATE CORP UNSOLICITED Trade#:15,,purchase,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,7,45,SELF,ANTHEM INC UNSOLICITED Trade#:13590,,purchase,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,7,46,SELF,PROCTER & GAMBLE CO UNSOLICITED T,,purchase,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,7,47,SELF,STERIS PLC UNSOLICITED Trade#:68423,,purchase,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,8,48,SELF,COCA COLA CO COM UNSOLICITED Trade,,purchase,2020-04-16,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,8,49,SELF,SEMPRA ENERGY UNSOLICITED Trade#:5,,purchase,2020-04-16,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,8,50,SELF,INTERCONTINENTALEXCHANGE GROUP,,purchase,2020-04-15,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,8,51,SELF,CHURCH & DWIGHT CO INC UNSOLICITED,,purchase,2020-04-15,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,8,52,SELF,CINN FINANCIAL CORP UNSOLICITED Tra,,purchase,2020-04-15,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,8,53,SELF,PROCTER & GAMBLE CO UNSOLICITED T,,purchase,2020-04-15,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,8,54,SELF,UNITEDHEALTH GROUP INC Trade#:83806,,purchase,2020-04-14,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,9,55,SELF,DANAHER CORP Trade#:37858 Blot:85,,purchase,2020-04-14,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,9,56,SELF,MONDELEZ INTL INC Trade#:48840 Blot:85,,purchase,2020-04-14,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,9,57,SELF,THERMO FISHER SCIENTIFIC INC Trade#:,,purchase,2020-04-14,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,9,58,SELF,UNITEDHEALTH GROUP INC Trade#:65836,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,9,59,SELF,CELANESE CORP NEW UNSOLICITED Tra,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,9,60,SELF,DANAHER CORP Trade#:67889 Blot:85,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,9,61,SELF,GARMIN LTD SHS CHF UNSOLICITED Trad,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,10,62,SELF,LINDE PLC EUR UNSOLICITED Trade#:967,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,10,63,SELF,MONDELEZ INTL INC Trade#:42178 Blot:85,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,10,64,SELF,MEDTRONIC PLC Trade#:08058 Blot:85,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,10,65,SELF,SEMPRA ENERGY UNSOLICITED Trade#:0,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,10,66,SELF,ROPER TECHNOLOGIES INC UNSOLICITED,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,10,67,SELF,THERMO FISHER SCIENTIFIC INC Trade#:,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,10,68,SELF,TRANSUNION UNSOLICITED Trade#:05536,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,11,69,SELF,MARSH & MCLENNAN COS INC UNSOLICIT,,purchase,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,11,70,SELF,NETAPP INC UNSOLICITED Trade#:42188,,purchase,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,11,71,SELF,MARSH & MCLENNAN COS INC UNSOLICIT,,purchase,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,11,72,SELF,STARBUCKS CORP UNSOLICITED Trade#:,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,11,73,SELF,BLACKSTONE GROUP INC CL A Trade#:14,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,11,74,SELF,CITIGROUP INC UNSOLICITED Trade#:143,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,11,75,SELF,HOME DEPOT INC UNSOLICITED Trade#:1,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,12,76,SELF,HONEYWELL INTL INC Trade#:06898 Blot:8,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,12,77,SELF,HONEYWELL INTL INC UNSOLICITED Trad,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,12,78,SELF,LINDE PLC EUR UNSOLICITED Trade#:146,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,12,79,SELF,WALMART INC UNSOLICITED Trade#:1430,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,12,80,SELF,WILLIS TOWERS WATSON PUB LTD CO Tr,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,12,81,SELF,WASTE MGMT INC NEW UNSOLICITED Tra,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,12,82,SELF,MERCK & CO INC NEW COM UNSOLICITED,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,13,83,SELF,METLIFE INC UNSOLICITED Trade#:14580,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,13,84,SELF,NORFOLK STHN CORP UNSOLICITED Trad,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,13,85,SELF,NEXTERA ENERGY INC COM UNSOLICITED,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,13,86,SELF,AMERIPRISE FINANCIAL INC UNSOLICITED,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,13,87,SELF,COMCAST CORP NEW CL A Trade#:06946,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,13,88,SELF,AUTOMATIC DATA PROCESSNG INC Trade,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,13,89,SELF,AMERICAN TOWER CORP REIT UNSOLICIT,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,14,90,SELF,BROADRIDGE FINANCIAL SOLUTIONS INC,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,14,91,SELF,CME GROUP INC UNSOLICITED Trade#:14,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,14,92,SELF,CHEVRON CORP UNSOLICITED Trade#:14,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,14,93,SELF,COCA COLA CO COM UNSOLICITED Trade,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,14,94,SELF,CELANESE CORP NEW UNSOLICITED Tra,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,14,95,SELF,CYRUSONE INC REIT UNSOLICITED Trade,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,14,96,SELF,DTE ENERGY CO UNSOLICITED Trade#:14,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,15,97,SELF,WALT DISNEY CO (HOLDING CO) DISNEY C,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,15,98,SELF,DOVER CORP UNSOLICITED Trade#:14568,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,15,99,SELF,EXXON MOBIL CORP UNSOLICITED Trade,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,15,100,SELF,ESSEX PROPERTY TRUST INC UNSOLICITE,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,15,101,SELF,BROADCOM INC UNSOLICITED Trade#:14,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,15,102,SELF,ONEOK INC NEW UNSOLICITED Trade#:14,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,15,103,SELF,PUBLIC STORAGE REIT UNSOLICITED Tra,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,16,104,SELF,PHILIP MORRIS INTL INC UNSOLICITED T,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,16,105,SELF,PROCTER & GAMBLE CO UNSOLICITED T,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,16,106,SELF,PRIMERICA INC UNSOLICITED Trade#:145,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,16,107,SELF,PROLOGIS INC COM UNSOLICITED Trade#,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,16,108,SELF,ROPER TECHNOLOGIES INC UNSOLICITED,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,16,109,SELF,TEXAS INSTRUMENTS UNSOLICITED Trad,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,16,110,SELF,TRANSUNION UNSOLICITED Trade#:14261,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,17,111,SELF,VALERO ENERGY CORP NEW UNSOLICITE,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,17,112,SELF,VALERO ENERGY CORP NEW UNSOLICITE,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,17,113,SELF,ABBOTT LABS UNSOLICITED Trade#:14513,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,17,114,SELF,AMER ELECTRIC POWER CO UNSOLICITED,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,17,115,SELF,AMER EXPRESS CO UNSOLICITED Trade#,,purchase,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,17,116,SELF,AMERIPRISE FINANCIAL INC Trade#:06921,,purchase,2020-04-07,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,17,117,SELF,WILLIAMS SONOMA INC UNSOLICITED Tr,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,18,118,SELF,KEYCORP NEW UNSOLICITED Trade#:364,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,18,119,SELF,KIMCO REALTY CORP UNSOLICITED Trad,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,18,120,SELF,MAGNA INTL INC CL A SUB VTG CANADA,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,18,121,SELF,MERCK & CO INC NEW COM UNSOLICITED,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,18,122,SELF,OLD REPUBLIC INTL CORP UNSOLICITED,,purchase,2020-04-06,2020-05-07,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,18,123,SELF,PFIZER INC UNSOLICITED Trade#:36499,,purchase,2020-04-06,2020-05-07,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,18,124,SELF,WHIRLPOOL CORP UNSOLICITED Trade#:,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,19,125,SELF,BRIXMOR PPTY GROUP INC REIT Trade#:,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,19,126,SELF,CISCO SYSTEMS INC UNSOLICITED Trade,,purchase,2020-04-06,2020-05-07,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,19,127,SELF,CITIZENS FINANCIAL GROUP INC Trade#:,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,19,128,SELF,CUMMINS INC UNSOLICITED Trade#:36481,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,19,129,SELF,BCE INC NEW CAD UNSOLICITED Trade#:,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,19,130,SELF,EASTMAN CHEMICAL CO UNSOLICITED T,,purchase,2020-04-06,2020-05-07,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,19,131,SELF,FIDELITY NATIONAL FINANCIAL IN COM T,,purchase,2020-04-06,2020-05-07,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,20,132,SELF,BROADCOM INC UNSOLICITED Trade#:364,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,20,133,SELF,CITIGROUP INC UNSOLICITED Trade#:365,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,20,134,SELF,HUNTINGTON BANCSHARES UNSOLICITED,,purchase,2020-04-06,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,20,135,SELF,LYONDELLBASELL INDUSTRIES N V SHS -,,purchase,2020-04-06,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,20,136,SELF,ABBOTT LABS UNSOLICITED Trade#:7640,,purchase,2020-04-03,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,20,137,SELF,ABBVIE INC COM UNSOLICITED Trade#:61,,purchase,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,20,138,SELF,JPMORGAN CHASE & CO UNSOLICITED T,,purchase,2020-04-01,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,21,139,SELF,MCDONALDS CORP UNSOLICITED Trade#,,sale,2020-04-28,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; faint scan; notification date may read 5/8/20
+8217226,21,140,SELF,KIMCO REALTY CORP UNSOLICITED Trad,,sale,2020-04-27,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,21,141,SELF,BANK OF AMER CORP UNSOLICITED Trad,,sale,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,21,142,SELF,BEST BUY CO INC UNSOLICITED Trade#:1,,sale,2020-04-23,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,21,143,SELF,ABBOTT LABS UNSOLICITED Trade#:6732,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,21,144,SELF,AVERY DENNISON CORP UNSOLICITED T,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,21,145,SELF,BLACKSTONE MTG TR INC REIT Trade#:7,,sale,2020-04-20,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,22,146,SELF,LAUDER ESTEE COS CL A UNSOLICITED,,sale,2020-05-20,2020-05-06,A,medium,"Typed on paper form; asset name cut off at the box edge on the scan; trade date printed as 5/20/20, after the 5/6/20 notification date; probably 4/20/20"
+8217226,22,147,SELF,BRIXMOR PPTY GROUP INC REIT Trade#:1,,sale,2020-04-16,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,22,148,SELF,CHEVRON CORP UNSOLICITED Trade#:56,,sale,2020-04-16,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,22,149,SELF,KIMCO REALTY CORP UNSOLICITED Trad,,sale,2020-04-16,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,22,150,SELF,HONEYWELL INTL INC Trade#:26927 Blot:8,,sale,2020-04-14,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,22,151,SELF,LAUDER ESTEE COS CL A Trade#:61692 B,,sale,2020-04-14,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,22,152,SELF,STRYKER CORP UNSOLICITED Trade#:473,,sale,2020-04-14,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,23,153,SELF,VERIZON COMMUNICATIONS INC Trade#:,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,23,154,SELF,COSTCO WHOLESALE CORP UNSOLICITED,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,23,155,SELF,HOME DEPOT INC Trade#:24662 Blot:85,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,23,156,SELF,HONEYWELL INTL INC Trade#:33365 Blot:8,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,23,157,SELF,LAUDER ESTEE COS CL A Trade#:51032 B,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,23,158,SELF,LOWES COMPANIES INC Trade#:56951 Bl,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,23,159,SELF,NIKE INC CL B UNSOLICITED Trade#:9544,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,24,160,SELF,NEXTERA ENERGY INC COM UNSOLICITED,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,24,161,SELF,PROLOGIS INC COM UNSOLICITED Trade#,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,24,162,SELF,CROWN CASTLE INTL CORP REIT Trade#:,,sale,2020-04-09,2020-05-06,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,24,163,SELF,LOCKHEED MARTIN CORP UNSOLICITED,,sale,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,24,164,SELF,MORGAN STANLEY UNSOLICITED Trade#:,,sale,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,24,165,SELF,MEDTRONIC PLC UNSOLICITED Trade#:25,,sale,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,24,166,SELF,ROSS STORES INC UNSOLICITED Trade#:,,sale,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,25,167,SELF,WILLIS TOWERS WATSON PUB LTD CO Tr,,sale,2020-04-09,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,25,168,SELF,KANSAS CITY STHN NEW UNSOLICITED T,,sale,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,25,169,SELF,STRYKER CORP UNSOLICITED Trade#:721,,sale,2020-04-03,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,25,170,SELF,LAMAR ADVERTISING CO NEW CL A Trade,,sale,2020-04-02,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,25,171,SELF,LOCKHEED MARTIN CORP UNSOLICITED,,sale,2020-04-01,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,25,172,SELF,MONTGOMERY CNTY TN FOR I SR A BE/R/,,purchase,2020-04-22,2020-05-08,D,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,25,173,SELF,RUTHERFORD CNTY TN BE/R/ Trade#:523,,purchase,2020-04-17,2020-05-08,D,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,26,174,SELF,CISCO SYSTEMS INC DE Trade#:26802 Bl,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,26,175,SELF,CHUBB LTD CHF DE Trade#:26801 Blot:85,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,26,176,SELF,JOHNSON & JOHNSON COM DE Trade#:27,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,26,177,SELF,UNION PACIFIC CORP DE Trade#:26806 B,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,26,178,SELF,UNION PACIFIC CORP DE Trade#:27346 B,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,26,179,SELF,OTIS WORLDWIDE CORP DE Trade#:98096,,sale,2020-04-08,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,26,180,SELF,CARRIER GLOBAL CORP DE Trade#:98095,,sale,2020-04-08,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,27,181,SELF,HOME DEPOT INC DE Trade#:27341 Blot:8,,sale,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,27,182,SELF,JPMORGAN CHASE & CO DE Trade#:26803,,sale,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,27,183,SELF,REPUBLIC SERVICES INC DE Trade#:2680,,sale,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,27,184,SELF,TEXAS INSTRUMENTS DE Trade#:26805 B,,sale,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,27,185,SELF,TRUIST FINL CORP DE Trade#:27345 Blot:,,sale,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,27,186,SELF,DANAHER CORP DE Trade#:49587 Blot:85,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,27,187,SELF,MONDELEZ INTL INC DE Trade#:50046 Blo,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,28,188,SELF,MEDTRONIC PLC DE Trade#:50047 Blot:85,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,28,189,SELF,THERMO FISHER SCIENTIFIC INC Trade#:4,,purchase,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,28,190,SELF,CISCO SYSTEMS INC DE Trade#:26802 Bl,,purchase,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 26 line 1
+8217226,28,191,SELF,CHUBB LTD CHF DE Trade#:26801 Blot:85,,purchase,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 26 line 2
+8217226,28,192,SELF,JOHNSON & JOHNSON COM DE Trade#:27,,purchase,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same row as page 26 line 3
+8217226,28,193,SELF,NOVARTIS AG SPON ADR DE Trade#:2734,,purchase,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,28,194,SELF,UNION PACIFIC CORP DE Trade#:26806 B,,purchase,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 26 line 4
+8217226,29,195,SELF,UNION PACIFIC CORP DE Trade#:27346 B,,purchase,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 26 line 5
+8217226,29,196,SELF,LAUDER ESTEE COS CL A DE Trade#:4958,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,29,197,SELF,BOEING COMPANY DE Trade#:51079 Blot:,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,29,198,SELF,HOME DEPOT INC DE Trade#:49589 Blot:8,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,29,199,SELF,HONEYWELL INTL INC DE Trade#:50044 B,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,29,200,SELF,LOWES COMPANIES INC DE Trade#:50045,,sale,2020-04-13,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,29,201,SELF,OTIS WORLDWIDE CORP DE Trade#:98096,,sale,2020-04-08,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 26 line 6
+8217226,30,202,SELF,CARRIER GLOBAL CORP Trade#:89590 Bl,,sale,2020-04-07,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,30,203,SELF,TRUIST FINL CORP DE Trade#:27345 Blot:,,sale,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 27 line 5
+8217226,30,204,SELF,HOME DEPOT INC DE Trade#:27341 Blot:8,,sale,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 27 line 1
+8217226,30,205,SELF,JPMORGAN CHASE & CO DE Trade#:26803,,sale,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 27 line 2
+8217226,30,206,SELF,REPUBLIC SERVICES INC DE Trade#:2680,,sale,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same row as page 27 line 3
+8217226,30,207,SELF,ROCKWELL AUTOMATION INC NEW Trade,,sale,2020-04-06,2020-05-06,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217226,30,208,SELF,TEXAS INSTRUMENTS DE Trade#:26805 B,,sale,2020-04-06,2020-05-06,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; possible duplicate: same trade number as page 27 line 4
+8217291,1,1,SELF,RedemptionCAPITAL ONE FINANCIAL CO G,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,1,2,SELF,HOME DEPOT INC GLB 02.625% JUN 01 20,,sale,2020-04-29,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,1,3,SELF,ROYAL BANK OF CANADA SER GMTN GLB,,sale,2020-04-29,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,1,4,SELF,NORTHROP GRUMMAN CORP GLB 03.250,,sale,2020-04-29,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,1,5,SELF,EOG RESOURCES INC GLB 02.625% MAR,,sale,2020-04-29,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,2,6,SELF,CHEVRON CORP GLB 02.100% MAY 16 202,,sale,2020-04-29,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,2,7,SELF,SLACK TECHNOLOGIES INC CL A EXECUT,,sale,2020-05-22,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,2,8,SELF,GOLDMAN SACHS GROUP INC GLB 02.600,,purchase,2020-05-20,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,2,9,SELF,CATALENT INC SHS EXECUTED 100% AGE,,sale,2020-05-15,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,2,10,SELF,SP PLUS CORP EXECUTED 100% AGENCY,,purchase,2020-05-15,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,2,11,SELF,NVIDIA EXECUTED 100% AGENCY ACTUA,,purchase,2020-05-14,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,2,12,SELF,SERVICENOW INC EXECUTED 100% AGEN,,purchase,2020-05-14,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,3,13,SELF,WELLS FARGO & COMPANY GLB 02.100%,,purchase,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,3,14,SELF,WELLS FARGO & CO NEW DEL EXECUTED,,sale,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,3,15,SELF,COMCAST CORP COMPANY GUARNT GLB,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,3,16,SELF,PEPSICO INC GLB 02.750% MAR 05 2022 R,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,3,17,SELF,CVS HEALTH CORP GLB 03.700% MAR 09,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,3,18,SELF,HOME DEPOT INC GLB 02.625% JUN 01 20,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,3,19,SELF,CHEVRON CORP GLB 02.100% MAY 16 202,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,4,20,SELF,MORGAN STANLEY SER MTN 02.625% NO,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,4,21,SELF,APPLE INC GLB 02.400% MAY 03 2023 RAT,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,4,22,SELF,SOUTHERN CO GLB 02.950% JUL 01 2023,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,4,23,SELF,SERVICENOW INC EXECUTED 100% AGEN,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,4,24,SELF,DATADOG INC REG SHS CL A EXECUTED,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,4,25,SELF,SHOPIFY INC CL A PER ADVISORY AGREE,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,4,26,SELF,SPOTIFY TECH S.A. REG SHS PER ADVIS,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,5,27,SELF,VEEVA SYS INC CL A EXECUTED 100%,,,2020-05-12,2020-06-05,A,medium,Typed on paper form; asset name cut off at the box edge on the scan; no transaction type box marked
+8217291,5,28,SELF,COUPA SOFTWARE INC PER ADVISORY A,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,5,29,SELF,SQUARE INC SHS CL A PER ADVISORY,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,5,30,SELF,INTUITIVE SURGICAL INC NEW PER ADVIS,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,5,31,SELF,WAYFAIR INC PER ADVISORY AGREEMEN,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,5,32,SELF,OKTA INC REG SHS CL A PER ADVISORY,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,5,33,SELF,RedemptionCAPITAL ONE FINANCIAL CO G,,,2020-05-12,2020-06-05,A,medium,"Typed on paper form; asset name cut off at the box edge on the scan; no transaction type box marked; a bond redemption, so likely a sale (page 1 reports the same redemption as a sale)"
+8217291,6,34,SELF,AMAZON COM INC COM PER ADVISORY A,,sale,2020-05-07,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,6,35,SELF,DEXCOM INC PER ADVISORY AGREEMEN,,sale,2020-05-07,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,6,36,SELF,SLACK TECHNOLOGIES INC CL A EXECUT,,sale,2020-05-07,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,6,37,SELF,TWILIO INC CL A EXECUTED 100% AGENC,,sale,2020-05-07,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,6,38,SELF,UBER TECHNOLOGIES INC PER ADVISOR,,sale,2020-05-07,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,6,39,SELF,ZOOM VIDEO COMMUNICATIONS INC CL,,sale,2020-05-07,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,6,40,SELF,SQUARE INC SHS CL A PER ADVISORY,,sale,2020-05-07,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,7,41,SELF,MICROSOFT CORP GLB 03.625% DEC 15 2,,purchase,2020-05-01,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,7,42,SELF,WESTERN UNION CO Trade#:72076 Blot:85,,purchase,2020-05-27,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,7,43,SELF,CINN FINANCIAL CORP Trade#:85115 Blot,,purchase,2020-05-22,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,7,44,SELF,CHEMED CORP NEW Trade#:43139 Blot:8,,purchase,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,7,45,SELF,CISCO SYSTEMS INC Trade#:38427 Blot:8,,purchase,2020-05-15,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,7,46,SELF,CHEMED CORP NEW Trade#:42931 Blot:8,,purchase,2020-05-15,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,7,47,SELF,WHIRLPOOL CORP Trade#:07398 Blot:85,,purchase,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,8,48,SELF,DOLLAR GEN CORP NEW Trade#:20025 B,,purchase,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,8,49,SELF,SALESFORCE.COM INC Trade#:12971 Blot,,purchase,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,8,50,SELF,SHERWIN WILLIAMS CO Trade#:96926 Blo,,purchase,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,8,51,SELF,SHERWIN WILLIAMS CO Trade#:36835 Blo,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,8,52,SELF,DOLLAR GEN CORP NEW Trade#:89718 B,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,8,53,SELF,SALESFORCE.COM INC Trade#:19333 Blot,,purchase,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,8,54,SELF,DOLLAR GEN CORP NEW Trade#:01727 B,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,9,55,SELF,SALESFORCE.COM INC Trade#:28230 Blot,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,9,56,SELF,SHERWIN WILLIAMS CO Trade#:70443 Blo,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,9,57,SELF,NEXTERA ENERGY INC COM Trade#:9078,,purchase,2020-05-08,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,9,58,SELF,ALLSTATE CORP Trade#:92497 Blot:85,,purchase,2020-05-08,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,9,59,SELF,HARTFORD FINCL SERVICES GROUP INC,,purchase,2020-05-08,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,9,60,SELF,INTERPUBLIC GROUP OF COS INC Trade#,,purchase,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,9,61,SELF,INTERPUBLIC GROUP OF COS INC Trade#,,purchase,2020-05-06,2020-06-05,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,10,62,SELF,WESTERN UNION CO Trade#:34033 Blot:8,,purchase,2020-05-06,2020-06-05,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,10,63,SELF,NIKE INC CL B Trade#:21000 Blot:85,,purchase,2020-05-01,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,10,64,SELF,HOME DEPOT INC Trade#:83516 Blot:85,,sale,2020-05-22,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,10,65,SELF,APPLE INC Trade#:79553 Blot:85,,sale,2020-05-22,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,10,66,SELF,MASTERCARD INC CL A Trade#:79684 Bl,,sale,2020-05-22,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,10,67,SELF,MICROSOFT CORP Trade#:82382 Blot:85,,sale,2020-05-22,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,10,68,SELF,ROPER TECHNOLOGIES INC Trade#:8140,,sale,2020-05-22,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,11,69,SELF,UNITEDHEALTH GROUP INC Trade#:46194,,sale,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,11,70,SELF,AMAZON.COM INC Trade#:46182 Blot:85,,sale,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,11,71,SELF,ADOBE INC. (DELAWARE) Trade#:46126 B,,sale,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,11,72,SELF,ALPHABET INC CL A Trade#:46170 Blot:85,,sale,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,11,73,SELF,FACEBOOK INC CL A Trade#:46160 Blot:85,,sale,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,11,74,SELF,MICROSOFT CORP Trade#:46095 Blot:85,,sale,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,11,75,SELF,PNC FINANCIAL SERVICES GROUP Trade#,,sale,2020-05-19,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,12,76,SELF,LAMB WESTON HLDGS INC Trade#:41063,,sale,2020-05-15,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,12,77,SELF,PNC FINANCIAL SERVICES GROUP Trade#,,sale,2020-05-15,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,12,78,SELF,HONEYWELL INTL INC Trade#:11560 Blot:8,,sale,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,12,79,SELF,WALT DISNEY CO (HOLDING CO) DISNEY C,,sale,2020-05-13,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,12,80,SELF,WILLIAMS SONOMA INC Trade#:04287 Bl,,sale,2020-05-13,2020-06-05,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,12,81,SELF,O REILLY AUTOMOTIVE INC Trade#:75212,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,12,82,SELF,COMCAST CORP NEW CL A Trade#:12762,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,13,83,SELF,WALT DISNEY CO (HOLDING CO) DISNEY C,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,13,84,SELF,HONEYWELL INTL INC Trade#:79495 Blot:8,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,13,85,SELF,INTERCONTINENTALEXCHANGE GROUP,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,13,86,SELF,MICROSOFT CORP Trade#:22824 Blot:85,,sale,2020-05-12,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,13,87,SELF,PARKER HANNIFIN CORP Trade#:31512 B,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,13,88,SELF,COMCAST CORP NEW CL A Trade#:80726,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,13,89,SELF,WALT DISNEY CO (HOLDING CO) DISNEY C,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,14,90,SELF,HONEYWELL INTL INC Trade#:11379 Blot:8,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,14,91,SELF,INTERCONTINENTALEXCHANGE GROUP,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,14,92,SELF,MICROSOFT CORP Trade#:80421 Blot:85,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,14,93,SELF,O REILLY AUTOMOTIVE INC Trade#:19202,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,14,94,SELF,AMER EXPRESS CO Trade#:94219 Blot:85,,sale,2020-05-08,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,14,95,SELF,CITIGROUP INC Trade#:06763 Blot:85,,sale,2020-05-08,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,14,96,SELF,AES CORP Trade#:31347 Blot:85,,sale,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,15,97,SELF,AES CORP Trade#:39864 Blot:85,,sale,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,15,98,SELF,BRIXMOR PPTY GROUP INC REIT Trade#:4,,sale,2020-05-05,2020-06-05,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,15,99,SELF,TRANSUNION Trade#:22403 Blot:85,,sale,2020-05-01,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,15,100,SELF,TEXAS WTR DEV BRD RV BE/R/ Trade#:19,,purchase,2020-05-19,2020-06-05,D,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,15,101,SELF,DOLLAR GEN CORP NEW DE Trade#:1918,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,15,102,SELF,DOLLAR GEN CORP NEW DE Trade#:1954,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,15,103,SELF,DOLLAR GEN CORP NEW DE Trade#:2006,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,16,104,SELF,SALESFORCE.COM INC DE Trade#:18141,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,16,105,SELF,SALESFORCE.COM INC DE Trade#:19181,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,16,106,SELF,SHERWIN WILLIAMS CO DE Trade#:18145,,purchase,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,16,107,SELF,AMER ELECTRIC POWER CO DE Trade#:2,,purchase,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,16,108,SELF,MARSH & MCLENNAN COS INC DE Trade#,,purchase,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,16,109,SELF,MEDTRONIC PLC DE Trade#:28966 Blot:85,,purchase,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,16,110,SELF,PHILLIPS 66 DE Trade#:28968 Blot:85,,purchase,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,17,111,SELF,WASTE MGMT INC NEW DE Trade#:38859,,sale,2020-05-20,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,17,112,SELF,AUTOMATIC DATA PROCESSNG INC Trade,,sale,2020-05-20,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,17,113,SELF,COLGATE PALMOLIVE CO DE Trade#:3885,,sale,2020-05-20,2020-06-05,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,17,114,SELF,FIFTH THIRD BANCORP DE Trade#:38857,,sale,2020-05-20,2020-06-05,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,17,115,SELF,VERIZON COMMUNICATIONS INC Trade#:,,sale,2020-05-20,2020-06-05,B,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,17,116,SELF,COMCAST CORP NEW CL A DE Trade#:20,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,17,117,SELF,WALT DISNEY CO (HOLDING CO) DISNEY C,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,18,118,SELF,HONEYWELL INTL INC DE Trade#:19183 B,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,18,119,SELF,INTERCONTINENTALEXCHANGE GROUP,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,18,120,SELF,MICROSOFT CORP DE Trade#:19184 Blot:,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,18,121,SELF,PARKER HANNIFIN CORP DE Trade#:1814,,sale,2020-05-11,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,18,122,SELF,RAYTHEON TECHNOLOGIES CORP Trade#,,sale,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,18,123,SELF,COMCAST CORP NEW CL A DE Trade#:28,,sale,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,18,124,SELF,LOCKHEED MARTIN CORP DE Trade#:289,,sale,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,19,125,SELF,SUNCOR ENERGY INC NEW CAD Trade#:2,,sale,2020-05-06,2020-06-05,A,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217291,19,126,SELF,TENNESSEE ST SR A /R/ Trade#:09753 Bl,,sale,2020-05-11,2020-06-05,C,high,Typed on paper form; asset name cut off at the box edge on the scan
+8217233,2,1,SP,TEXAS ST GO WTR FINL ASSISTANCE BDS,,purchase,2020-04-24,2020-05-06,E,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,2,SP,CYPRESS-FAIRBANKS TEX INDPT SC,,purchase,2020-04-16,2020-05-06,D,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,3,SP,ADAMS & ARAPAHOE CNTYS COLO JT,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,4,SP,Avery Dennison Corp,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,5,SP,"Carlisle Companies, Inc.",,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,6,SP,FLORIDA ST BRD ED PUB ED,,purchase,2020-04-03,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,7,SP,GENPACT LTD,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,8,SP,MEMPHIS TENN SAN SEW SYS REV,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,9,SP,GWINNETT CNTY GA DEV AUTH REV,,purchase,2020-04-21,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,10,SP,White Mountains Insurance Group Ltd,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,11,SP,ILLINOIS FIN AUTH REV,,purchase,2020-04-03,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,12,SP,TriMas Corp,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,13,SP,HD Supply Holdings,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,14,SP,Interpublic Group of Companies Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,15,SP,FirstCash Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,16,SP,SONY CORP,,purchase,2020-04-22,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,17,SP,Zions Bancorporation NA,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,18,SP,LAMAR TEX CONS INDPT SCH DIST,,purchase,2020-04-30,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,19,SP,Graham Holdings Co,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,20,SP,Houlihan Lokey Inc,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,21,SP,AON PLC,,purchase,2020-04-21,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,22,SP,Robert Half International Inc.,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,23,SP,BERKLEY W R CORPORATION,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,24,SP,BOSTON SCIENTIFIC CORP,,purchase,2020-04-21,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,25,SP,VARIAN MED SYS INC,,purchase,2020-04-21,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,26,SP,"Arrow Electronics, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,27,SP,Armstrong World Industries Inc,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,28,SP,Trinity Industries Inc,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,29,SP,DENTSPLY SIRONA Inc,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,30,SP,A O SMITH CORP,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,2,31,SP,Kennedy-Wilson Holdings Inc,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '1 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,32,SP,ManpowerGroup Inc.,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,33,SP,"Woodward, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,34,SP,"Valmont Industries, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,35,SP,"Donaldson Company, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,36,SP,Howard Hughes Corp,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,37,SP,"Ryder System, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,38,SP,"ViaSat, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,39,SP,"Penske Automotive Group, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,40,SP,MSC Industrial Direct Co Inc,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,41,SP,"Henry Schein, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,42,SP,Applied Industrial Technologies,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,43,SP,MARRIOTT INTERNATIONAL INC,,purchase,2020-04-03,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,44,SP,"Insight Enterprises, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,45,SP,ENPRO INDUSTRIES INC,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,46,SP,WABCO Holdings Inc.,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,47,SP,ePlus Inc.,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,48,SP,Flowserve Corp,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,49,SP,Phibro Animal Health Corp,,purchase,2020-04-02,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,50,SP,COMCAST CORP,,purchase,2020-04-21,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,51,SP,QUEST DIAGNOSTICS INC,,purchase,2020-04-20,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,52,SP,CHUBB LTD,,purchase,2020-04-17,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,53,SP,DOLLAR TREE INC,,purchase,2020-04-21,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,54,SP,KONINKLIJKE PHILIPS NV,,purchase,2020-04-24,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,55,SP,UNILEVER PLC,,purchase,2020-04-20,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,56,SP,FirstCash Inc,,purchase,2020-04-02,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,57,SP,Kennedy-Wilson Holdings Inc,,purchase,2020-04-03,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,58,SP,"ViaSat, Inc.",,sale,2020-04-15,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,59,SP,RHODE ISLAND HSG & MTG FIN COR,,sale,2020-04-01,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,60,SP,TE CONNECTIVITY LTD,,sale,2020-04-15,2020-05-06,A,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,61,SP,WABCO Holdings Inc.,,sale,2020-04-03,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,62,SP,WELLS FARGO & CO,,sale,2020-04-13,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,3,63,SP,TE CONNECTIVITY LTD,,sale,2020-04-22,2020-05-06,B,high,Typed attachment page '2 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,64,SP,SOUTHWEST AIRLS CO,,sale,2020-04-21,2020-05-06,B,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,65,SP,NORTH LITTLE ROCK ARK ELEC REV,,sale,2020-04-15,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,66,SP,Fiserv Inc,,sale,2020-04-22,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,67,SP,Goldman Sachs Group,,sale,2020-04-15,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,68,SP,MICHIGAN ST HSG DEV AUTH RENTA,,sale,2020-04-01,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,69,SP,COLORADO SPRINGS COLO UTILS RE,,sale,2020-04-09,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,70,SP,RALEIGH-DURHAM N C ARPT AUTH A,,sale,2020-04-06,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,71,SP,CITIGROUP INC,,sale,2020-04-13,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,72,SP,BERKSHIRE HATHAWAY INC,,sale,2020-04-21,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,73,SP,ZOETIS INC,,sale,2020-04-17,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,74,SP,NEW YORK ST MTG AGY HOMEOWNER,,sale,2020-04-08,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,75,SP,UNIVERSITY TEX UNIV REVS,,sale,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,76,SP,ARIZONA ST CTFS PARTN,,sale,2020-04-01,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,77,SP,TEXAS ST VAR VETERANS,,sale,2020-04-28,2020-05-06,E,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (11.9630% INTEREST)
+8217233,4,78,DC,TEXAS ST GO WTR FINL ASSISTANCE BDS,,purchase,2020-04-24,2020-05-06,E,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,79,DC,CYPRESS-FAIRBANKS TEX INDPT SC,,purchase,2020-04-16,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,80,DC,Avery Dennison Corp,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,81,DC,"Carlisle Companies, Inc.",,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,82,DC,ADAMS & ARAPAHOE CNTYS COLO JT,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,83,DC,GENPACT LTD,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,84,DC,FLORIDA ST BRD ED PUB ED,,purchase,2020-04-03,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,85,DC,White Mountains Insurance Group Ltd,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,86,DC,MEMPHIS TENN SAN SEW SYS REV,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,87,DC,GWINNETT CNTY GA DEV AUTH REV,,purchase,2020-04-21,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,88,DC,TriMas Corp,,purchase,2020-04-02,2020-05-06,D,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,89,DC,HD Supply Holdings,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,90,DC,Interpublic Group of Companies Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,91,DC,FirstCash Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,92,DC,Zions Bancorporation NA,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,93,DC,SONY CORP,,purchase,2020-04-22,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,4,94,DC,Graham Holdings Co,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '3 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,95,DC,ILLINOIS FIN AUTH REV,,purchase,2020-04-03,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,96,DC,Houlihan Lokey Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,97,DC,Robert Half International Inc.,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,98,DC,BERKLEY W R CORPORATION,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,99,DC,LAMAR TEX CONS INDPT SCH DIST,,purchase,2020-04-30,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,100,DC,"Arrow Electronics, Inc.",,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,101,DC,Armstrong World Industries Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,102,DC,Trinity Industries Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,103,DC,DENTSPLY SIRONA Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,104,DC,A O SMITH CORP,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,105,DC,Kennedy-Wilson Holdings Inc,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,106,DC,ManpowerGroup Inc.,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,107,DC,"Woodward, Inc.",,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,108,DC,"Valmont Industries, Inc.",,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,109,DC,"Donaldson Company, Inc.",,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,110,DC,AON PLC,,purchase,2020-04-21,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,111,DC,Howard Hughes Corp,,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,112,DC,BOSTON SCIENTIFIC CORP,,purchase,2020-04-21,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,113,DC,"Ryder System, Inc.",,purchase,2020-04-02,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,114,DC,VARIAN MED SYS INC,,purchase,2020-04-21,2020-05-06,C,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,115,DC,"ViaSat, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,116,DC,"Penske Automotive Group, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,117,DC,MSC Industrial Direct Co Inc,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,118,DC,"Henry Schein, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,119,DC,Applied Industrial Technologies,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,120,DC,"Insight Enterprises, Inc.",,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,121,DC,ENPRO INDUSTRIES INC,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,122,DC,MARRIOTT INTERNATIONAL INC,,purchase,2020-04-03,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,123,DC,WABCO Holdings Inc.,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,124,DC,ePlus Inc.,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,125,DC,Flowserve Corp,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,5,126,DC,Phibro Animal Health Corp,,purchase,2020-04-02,2020-05-06,B,high,Typed attachment page '4 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,127,DC,COMCAST CORP,,purchase,2020-04-21,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,128,DC,QUEST DIAGNOSTICS INC,,purchase,2020-04-20,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,129,DC,CHUBB LTD,,purchase,2020-04-17,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,130,DC,DOLLAR TREE INC,,purchase,2020-04-21,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,131,DC,KONINKLIJKE PHILIPS NV,,purchase,2020-04-24,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,132,DC,UNILEVER PLC,,purchase,2020-04-20,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,133,DC,FirstCash Inc,,purchase,2020-04-02,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,134,DC,Kennedy-Wilson Holdings Inc,,purchase,2020-04-03,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,135,DC,"ViaSat, Inc.",,sale,2020-04-15,2020-05-06,A,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,136,DC,RHODE ISLAND HSG & MTG FIN COR,,sale,2020-04-01,2020-05-06,B,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,137,DC,TE CONNECTIVITY LTD,,sale,2020-04-15,2020-05-06,B,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,138,DC,WABCO Holdings Inc.,,sale,2020-04-03,2020-05-06,B,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,139,DC,WELLS FARGO & CO,,sale,2020-04-13,2020-05-06,B,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,140,DC,TE CONNECTIVITY LTD,,sale,2020-04-22,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,141,DC,NORTH LITTLE ROCK ARK ELEC REV,,sale,2020-04-15,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,142,DC,SOUTHWEST AIRLS CO,,sale,2020-04-21,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,143,DC,Fiserv Inc,,sale,2020-04-22,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,144,DC,Goldman Sachs Group,,sale,2020-04-15,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,145,DC,MICHIGAN ST HSG DEV AUTH RENTA,,sale,2020-04-01,2020-05-06,D,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,146,DC,COLORADO SPRINGS COLO UTILS RE,,sale,2020-04-09,2020-05-06,D,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,147,DC,CITIGROUP INC,,sale,2020-04-13,2020-05-06,D,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,148,DC,RALEIGH-DURHAM N C ARPT AUTH A,,sale,2020-04-06,2020-05-06,D,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,149,DC,BERKSHIRE HATHAWAY INC,,sale,2020-04-21,2020-05-06,D,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,150,DC,ZOETIS INC,,sale,2020-04-17,2020-05-06,D,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,151,DC,NEW YORK ST MTG AGY HOMEOWNER,,sale,2020-04-08,2020-05-06,D,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,152,DC,UNIVERSITY TEX UNIV REVS,,sale,2020-04-02,2020-05-06,E,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,153,DC,ARIZONA ST CTFS PARTN,,sale,2020-04-01,2020-05-06,E,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,154,DC,TEXAS ST VAR VETERANS,,sale,2020-04-28,2020-05-06,E,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS LP (13.7024% INTEREST)
+8217233,6,155,SP,WELLS FARGO & CO,,purchase,2020-04-03,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,6,156,SP,STANLEY BLACK & DECKER INC,,purchase,2020-04-15,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,6,157,SP,STANLEY BLACK & DECKER INC,,purchase,2020-04-07,2020-05-06,C,high,Typed attachment page '5 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,158,SP,American International Group Inc,,purchase,2020-04-03,2020-05-06,C,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,159,SP,SYSCO Corporation,,purchase,2020-04-03,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,160,SP,ViacomCBS Inc,,purchase,2020-04-15,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,161,SP,AT&T INC,,purchase,2020-04-20,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,162,SP,CNH INDUSTRIAL NV,,purchase,2020-04-07,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,163,SP,CNH INDUSTRIAL NV,,purchase,2020-04-08,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,164,SP,CNH INDUSTRIAL NV,,purchase,2020-04-09,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,165,SP,CNH INDUSTRIAL NV,,purchase,2020-04-03,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,166,SP,CNH INDUSTRIAL NV,,purchase,2020-04-13,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,167,SP,CNH INDUSTRIAL NV,,purchase,2020-04-06,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,168,SP,CNH INDUSTRIAL NV,,purchase,2020-04-14,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,169,SP,MSC Industrial Direct Co Inc,,sale,2020-04-13,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,170,SP,MSC Industrial Direct Co Inc,,sale,2020-04-08,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,171,SP,MSC Industrial Direct Co Inc,,sale,2020-04-07,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,172,SP,TAPESTRY INC,,sale,2020-04-17,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,173,SP,Carnival Corp,,sale,2020-04-15,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,174,SP,Ally Financial,,sale,2020-04-03,2020-05-06,C,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,175,SP,MSC Industrial Direct Co Inc,,sale,2020-04-14,2020-05-06,C,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,176,SP,LINCOLN NATIONAL CORP,,sale,2020-04-03,2020-05-06,C,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,177,SP,UNITED PARCEL SERVICES,,sale,2020-04-15,2020-05-06,C,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,178,SP,MSC Industrial Direct Co Inc,,sale,2020-04-13,2020-05-06,C,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,179,SP,"ConAgra Brands, Inc",,sale,2020-04-03,2020-05-06,D,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217233,7,180,DC,WELLS FARGO & CO,,purchase,2020-04-03,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,181,DC,STANLEY BLACK & DECKER INC,,purchase,2020-04-15,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,182,DC,STANLEY BLACK & DECKER INC,,purchase,2020-04-07,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,183,DC,American International Group Inc,,purchase,2020-04-03,2020-05-06,B,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,184,DC,SYSCO Corporation,,purchase,2020-04-03,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,185,DC,ViacomCBS Inc,,purchase,2020-04-15,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,186,DC,AT&T INC,,purchase,2020-04-20,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,187,DC,CNH INDUSTRIAL NV,,purchase,2020-04-07,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,7,188,DC,CNH INDUSTRIAL NV,,purchase,2020-04-08,2020-05-06,A,high,Typed attachment page '6 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,189,DC,CNH INDUSTRIAL NV,,purchase,2020-04-09,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,190,DC,CNH INDUSTRIAL NV,,purchase,2020-04-03,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,191,DC,CNH INDUSTRIAL NV,,purchase,2020-04-13,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,192,DC,CNH INDUSTRIAL NV,,purchase,2020-04-06,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,193,DC,CNH INDUSTRIAL NV,,purchase,2020-04-14,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,194,DC,MSC Industrial Direct Co Inc,,sale,2020-04-13,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,195,DC,MSC Industrial Direct Co Inc,,sale,2020-04-08,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,196,DC,MSC Industrial Direct Co Inc,,sale,2020-04-07,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,197,DC,TAPESTRY INC,,sale,2020-04-17,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,198,DC,Carnival Corp,,sale,2020-04-15,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,199,DC,Ally Financial,,sale,2020-04-03,2020-05-06,A,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,200,DC,MSC Industrial Direct Co Inc,,sale,2020-04-14,2020-05-06,B,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,201,DC,LINCOLN NATIONAL CORP,,sale,2020-04-03,2020-05-06,B,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,202,DC,UNITED PARCEL SERVICES,,sale,2020-04-15,2020-05-06,B,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,203,DC,MSC Industrial Direct Co Inc,,sale,2020-04-13,2020-05-06,B,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,204,DC,"ConAgra Brands, Inc",,sale,2020-04-03,2020-05-06,B,high,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217233,8,205,DC,Vanguard Total Stock Market ETF,,sale,2020-04-09,2020-05-06,B,medium,Typed attachment page '7 of 7'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST); owner column blank and the row is not indented under an account; recorded as DC because it sits in the DC block
+8217233,8,206,SP,CULLEN FROST BANKERS,,purchase,2020-04-03,2020-05-06,C,high,Typed attachment page '7 of 7'; account: LLM PARTNERS LTD
+8217233,8,207,DC,CULLEN FROST BANKERS,,purchase,2020-04-03,2020-05-06,C,high,Typed attachment page '7 of 7'; account: LLM PARTNERS LTD
+8217233,8,208,DC,AMAZON.COM INC,,purchase,2020-04-29,2020-05-06,A,high,Typed attachment page '7 of 7'; account: MCCAUL CHILDREN 2001 TRUSTS
+8217233,8,209,DC,BERKSHIRE HATHAWAY INC,,purchase,2020-04-29,2020-05-06,A,high,Typed attachment page '7 of 7'; account: MCCAUL CHILDREN 2001 TRUSTS
+8217233,8,210,DC,MICROSOFT CORP,,purchase,2020-04-29,2020-05-06,A,high,Typed attachment page '7 of 7'; account: MCCAUL CHILDREN 2001 TRUSTS
+8217233,8,211,DC,PIMCO NATIONAL INTERMEDIATE MUNICIPAL BOND FUND INSTITUTIONAL CLASS,,purchase,2020-04-28,2020-05-06,A,high,Typed attachment page '7 of 7'; account: MCCAUL CHILDREN 2001 TRUSTS
+8217233,8,212,DC,Vanguard Total Stock Market ETF,,purchase,2020-04-29,2020-05-06,A,high,Typed attachment page '7 of 7'; account: MCCAUL CHILDREN 2001 TRUSTS
+8217323,2,1,SP,BUILDGROUP LLC,,purchase,2020-05-31,2020-06-05,D,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,2,SP,FORT BEND TEX INDPT SCH DIST,,purchase,2020-05-01,2020-06-05,D,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,3,SP,CALIFORNIA ST,,purchase,2020-05-12,2020-06-05,C,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,4,SP,PROGRESSIVE CORP OHIO,,purchase,2020-05-20,2020-06-05,C,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,5,SP,Comcast Corporation,,purchase,2020-05-08,2020-06-05,C,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,6,SP,SONY CORP,,purchase,2020-05-20,2020-06-05,C,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,7,SP,UNILEVER PLC,,purchase,2020-05-20,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,8,SP,"Henry Schein, Inc.",,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,9,SP,Flowserve Corp,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,10,SP,Robert Half International Inc.,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,11,SP,HD Supply Holdings,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,12,SP,FirstCash Inc,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,13,SP,DENTSPLY SIRONA Inc,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,14,SP,Phibro Animal Health Corp,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,15,SP,PURDUE UNIV IND UNIV REVS,,purchase,2020-05-27,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,16,SP,OHIO HSG FIN AGY SINGLE FAMILY,,sale,2020-05-01,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,17,SP,Graham Holdings Co,,sale,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,18,SP,SMITH & NEPHEW PLC,,sale,2020-05-20,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,19,SP,ManpowerGroup Inc.,,sale,2020-05-15,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,20,SP,EXPEDITORS INTL WASHINGTON INC,,sale,2020-05-20,2020-06-05,A,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,21,SP,FAYETTEVILLE ARK SALES & USE T,,sale,2020-05-01,2020-06-05,B,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,22,SP,"ViaSat, Inc.",,sale,2020-05-15,2020-06-05,B,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,23,SP,ALAMO TEX CMNTY COLLEGE DIST R,,sale,2020-05-01,2020-06-05,B,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,24,SP,PORT SEATTLE WASH REV,,sale,2020-05-01,2020-06-05,B,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,25,SP,TEXAS ST,,sale,2020-05-01,2020-06-05,B,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,26,SP,UNITEDHEALTH GROUP INC,,sale,2020-05-20,2020-06-05,C,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,27,SP,LOS ANGELES CALIF DEPT ARPTS A,,sale,2020-05-15,2020-06-05,C,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,28,SP,Liberty Global PLC Class C,,sale,2020-05-05,2020-06-05,C,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (11.9600% INTEREST)
+8217323,2,29,DC,BUILDGROUP LLC,,purchase,2020-05-31,2020-06-05,D,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,2,30,DC,FORT BEND TEX INDPT SCH DIST,,purchase,2020-05-01,2020-06-05,D,high,Typed attachment page '1 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,31,DC,CALIFORNIA ST,,purchase,2020-05-12,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,32,DC,PROGRESSIVE CORP OHIO,,purchase,2020-05-20,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,33,DC,Comcast Corporation,,purchase,2020-05-08,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,34,DC,SONY CORP,,purchase,2020-05-20,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,35,DC,UNILEVER PLC,,purchase,2020-05-20,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,36,DC,"Henry Schein, Inc.",,purchase,2020-05-15,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,37,DC,Flowserve Corp,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,38,DC,Robert Half International Inc.,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,39,DC,HD Supply Holdings,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,40,DC,FirstCash Inc,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,41,DC,DENTSPLY SIRONA Inc,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,42,DC,Phibro Animal Health Corp,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,43,DC,PURDUE UNIV IND UNIV REVS,,purchase,2020-05-27,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,44,DC,OHIO HSG FIN AGY SINGLE FAMILY,,sale,2020-05-01,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,45,DC,SMITH & NEPHEW PLC,,sale,2020-05-20,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,46,DC,Graham Holdings Co,,sale,2020-05-15,2020-06-05,A,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,47,DC,ManpowerGroup Inc.,,sale,2020-05-15,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,48,DC,EXPEDITORS INTL WASHINGTON INC,,sale,2020-05-20,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,49,DC,FAYETTEVILLE ARK SALES & USE T,,sale,2020-05-01,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,50,DC,"ViaSat, Inc.",,sale,2020-05-15,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,51,DC,ALAMO TEX CMNTY COLLEGE DIST R,,sale,2020-05-01,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,52,DC,PORT SEATTLE WASH REV,,sale,2020-05-01,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,53,DC,TEXAS ST,,sale,2020-05-01,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,54,DC,UNITEDHEALTH GROUP INC,,sale,2020-05-20,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,55,DC,Liberty Global PLC Class C,,sale,2020-05-05,2020-06-05,D,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,56,DC,LOS ANGELES CALIF DEPT ARPTS A,,sale,2020-05-15,2020-06-05,D,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS LP (13.7086% INTEREST)
+8217323,3,57,SP,STANLEY BLACK & DECKER INC,,purchase,2020-05-18,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,3,58,SP,ViacomCBS Inc,,purchase,2020-05-12,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,3,59,SP,SYSCO Corporation,,purchase,2020-05-29,2020-06-05,C,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,3,60,SP,Brixmor Property Group Inc,,purchase,2020-05-05,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,3,61,SP,Brixmor Property Group Inc,,purchase,2020-05-14,2020-06-05,B,high,Typed attachment page '2 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,62,SP,AT&T INC,,purchase,2020-05-15,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,63,SP,CNH Industrial,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,64,SP,CNH Industrial,,purchase,2020-05-14,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,65,SP,CNH Industrial,,purchase,2020-05-18,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,66,SP,UNITED PARCEL SERVICES,,sale,2020-05-14,2020-06-05,C,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,67,SP,UNITED PARCEL SERVICES,,sale,2020-05-18,2020-06-05,C,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,68,SP,Carnival Corp,,sale,2020-05-12,2020-06-05,C,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,69,SP,Carnival Corp,,sale,2020-05-04,2020-06-05,D,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,70,SP,"Darden Restaurants, Inc.",,sale,2020-05-29,2020-06-05,D,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (18.8538% INTEREST)
+8217323,4,71,DC,STANLEY BLACK & DECKER INC,,purchase,2020-05-18,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,72,DC,ViacomCBS Inc,,purchase,2020-05-12,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,73,DC,SYSCO Corporation,,purchase,2020-05-29,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,74,DC,Brixmor Property Group Inc,,purchase,2020-05-05,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,75,DC,Brixmor Property Group Inc,,purchase,2020-05-14,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,76,DC,AT&T INC,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,77,DC,CNH Industrial,,purchase,2020-05-15,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,78,DC,CNH Industrial,,purchase,2020-05-14,2020-06-05,A,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,79,DC,CNH Industrial,,purchase,2020-05-18,2020-06-05,A,medium,"Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST); blurred; date could read 06/18/2020, but that is after the notification date and the matching spouse row is 05/18"
+8217323,4,80,DC,UNITED PARCEL SERVICES,,sale,2020-05-14,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,81,DC,UNITED PARCEL SERVICES,,sale,2020-05-18,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,82,DC,Carnival Corp,,sale,2020-05-12,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,83,DC,Carnival Corp,,sale,2020-05-04,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,84,DC,"Darden Restaurants, Inc.",,sale,2020-05-29,2020-06-05,B,high,Typed attachment page '3 of 3'; account: LLM FAMILY INVESTMENTS II LP (4.5542% INTEREST)
+8217323,4,85,SP,BDT CAPITAL PARTNERS,,purchase,2020-05-20,2020-06-05,D,high,Typed attachment page '3 of 3'; account: LLM PARTNERS LP
+8217323,4,86,DC,BDT CAPITAL PARTNERS,,purchase,2020-05-20,2020-06-05,D,high,Typed attachment page '3 of 3'; account: LLM PARTNERS LP
+8217323,4,87,DC,BUILDGROUP LLC,,purchase,2020-05-20,2020-06-05,D,high,Typed attachment page '3 of 3'; account: 2010 MCCAUL CHILDREN DESCENDANT TRUSTS
