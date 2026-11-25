@@ -111,4 +111,21 @@ A blank owner column is **not** flagged, because on the House form a blank owner
 
 ## Use of this data
 
+## Permitted use
+
+The financial disclosure data on this site comes from reports filed under the
+Ethics in Government Act of 1978, as amended. By law, these reports may not be
+used:
+
+- for any unlawful purpose;
+- for any commercial purpose, other than by news and communications media for
+  dissemination to the general public;
+- for determining or establishing the credit rating of any individual; or
+- for use, directly or indirectly, in the solicitation of money for any
+  political, charitable, or other purpose.
+
+These restrictions apply to anyone who downloads or reuses this data.
+Sources: Clerk of the U.S. House of Representatives, Secretary of the U.S.
+Senate, and the U.S. Office of Government Ethics (OGE).
+
 These reports are public under the Ethics in Government Act. Under [5 U.S.C. § 13107(c)](https://uscode.house.gov/us/usc/119-120/t5/s13107/), it is unlawful to use them for any unlawful purpose, for a commercial purpose (except by news media sharing them with the public), to determine anyone's credit rating, or to solicit money for any political, charitable or other purpose. This project is free, non-commercial and does no fundraising with the data.
